@@ -18,10 +18,10 @@ jobs:
           with:
               python-version: 3.8 #install the python needed
               cache: 'pip'
-        - run: pip install openai
+        - run: pip install -r requirements.txt
         - name: execute poem script # run the run.py to get the latest data
           env: 
-            OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
+            OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           run: |
               python poem.py
               
