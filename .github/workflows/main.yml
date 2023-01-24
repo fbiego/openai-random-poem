@@ -1,0 +1,39 @@
+name: Poem
+on:
+  push:
+    branches: 
+      - main
+  schedule:
+  - cron: "0 0 * * *"
+    
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+        
+        - name: checkout repo content
+          uses: actions/checkout@v2 # checkout the repository content to github runner.
+        - name: setup python
+          uses: actions/setup-python@v2
+          with:
+              python-version: 3.8 #install the python needed
+              cache: 'pip'
+        - run: pip install openai
+        - name: execute poem script # run the run.py to get the latest data
+          env: 
+            OPENAI_API_KEY: ${{secrets.OPENAI_API_KEY}}
+          run: |
+              python poem.py
+              
+        - name: commit files
+          run: |
+                git config --local user.email "fbiego.fb@gmail.com"
+                git config --local user.name "fbiego"
+                git add -A
+                git commit -m "update poem" -a
+        
+        - name: push changes
+          uses: ad-m/github-push-action@v0.6.0
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: main  
