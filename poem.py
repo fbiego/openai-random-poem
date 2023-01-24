@@ -1,6 +1,6 @@
-import openai, os
+import openai, sys
 
-openai.api_key = os.environ(OPENAI_API_KEY)
+openai.api_key = sys.argv[1]
 
 response = openai.Completion.create(
   model="text-davinci-003",
