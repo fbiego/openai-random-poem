@@ -8,7 +8,6 @@ on:
     
 jobs:
     build:
-        environment: Update
         runs-on: ubuntu-latest
         steps:
         
@@ -20,11 +19,9 @@ jobs:
               python-version: 3.8 #install the python needed
               cache: 'pip'
         - run: pip install -r requirements.txt
-        - name: execute poem script # run the run.py to get the latest data
-          env: 
-            OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        - name: execute poem script # run the script
           run: |
-              python poem.py
+              python poem.py ${{ secrets.OPENAI_API_KEY }}
               
         - name: commit files
           run: |
