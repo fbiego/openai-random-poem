@@ -1,6 +1,6 @@
-import openai
+import openai, os
 
-openai.api_key = OPENAI_API_KEY
+openai.api_key = os.environ(OPENAI_API_KEY)
 
 response = openai.Completion.create(
   model="text-davinci-003",
