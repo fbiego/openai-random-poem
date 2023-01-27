@@ -6,26 +6,22 @@
 
 ### today's poem  
   
-Programming, thou art a mystery,  
-A master of algorithms, thou art a history  
-A language that can be learned,  
-But to master it is hard,  
-For it requires a mind full of knowledge and a heart of a bard!  
+Programming is a noble quest,  
+A way to make the world invest  
+In creativity and logic combined,  
+To make something others can't find.  
   
-Programming, thou art a challenge,  
-A skill that requires a balance,  
-It teaches one to think,  
-And how to link,  
-Syntax, variables, and functions in a blink!  
+A language of its own to learn,  
+Lines and symbols to discern.  
+The code is the key to success,  
+It'll take you to the best.  
   
-Programming, thou art a joy,  
-Where one can deploy,  
-An app or a website,  
-That can solve a plight,  
-A puzzle that brings pleasure and delight!  
+A structure of if and else,  
+Of for and while and more.  
+It takes time to master the art,  
+But the rewards are quite a start.  
   
-Programming, thou art a friend,  
-One that never ends,  
-A tool to explore,  
-A way to soar,  
-A field that's full of wonder and lore!
+You'll create things from nothing at all,  
+Things that many thought could not be done.  
+But with programming, you'll prove them wrong,  
+It's the way to go, so come along!
