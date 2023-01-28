@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a noble quest,  
-A way to make the world invest  
-In creativity and logic combined,  
-To make something others can't find.  
+The code is my language, I know it quite well  
+I type it with ease, I'm sure you can tell  
+I'm not an expert, I'm still learning the ropes  
+But I'm getting there, with a few missteps and hopes  
   
-A language of its own to learn,  
-Lines and symbols to discern.  
-The code is the key to success,  
-It'll take you to the best.  
+My skills are improving, my code gets more clean  
+I'm feeling more confident, with each line I complete  
+Though I may stumble, I'm sure I'll succeed  
+I'm learning more and more, this language I read  
   
-A structure of if and else,  
-Of for and while and more.  
-It takes time to master the art,  
-But the rewards are quite a start.  
+Programming allows me to create from the heart  
+No other language can express it so smart  
+It follows a logic, like math in a way  
+Yet it's so expressive, my mind's in its sway  
   
-You'll create things from nothing at all,  
-Things that many thought could not be done.  
-But with programming, you'll prove them wrong,  
-It's the way to go, so come along!
+The code is my language, I'm now quite adept  
+It's a joy to write it, it's an art I respect  
+I'm still learning more, it's a skill I can grow  
+Programming's my passion, I'm sure you know
