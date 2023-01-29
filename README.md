@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-The code is my language, I know it quite well  
-I type it with ease, I'm sure you can tell  
-I'm not an expert, I'm still learning the ropes  
-But I'm getting there, with a few missteps and hopes  
+Programming is a complex art  
+It is the language of computers smart  
+It is a way to solve problems great  
+And it's used in every sector of late.  
   
-My skills are improving, my code gets more clean  
-I'm feeling more confident, with each line I complete  
-Though I may stumble, I'm sure I'll succeed  
-I'm learning more and more, this language I read  
+It is a skill that is in high demand  
+And it can be a part of any grand plan  
+It's used to create things that are unseen  
+And its effects are far reaching and keen.  
   
-Programming allows me to create from the heart  
-No other language can express it so smart  
-It follows a logic, like math in a way  
-Yet it's so expressive, my mind's in its sway  
+It's a way of bringing ideas to life  
+And it's a way of making things right  
+It's a way to make the world more efficient  
+And it's a way to make a big difference.  
   
-The code is my language, I'm now quite adept  
-It's a joy to write it, it's an art I respect  
-I'm still learning more, it's a skill I can grow  
-Programming's my passion, I'm sure you know
+It's a way to make technology advance  
+And it's a way to take a chance  
+It's a way to make the future bright  
+And it's a way to make things right.
