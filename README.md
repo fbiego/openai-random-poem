@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming is a complex art  
-It is the language of computers smart  
-It is a way to solve problems great  
-And it's used in every sector of late.  
+Programming allows us to create,  
+A digital world of endless fate.  
   
-It is a skill that is in high demand  
-And it can be a part of any grand plan  
-It's used to create things that are unseen  
-And its effects are far reaching and keen.  
+Filled with promise, it's a delight,  
+The possibilities are out of sight.  
   
-It's a way of bringing ideas to life  
-And it's a way of making things right  
-It's a way to make the world more efficient  
-And it's a way to make a big difference.  
+To the uninitiated, it's a bore,  
+But those who understand, crave for more.  
   
-It's a way to make technology advance  
-And it's a way to take a chance  
-It's a way to make the future bright  
-And it's a way to make things right.
+It's an exercise in problem-solving,  
+Where the best solutions keep evolving.  
+  
+A code can be written, a game can be made,  
+Programming is a skill that never fades.  
+  
+From a website to a mobile app,  
+Programming is the key to the map.  
+  
+So whether you're using Java or Python,  
+Programming is the language of the future, a given.
