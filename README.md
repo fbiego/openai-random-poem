@@ -6,23 +6,27 @@
 
 ### today's poem  
   
-Programming allows us to create,  
-A digital world of endless fate.  
+Programming, a language of the future  
+A language that can easily be sutured  
+A language that is so complex and deep  
+That its power will help us to leap  
   
-Filled with promise, it's a delight,  
-The possibilities are out of sight.  
+A language that is so versatile and vast  
+That it can help us with tasks of the past  
+A language that can help us build a better future  
+A language that is sure to be a tutor  
   
-To the uninitiated, it's a bore,  
-But those who understand, crave for more.  
+Programming, a language of the future  
+A language that can help us to nurture  
+A language that can help us to innovate  
+And create a better world, free from hate  
   
-It's an exercise in problem-solving,  
-Where the best solutions keep evolving.  
+A language that can make the impossible possible  
+A language that can be used to break our walls  
+A language that can be used to make a change  
+And make our lives better in an exchange  
   
-A code can be written, a game can be made,  
-Programming is a skill that never fades.  
-  
-From a website to a mobile app,  
-Programming is the key to the map.  
-  
-So whether you're using Java or Python,  
-Programming is the language of the future, a given.
+Programming, a language of the future  
+A language that can help us to nurture  
+A language that can help us to create  
+A language that will help us to innovate.
