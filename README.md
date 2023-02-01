@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming, a language of the future  
-A language that can easily be sutured  
-A language that is so complex and deep  
-That its power will help us to leap  
+Programming, an art so divine,  
+So powerful, yet oh so sublime.  
+A powerful tool, to help us succeed,  
+To make our lives so much easier indeed.  
   
-A language that is so versatile and vast  
-That it can help us with tasks of the past  
-A language that can help us build a better future  
-A language that is sure to be a tutor  
+It's a language so complex,  
+A tool that helps us connect.  
+To make our dreams so real,  
+The power of programming we can feel.  
   
-Programming, a language of the future  
-A language that can help us to nurture  
-A language that can help us to innovate  
-And create a better world, free from hate  
+It's a skill that's hard to master,  
+But with practice, it won't be a disaster.  
+So take some time, learn the basics first,  
+Then you can go for more, and be the best.  
   
-A language that can make the impossible possible  
-A language that can be used to break our walls  
-A language that can be used to make a change  
-And make our lives better in an exchange  
-  
-Programming, a language of the future  
-A language that can help us to nurture  
-A language that can help us to create  
-A language that will help us to innovate.
+Programming, a language so powerful and vast,  
+It's a skill that will last.  
+So use your knowledge, for the world to see,  
+Programming is a skill that can help you be free.
