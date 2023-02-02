@@ -6,22 +6,30 @@
 
 ### today's poem  
   
-Programming, an art so divine,  
-So powerful, yet oh so sublime.  
-A powerful tool, to help us succeed,  
-To make our lives so much easier indeed.  
+Softly, the code runs by  
+Like a river meandering  
+Through the night.  
   
-It's a language so complex,  
-A tool that helps us connect.  
-To make our dreams so real,  
-The power of programming we can feel.  
+A gentle, but powerful force  
+It brings forth ideas, of course  
+In the morning's light.  
   
-It's a skill that's hard to master,  
-But with practice, it won't be a disaster.  
-So take some time, learn the basics first,  
-Then you can go for more, and be the best.  
+The syntax, the data, the flow  
+It all comes together, you know  
+To make something grand.  
   
-Programming, a language so powerful and vast,  
-It's a skill that will last.  
-So use your knowledge, for the world to see,  
-Programming is a skill that can help you be free.
+The structure and logic, the lines  
+A program's complexity shines  
+On the programmer's hand.  
+  
+And so, we write and we code  
+Asking ourselves, what is the load  
+That our programs must bear?  
+  
+We build it up and we test  
+To make our programs the best  
+And make them run without fear.  
+  
+So, for all of the coders out there  
+Let's join our voices in the air  
+And sing of our programming!
