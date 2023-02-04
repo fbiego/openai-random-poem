@@ -6,17 +6,34 @@
 
 ### today's poem  
   
-Programming is a language  
-That can be hard to understand  
-But with the right tools and knowledge  
-You can make incredible things that are grand  
+Coding can be hard at times,  
   
-With lines of code, variables and strings  
-You can build apps and websites that truly sing  
-You can create games and tools that help us in life  
-By programming, you can bring joy and delight  
+But it's worth the effort and the grind,  
   
-So if you're wanting to learn  
-Grab a laptop and take a turn  
-Programming is a powerful skill  
-So take it on and get your fill
+When you get it right, it's a beautiful sight,  
+  
+The thrill of accomplishment is divine.  
+  
+You'll make mistakes and get confused,  
+  
+But don't let it make you lose your muse,  
+  
+Always keep your head up,  
+  
+And keep on coding your stuff.  
+  
+Achievements will come with time,  
+  
+For the hard work you put in,  
+  
+You'll learn skills and be able to find,  
+  
+New ways to solve problems within.  
+  
+Programming is a great pursuit,  
+  
+It will give you a sense of accomplishment and repute,  
+  
+Always remember to enjoy the ride,  
+  
+And the rewards will come with tide.
