@@ -6,34 +6,22 @@
 
 ### today's poem  
   
-Coding can be hard at times,  
+Programming is a way of life to me  
+It's like a puzzle of sorts, you see  
+A way to create and build anew  
+From the ground up, me and you  
   
-But it's worth the effort and the grind,  
+A language of symbols and characters  
+Strung together to make a new venture  
+A way to push the boundaries of tech  
+And make something that's truly unique  
   
-When you get it right, it's a beautiful sight,  
+Coding can be a challenge at times  
+But the thrill of success, it outshines  
+It's a way to make the impossible come true  
+And be a part of something new  
   
-The thrill of accomplishment is divine.  
-  
-You'll make mistakes and get confused,  
-  
-But don't let it make you lose your muse,  
-  
-Always keep your head up,  
-  
-And keep on coding your stuff.  
-  
-Achievements will come with time,  
-  
-For the hard work you put in,  
-  
-You'll learn skills and be able to find,  
-  
-New ways to solve problems within.  
-  
-Programming is a great pursuit,  
-  
-It will give you a sense of accomplishment and repute,  
-  
-Always remember to enjoy the ride,  
-  
-And the rewards will come with tide.
+Programming is a way of life to me  
+It's a challenge I relish and see  
+A way to create and build anew  
+From the ground up, me and you
