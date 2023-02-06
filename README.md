@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a way of life to me  
-It's like a puzzle of sorts, you see  
-A way to create and build anew  
-From the ground up, me and you  
+Programming, oh programming,  
+My favorite task of all  
+Combining logic, creativity,  
+To create something grand and tall  
   
-A language of symbols and characters  
-Strung together to make a new venture  
-A way to push the boundaries of tech  
-And make something that's truly unique  
+I learn from my mistakes and successes,  
+And I'm always eager to try  
+To create something of my own,  
+Just like the birds in the sky  
   
-Coding can be a challenge at times  
-But the thrill of success, it outshines  
-It's a way to make the impossible come true  
-And be a part of something new  
+The lines of code, the empty screen,  
+I just have to try  
+Programming is my passion,  
+It's a part of me, I can't deny  
   
-Programming is a way of life to me  
-It's a challenge I relish and see  
-A way to create and build anew  
-From the ground up, me and you
+So when I'm feeling overwhelmed,  
+I look down at my hands  
+For I know that programming is  
+A beautiful art that never ends.
