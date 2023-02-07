@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, oh programming,  
-My favorite task of all  
-Combining logic, creativity,  
-To create something grand and tall  
+Programming, so much to learn  
+A process that can be quite stern  
+A language of ones and zeroes  
+Code that can make the heart of a computer explode  
   
-I learn from my mistakes and successes,  
-And I'm always eager to try  
-To create something of my own,  
-Just like the birds in the sky  
+Syntax and commands that control  
+The power to manipulate and make things whole  
+A sequence of instructions to fulfill a goal  
+A complicated set of rules  
   
-The lines of code, the empty screen,  
-I just have to try  
-Programming is my passion,  
-It's a part of me, I can't deny  
+Debugging can be a long task  
+But the joy of making it work is worth the ask  
+Coding is something that will last  
+A language of beauty and grace  
   
-So when I'm feeling overwhelmed,  
-I look down at my hands  
-For I know that programming is  
-A beautiful art that never ends.
+To program is to create  
+A skill that is hard to replicate  
+A way of thinking to truly innovate  
+An art that will never be replaced
