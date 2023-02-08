@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, so much to learn  
-A process that can be quite stern  
-A language of ones and zeroes  
-Code that can make the heart of a computer explode  
+Programming is like a puzzle,  
+A complex web of code and fuss.  
+It's a journey of discovery,  
+A challenge that can't be rushed.  
   
-Syntax and commands that control  
-The power to manipulate and make things whole  
-A sequence of instructions to fulfill a goal  
-A complicated set of rules  
+It takes dedication and skill  
+To master the art of coding.  
+Tracing through lines of code,  
+A skill that keeps on growing.  
   
-Debugging can be a long task  
-But the joy of making it work is worth the ask  
-Coding is something that will last  
-A language of beauty and grace  
+The syntax and logic to learn,  
+A language that requires patience.  
+A world of possibilities,  
+A realm of imagination.  
   
-To program is to create  
-A skill that is hard to replicate  
-A way of thinking to truly innovate  
-An art that will never be replaced
+Programming can be daunting,  
+But the rewards are worth the effort.  
+Creating something from nothing,  
+A truly wondrous art.
