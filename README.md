@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is an art,  
-Like a canvas, it can start  
-A world from the ground up,  
-Where all can be grown up.  
+Programming, a way to make things anew,  
+A way to reach out to the world, to do  
+Things that have never been done before,  
+A way to push the boundaries, explore  
   
-It is complex and intricate,  
-And yet can give us a tech-based treat.  
-It can bring forth a game,  
-Or even a world of fame.  
+Computer languages, symbols, and codes,  
+A way to make dreams appear, like roads  
+To the future, with lines of code that connect  
+All the people, ideas, and dreams we select  
   
-But it can also be daunting,  
-Where errors can be haunting.  
-But don't let this deter you,  
-There's much that can ensue.  
+Programming, a way to think in new ways,  
+To take the things that we see and create  
+Dreams and ideas, with a click of a key,  
+Lines of code, that set us free  
   
-It's a world of possibilities,  
-Where one can explore and explore endlessly.  
-The sky is the limit,  
-And with practice you can master it.
+Programming, a way to create,  
+To make the things we want to see,  
+From a tiny spark, to a raging flame,  
+Programming is the way to make a change.
