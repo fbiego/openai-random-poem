@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, a way to make things anew,  
-A way to reach out to the world, to do  
-Things that have never been done before,  
-A way to push the boundaries, explore  
+Programming is like a sweet honeycomb  
+With loops and ifs and variables galore  
+The syntax like a puzzle to decode  
+A challenge to explore  
   
-Computer languages, symbols, and codes,  
-A way to make dreams appear, like roads  
-To the future, with lines of code that connect  
-All the people, ideas, and dreams we select  
+A language to learn and a skill to refine  
+Programming can open up a whole new world  
+From a simple HTML tag to complex algorithms  
+It is fun to take a whirl  
   
-Programming, a way to think in new ways,  
-To take the things that we see and create  
-Dreams and ideas, with a click of a key,  
-Lines of code, that set us free  
+A website, an app, a game, or a tool  
+Programming can make it all  
+Bringing ideas to life, it's really quite cool  
+An interesting art to enthrall   
   
-Programming, a way to create,  
-To make the things we want to see,  
-From a tiny spark, to a raging flame,  
-Programming is the way to make a change.
+Programming is never quite the same  
+A unique experience each time  
+A way to express yourself, a way to create  
+Programming is quite sublime!
