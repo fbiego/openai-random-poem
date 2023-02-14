@@ -6,20 +6,32 @@
 
 ### today's poem  
   
-Coding is like art, I'm making it start  
-Creating something from nothing, a brand new part  
+Programming is a deep, dark abyss  
+It can open and close like a fist  
   
-It's a puzzle I'm solving, a complex game  
-To craft something great, I must play my part  
+It's a powerful tool in the hands of the wise  
+It can even surprise the most sophisticated eyes  
   
-Debugging the code, until it's the same  
-I'm building something, with only my brain  
+It can bring order, or it can bring chaos  
+It can build a house, or it can blow it apart  
   
-A program is born, it's my own creation  
-I'm proud of my work, an amazing sensation  
+It can make us laugh, or it can make us cry  
+It can make us think, or it can make us fly  
   
-Programming's a skill, it takes lots of practice  
-It's a journey that's long, an ongoing process  
+Programming is a language all its own  
+It can be learned, but it's never fully known  
   
-But the end result's worth it, when I see it done  
-It's a project I built, with a lot of fun
+It can be a friend, or it can be a foe  
+It can make us think, or it can make us slow  
+  
+Programming can be an art, or it can be a science  
+It can be a challenge, or it can be a nuisance  
+  
+It can create beauty, or it can create destruction  
+It can bring joy, or it can bring disruption  
+  
+Programming is a powerful force that must be respected  
+It can be a blessing, or it can be a curse  
+  
+For those that understand it, there are few things more rewarding  
+It can make you feel like a king, or it can leave you feeling bored
