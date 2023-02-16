@@ -6,17 +6,22 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-A challenge that I love to tussle.  
-Writing code that works just right,  
-Makes me feel like a computer knight.  
+Programming, a complex universe of its own  
+A language that lives within my bones  
+The power of a few lines, to create something grand  
+The challenge of finding the solutions to a problem, so grand  
   
-Logic and structure in perfect harmony,  
-Bugs and errors that I must vanquish quickly.  
-Coding is a creative expression,  
-One that I can't help but obsess.  
+A puzzle of ones and zeroes  
+Solving the problems, until I'm in a daze  
+Coding, a task in which I'm so engaged  
+Creating a masterpiece, despite all of the rage  
   
-A language of numbers and symbols so grand,  
-It's the way to create the future in the palm of my hand.  
-I love to be a programmer,  
-My skill is something that I can offer.
+Debugging, a never-ending cycle  
+Testing, to make sure things are in check  
+Variables, loops, and classes too  
+A coding journey, that I'm so happy to pursue  
+  
+Programming, the language of dreams  
+A world of possibilities that I can explore  
+Creating a complex network of codes  
+To make something beautiful, that I can adore
