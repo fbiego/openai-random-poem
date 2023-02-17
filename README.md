@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, a complex universe of its own  
-A language that lives within my bones  
-The power of a few lines, to create something grand  
-The challenge of finding the solutions to a problem, so grand  
+We write with code, so neat and precise  
+To create things so creative and nice  
+It's a language all its own, special and unique  
+For those with the knowledge to seek  
   
-A puzzle of ones and zeroes  
-Solving the problems, until I'm in a daze  
-Coding, a task in which I'm so engaged  
-Creating a masterpiece, despite all of the rage  
+We build interfaces and programs to run  
+We make apps and websites, just for fun  
+We debug errors, with logical thought  
+For the code to work, it must be taught  
   
-Debugging, a never-ending cycle  
-Testing, to make sure things are in check  
-Variables, loops, and classes too  
-A coding journey, that I'm so happy to pursue  
+We use languages like Python and Java  
+To develop creative solutions that make us laugh  
+We use HTML and CSS, which can make us frown  
+But with a bit of effort, things can turn around  
   
-Programming, the language of dreams  
-A world of possibilities that I can explore  
-Creating a complex network of codes  
-To make something beautiful, that I can adore
+Programming takes patience and practice galore  
+But when your code works, you can't ignore  
+The satisfaction of success and the feeling of pride  
+It's a reward that makes the journey worthwhile
