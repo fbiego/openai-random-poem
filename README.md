@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-We write with code, so neat and precise  
-To create things so creative and nice  
-It's a language all its own, special and unique  
-For those with the knowledge to seek  
+Programming, the dark art of code  
+Twisting ones and zeros, a strange abode  
+From the depths of a computer, a powerful beast  
+A language of symbols, to the least  
   
-We build interfaces and programs to run  
-We make apps and websites, just for fun  
-We debug errors, with logical thought  
-For the code to work, it must be taught  
+A syntax of commands, that must be obeyed  
+A structure of logic, to make a program played  
+A program to run, to make it do  
+A script of code, to make it true  
   
-We use languages like Python and Java  
-To develop creative solutions that make us laugh  
-We use HTML and CSS, which can make us frown  
-But with a bit of effort, things can turn around  
+For a web page to show, or a phone to ring  
+A program to write, is the only thing  
+To play a game, or make a site  
+Programming is the only light  
   
-Programming takes patience and practice galore  
-But when your code works, you can't ignore  
-The satisfaction of success and the feeling of pride  
-It's a reward that makes the journey worthwhile
+To make a computer, a thing of life  
+Programming is the tool, to end the strife  
+A language of logic, to set things right  
+The power of code, to bring the night
