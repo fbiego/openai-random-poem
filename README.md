@@ -6,22 +6,20 @@
 
 ### today's poem  
   
-Programming, the dark art of code  
-Twisting ones and zeros, a strange abode  
-From the depths of a computer, a powerful beast  
-A language of symbols, to the least  
+I write in code, all day long  
+A language of ones and zeroes strong  
+I can solve complex problems, it's true  
+And make computers do things, just for you  
   
-A syntax of commands, that must be obeyed  
-A structure of logic, to make a program played  
-A program to run, to make it do  
-A script of code, to make it true  
+My code is precise, and it works just fine  
+It's my way of expressing, my thoughts and my mind  
+Each line is crafted, with purpose and care  
+To produce a program that people can share  
   
-For a web page to show, or a phone to ring  
-A program to write, is the only thing  
-To play a game, or make a site  
-Programming is the only light  
+I'm a programmer, it's what I do  
+Creating applications, and tinkering too  
+No matter how hard, I never give up  
+I'm determined to fix, whatever bugs I've messed up  
   
-To make a computer, a thing of life  
-Programming is the tool, to end the strife  
-A language of logic, to set things right  
-The power of code, to bring the night
+I'm proud to be a programmer you see  
+It's my way of changing the world, and making it better for me
