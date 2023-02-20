@@ -6,20 +6,22 @@
 
 ### today's poem  
   
-I write in code, all day long  
-A language of ones and zeroes strong  
-I can solve complex problems, it's true  
-And make computers do things, just for you  
+Programming is a skill that none can deny  
+It can be tricky to learn, but it's worth a try  
+For it's used in so many places, and in so many ways  
+It's a challenge that can take a lifetime to master  
   
-My code is precise, and it works just fine  
-It's my way of expressing, my thoughts and my mind  
-Each line is crafted, with purpose and care  
-To produce a program that people can share  
+To learn how to code, you must be patient and bold  
+For while the basics are easy to hold  
+The deeper you go, the more complex it gets  
+But the rewards are worth the effort, no one can forget  
   
-I'm a programmer, it's what I do  
-Creating applications, and tinkering too  
-No matter how hard, I never give up  
-I'm determined to fix, whatever bugs I've messed up  
+Programming can be used for anything from games to finance  
+To create something that's truly immense  
+It's a language that is understood by machines  
+No matter the task, programming is the key  
   
-I'm proud to be a programmer you see  
-It's my way of changing the world, and making it better for me
+So if you have the drive and the ambition  
+To create something that's truly grand  
+Then take up programming and set your dreams in motion  
+And watch as your ideas come to life, in this digital land.
