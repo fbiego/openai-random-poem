@@ -6,22 +6,32 @@
 
 ### today's poem  
   
-Programming is a skill that none can deny  
-It can be tricky to learn, but it's worth a try  
-For it's used in so many places, and in so many ways  
-It's a challenge that can take a lifetime to master  
+A computer is a tool,  
+For programming its rule,  
+A program is the key,  
+For coding the techie.  
   
-To learn how to code, you must be patient and bold  
-For while the basics are easy to hold  
-The deeper you go, the more complex it gets  
-But the rewards are worth the effort, no one can forget  
+A program is a script,  
+To follow a strict,  
+Instructions so clear,  
+To make them appear.  
   
-Programming can be used for anything from games to finance  
-To create something that's truly immense  
-It's a language that is understood by machines  
-No matter the task, programming is the key  
+To program a task,  
+A language must be asked,  
+Whether it's Python or Java,  
+The code must be like lava.  
   
-So if you have the drive and the ambition  
-To create something that's truly grand  
-Then take up programming and set your dreams in motion  
-And watch as your ideas come to life, in this digital land.
+A program must be written,  
+Data must be smitten,  
+From the logic of a mind,  
+Through a language it must find.  
+  
+A program is a story,  
+Told in bits of glory,  
+The message it must contain,  
+To make sure it does remain.  
+  
+To program is to create,  
+A masterpiece of fate,  
+A program can be a thing,  
+To make the world sing.
