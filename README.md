@@ -6,32 +6,22 @@
 
 ### today's poem  
   
-A computer is a tool,  
-For programming its rule,  
-A program is the key,  
-For coding the techie.  
+Programming is a powerful art  
+A way to create, express and impart  
+Making something from nothing at all  
+Though it takes patience and time to install  
   
-A program is a script,  
-To follow a strict,  
-Instructions so clear,  
-To make them appear.  
+You need to think logically and clear  
+Though the journey can be long and appear  
+To be more complex than you can understand  
+It's worth the effort, this I demand  
   
-To program a task,  
-A language must be asked,  
-Whether it's Python or Java,  
-The code must be like lava.  
+Through writing code, a computer will heed  
+Your commands, even if you can't see the need  
+It's a complex puzzle that must be solved  
+For it to work, of this there's no absolve  
   
-A program must be written,  
-Data must be smitten,  
-From the logic of a mind,  
-Through a language it must find.  
-  
-A program is a story,  
-Told in bits of glory,  
-The message it must contain,  
-To make sure it does remain.  
-  
-To program is to create,  
-A masterpiece of fate,  
-A program can be a thing,  
-To make the world sing.
+Programming is a skill to be prized  
+It takes hard work, and can't be disguised  
+But with patience and dedication to learn  
+It can make your dreams come true in turn.
