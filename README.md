@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a powerful art  
-A way to create, express and impart  
-Making something from nothing at all  
-Though it takes patience and time to install  
+I write the code  
+I make it flow  
+I create a program  
+From my head to toe  
   
-You need to think logically and clear  
-Though the journey can be long and appear  
-To be more complex than you can understand  
-It's worth the effort, this I demand  
+I debug and debug  
+I search and I find  
+My code works, I am proud  
+My mind is on my grind  
   
-Through writing code, a computer will heed  
-Your commands, even if you can't see the need  
-It's a complex puzzle that must be solved  
-For it to work, of this there's no absolve  
+I debug again  
+I test and I try  
+My code works, I rejoice  
+I'm sure I won't cry  
   
-Programming is a skill to be prized  
-It takes hard work, and can't be disguised  
-But with patience and dedication to learn  
-It can make your dreams come true in turn.
+I code and code  
+My fingers move quick  
+My passion for programming  
+Is really quite sick  
+  
+I'm proud and I'm happy  
+My brain is full of glee  
+Coding is my passion  
+And I'm so proud to be!
