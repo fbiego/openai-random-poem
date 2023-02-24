@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-I write the code  
-I make it flow  
-I create a program  
-From my head to toe  
+The logic of programming  
+It's a language of its own  
+A web of words and numbers  
+A place to call my home  
   
-I debug and debug  
-I search and I find  
-My code works, I am proud  
-My mind is on my grind  
+Coding and debugging  
+These are the tools I use  
+To create a world of software  
+From a universe of clues  
   
-I debug again  
-I test and I try  
-My code works, I rejoice  
-I'm sure I won't cry  
+The syntax is precise  
+The strings of code aligned  
+To build something grand and complex  
+From a small idea combined  
   
-I code and code  
-My fingers move quick  
-My passion for programming  
-Is really quite sick  
+It's a challenge and a thrill  
+To build a program that works  
+But it's worth the effort  
+When the result is something that lurks  
   
-I'm proud and I'm happy  
-My brain is full of glee  
-Coding is my passion  
-And I'm so proud to be!
+A program that's reliable and secure  
+To solve a problem or two  
+That's the reward of programming  
+That I'm eager to pursue
