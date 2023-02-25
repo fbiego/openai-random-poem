@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-The logic of programming  
-It's a language of its own  
-A web of words and numbers  
-A place to call my home  
+Programming is a form of art  
+A way to express in a new start  
+It takes time and dedication  
+But with it, a world of creation  
   
-Coding and debugging  
-These are the tools I use  
-To create a world of software  
-From a universe of clues  
+The possibilities are endless  
+From apps to websites, you can impress  
+From the low level to the high  
+With just a few lines, you can fly  
   
-The syntax is precise  
-The strings of code aligned  
-To build something grand and complex  
-From a small idea combined  
+Your ideas will come to life  
+Your projects will be rife  
+With a bit of knowledge and skill  
+You can make something that's quite a thrill  
   
-It's a challenge and a thrill  
-To build a program that works  
-But it's worth the effort  
-When the result is something that lurks  
-  
-A program that's reliable and secure  
-To solve a problem or two  
-That's the reward of programming  
-That I'm eager to pursue
+Programming is a great skill  
+It will help you climb the hill  
+So grab a keyboard and start coding  
+And your world will soon be exploding!
