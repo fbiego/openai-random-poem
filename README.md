@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a form of art  
-A way to express in a new start  
-It takes time and dedication  
-But with it, a world of creation  
+Coding is like a game,  
+Creating something new each time.  
+It's a challenge, a puzzle,  
+A way to pass the time.  
   
-The possibilities are endless  
-From apps to websites, you can impress  
-From the low level to the high  
-With just a few lines, you can fly  
+Using logic and problem-solving,  
+Building something complex,  
+The satisfaction of the end result  
+Is often worth the stress.  
   
-Your ideas will come to life  
-Your projects will be rife  
-With a bit of knowledge and skill  
-You can make something that's quite a thrill  
+It's the perfect way to express yourself,  
+Your ideas and your dreams,  
+And it's a craft that never ends,  
+The possibilities seem endless.  
   
-Programming is a great skill  
-It will help you climb the hill  
-So grab a keyboard and start coding  
-And your world will soon be exploding!
+No matter what the language,  
+Whether Java or C++,  
+Programming is a skill that  
+Will never cease to amaze me.
