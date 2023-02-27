@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Coding is like a game,  
-Creating something new each time.  
-It's a challenge, a puzzle,  
-A way to pass the time.  
+A language of its own,  
+programming is the way  
+to make things come alive,  
+with a tap of the keyboard  
   
-Using logic and problem-solving,  
-Building something complex,  
-The satisfaction of the end result  
-Is often worth the stress.  
+Black and white lines of code,  
+each one a command of its own,  
+bring our ideas to life  
+in the blink of an eye  
   
-It's the perfect way to express yourself,  
-Your ideas and your dreams,  
-And it's a craft that never ends,  
-The possibilities seem endless.  
+From websites to applications,  
+it all starts with a plan,  
+determining what each line will do  
+and how it all should connect  
   
-No matter what the language,  
-Whether Java or C++,  
-Programming is a skill that  
-Will never cease to amaze me.
+Each primitive and object  
+becomes a building block,  
+so many intricate pieces  
+that all fit together like a puzzle  
+  
+Coding is the magic  
+that brings our dreams to life,  
+a powerful tool in our hands  
+to build whatever we can imagine
