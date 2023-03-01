@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is my art, my passion, my life  
-A way to make things happen, a way to make things right  
-A way to create and explore, a way to learn from mistakes  
-A way to express my thoughts, emotions, and dreams  
+Programming is an art,  
+That allows us to think smart,  
+A language of the mind,  
+That’s truly divine.  
   
-Programming is a language, a syntax, a way to communicate  
-A way to give life to my ideas, to make them real  
-A way to make things work, a way to make things happen  
-A way to bring my vision of the world to life  
+It’s a way to express,  
+What we think and what we guess,  
+A form of communication,  
+That helps us form a great nation.  
   
-Programming is creativity, logic, and structure  
-A way to shape my ideas, to bring them to fruition  
-A way to communicate with the world, a way to share my knowledge  
-A way to make something out of nothing and make a difference  
+We can write code to solve,  
+Problems that seem to revolve,  
+To build a bridge of trust,  
+Wherever we must.  
   
-Programming is a journey, a challenge, a reward  
-A way to explore and discover, a way to learn and grow  
-A way to push the boundaries, to see what I can do  
-A way to make a mark and make my dreams come true
+It’s a challenge every day,  
+Where we learn and also play,  
+To create new things and make them right,  
+To make our dreams come to light.  
+  
+Programming is a skill,  
+That we must learn with will,  
+It’s an investment of time,  
+That will pay off in no time.
