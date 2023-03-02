@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is an art,  
-That allows us to think smart,  
-A language of the mind,  
-That’s truly divine.  
+Programming is such a complex thing,  
+Languages you must learn, and commands you must bring.  
+From loops to functions, a lot of work you must do,  
+But the rewards are worth it, don't think it untrue.  
   
-It’s a way to express,  
-What we think and what we guess,  
-A form of communication,  
-That helps us form a great nation.  
+Debugging and testing, it's all part of the game,  
+But in the end you will feel so much fame.  
+Designing and coding, a complex art,  
+It's a skill you must learn, right from the start.  
   
-We can write code to solve,  
-Problems that seem to revolve,  
-To build a bridge of trust,  
-Wherever we must.  
+Creating structures and objects, so much to keep in mind,  
+But it's worth it when you find the right kind.  
+Variables and classes have a lot of rules,  
+But when you master them, you will look so cool.  
   
-It’s a challenge every day,  
-Where we learn and also play,  
-To create new things and make them right,  
-To make our dreams come to light.  
-  
-Programming is a skill,  
-That we must learn with will,  
-It’s an investment of time,  
-That will pay off in no time.
+Programming is a challenge, but it's worth its weight in gold,  
+It's a skill that you can use, as you grow old.  
+It's a skill you must learn, if you want to be complete,  
+And if you work hard, you'll be a master in no time, guaranteed.
