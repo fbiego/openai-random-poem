@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-A world of logic and of thought,  
-Where the possibilities are not fraught,  
-A universe of symbols and of signs,  
-Where the pathways and algorithms intertwine.  
+Programming, what can I say?  
+It’s a world of complexities at play  
+Where creativity and logic intertwine  
+And solutions are found with time  
   
-A craft of structure and of syntax,  
-Where the programs are so complex,  
-A syntax to learn so you can understand,  
-The power of the coding in your hand.  
+A seemingly endless journey of learning  
+In a language that can be quite concerning  
+The hours spent debugging, an exercise in patience  
+But a great reward when the job is complete  
   
-The programs have a life all their own,  
-Able to beat any challenge thrown,  
-The challenge lies in writing the code,  
-And the reward is seeing it unfold.  
+A way to turn ideas into reality  
+As a programmer, you have the ability  
+To create something that's so unique  
+That it can make the world go weak  
   
-A language of machines and of machines,  
-Where the code is like a living dream,  
-A world of programming and of code,  
-Where the possibilities are truly broad.
+So if you want to create something grand  
+Programming is the place to land  
+It’s a challenge, but so worth it in the end  
+To create something that stands out from the rest.
