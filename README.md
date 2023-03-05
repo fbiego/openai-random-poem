@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, what can I say?  
-It’s a world of complexities at play  
-Where creativity and logic intertwine  
-And solutions are found with time  
+Programming is like a tool  
+It can help you to create a pool  
+Of functions and variables galore  
+To help with complex software  
   
-A seemingly endless journey of learning  
-In a language that can be quite concerning  
-The hours spent debugging, an exercise in patience  
-But a great reward when the job is complete  
+Coding is like a language  
+It requires time and patience  
+To create a masterpiece  
+That will impress us all  
   
-A way to turn ideas into reality  
-As a programmer, you have the ability  
-To create something that's so unique  
-That it can make the world go weak  
+Debugging is like a puzzle  
+It can be difficult to juggle  
+The syntax and semantics  
+To make it all work  
   
-So if you want to create something grand  
-Programming is the place to land  
-It’s a challenge, but so worth it in the end  
-To create something that stands out from the rest.
+Programming is like a key  
+It unlocks the secrets of technology  
+To unlock a world of possibilities  
+And lead us to a brighter future
