@@ -6,22 +6,17 @@
 
 ### today's poem  
   
-Programming is like a tool  
-It can help you to create a pool  
-Of functions and variables galore  
-To help with complex software  
+Programming is a skill that's highly sought,  
+A language of commands that we ought  
+To learn and master to help us stay ahead,  
+With creativity, complexity is fed.  
   
-Coding is like a language  
-It requires time and patience  
-To create a masterpiece  
-That will impress us all  
+It takes practice and patience of a kind,  
+To be successful in this field of mind.  
+For the code to be written,  
+It takes effort, not just a smitten.  
   
-Debugging is like a puzzle  
-It can be difficult to juggle  
-The syntax and semantics  
-To make it all work  
-  
-Programming is like a key  
-It unlocks the secrets of technology  
-To unlock a world of possibilities  
-And lead us to a brighter future
+But when the process is complete,  
+The reward is so very sweet.  
+For the effort and the time,  
+The joy of coding is sublime.
