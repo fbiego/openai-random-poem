@@ -6,17 +6,22 @@
 
 ### today's poem  
   
-Programming is a skill that's highly sought,  
-A language of commands that we ought  
-To learn and master to help us stay ahead,  
-With creativity, complexity is fed.  
+Programming is like a game,  
+That you can play to ease your brain.  
+It's a way to solve complex problems,  
+And make a computer do what you want it to.  
   
-It takes practice and patience of a kind,  
-To be successful in this field of mind.  
-For the code to be written,  
-It takes effort, not just a smitten.  
+It's like a puzzle that you design,  
+A code so intricate and fine.  
+You can make a program for any need,  
+And have it run with perfect speed.  
   
-But when the process is complete,  
-The reward is so very sweet.  
-For the effort and the time,  
-The joy of coding is sublime.
+It's a skill that requires a lot of learning,  
+But it can be quite rewarding.  
+You can make a website or a mobile app,  
+And solve problems with a snap.  
+  
+Programming is not easy to master,  
+But its rewards can last forever.  
+It's a challenging and rewarding task,  
+That will make you work harder and faster.
