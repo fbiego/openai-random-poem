@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a game,  
-That you can play to ease your brain.  
-It's a way to solve complex problems,  
-And make a computer do what you want it to.  
+Programming is a language,  
+A way of speaking without words,  
+A way to create an image  
+That can be seen and heard.  
   
-It's like a puzzle that you design,  
-A code so intricate and fine.  
-You can make a program for any need,  
-And have it run with perfect speed.  
+Programming is a science,  
+A way of understanding,  
+A way to make the impossible  
+Seem like a simple thing.  
   
-It's a skill that requires a lot of learning,  
-But it can be quite rewarding.  
-You can make a website or a mobile app,  
-And solve problems with a snap.  
+Programming is an art,  
+A way of seeing the world,  
+A way to give life to ideas  
+That would otherwise remain unfurled.  
   
-Programming is not easy to master,  
-But its rewards can last forever.  
-It's a challenging and rewarding task,  
-That will make you work harder and faster.
+Programming is a puzzle,  
+A way of solving problems,  
+A way to give a voice  
+To those without one who are doomed.  
+  
+Programming is a power,  
+A way of changing the world,  
+A way to make a difference  
+And open up a new world.
