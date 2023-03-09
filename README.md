@@ -6,27 +6,32 @@
 
 ### today's poem  
   
-Programming is a language,  
-A way of speaking without words,  
-A way to create an image  
-That can be seen and heard.  
+A world of ones and zeroes,  
+A language of endless woes,  
+Strange symbols on a page,  
+An interlocking cage.  
   
-Programming is a science,  
-A way of understanding,  
-A way to make the impossible  
-Seem like a simple thing.  
+A jumble of abstraction,  
+A network of relations,  
+A code of intricate parts,  
+A puzzle for the smart.  
   
-Programming is an art,  
-A way of seeing the world,  
-A way to give life to ideas  
-That would otherwise remain unfurled.  
+A process of deduction,  
+A journey of production,  
+A challenge of creation,  
+A mind of computation.  
   
-Programming is a puzzle,  
-A way of solving problems,  
-A way to give a voice  
-To those without one who are doomed.  
+A field of potential,  
+A chance to be essential,  
+A start to something great,  
+A chance to innovate.  
   
-Programming is a power,  
-A way of changing the world,  
-A way to make a difference  
-And open up a new world.
+A language of machines,  
+A way to make things unseen,  
+A way to make them real,  
+A way to make them feel.  
+  
+A way to shape the world,  
+A way to make it whirled,  
+A way to make it right,  
+A way to code the night.
