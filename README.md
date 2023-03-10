@@ -6,32 +6,32 @@
 
 ### today's poem  
   
-A world of ones and zeroes,  
-A language of endless woes,  
-Strange symbols on a page,  
-An interlocking cage.  
+Programming so powerful,  
+It's like an art,  
+It brings ideas to life,  
+A computer's true heart.  
   
-A jumble of abstraction,  
-A network of relations,  
-A code of intricate parts,  
-A puzzle for the smart.  
+From basic to complex,  
+It's all so divine,  
+The power of programming,  
+Can make things shine.  
   
-A process of deduction,  
-A journey of production,  
-A challenge of creation,  
-A mind of computation.  
+Creating a website,  
+or making a game,  
+The possibilities,  
+Are all the same.  
   
-A field of potential,  
-A chance to be essential,  
-A start to something great,  
-A chance to innovate.  
+No matter the language,  
+The logic remains,  
+Programming can make,  
+A program to explain.  
   
-A language of machines,  
-A way to make things unseen,  
-A way to make them real,  
-A way to make them feel.  
+From C++ to Java,  
+From SQL to HTML,   
+Programming is the key,  
+To making things swell.  
   
-A way to shape the world,  
-A way to make it whirled,  
-A way to make it right,  
-A way to code the night.
+A computer won't work,  
+Without commands to follow,  
+Programming can make,  
+A computer to hallow.
