@@ -6,32 +6,23 @@
 
 ### today's poem  
   
-Programming so powerful,  
-It's like an art,  
-It brings ideas to life,  
-A computer's true heart.  
+A machine of code and logic,  
   
-From basic to complex,  
-It's all so divine,  
-The power of programming,  
-Can make things shine.  
+A language that's complex and wide;  
+A way to make computers think,  
+A program that's so refined.  
   
-Creating a website,  
-or making a game,  
-The possibilities,  
-Are all the same.  
+A maze of systems and algorithms,  
+A mind that's so precise;  
+A programmer's guide to the world,  
+And a way to make things nice.  
   
-No matter the language,  
-The logic remains,  
-Programming can make,  
-A program to explain.  
+A way to solve a problem,  
+A tool to make something cool;  
+A way to help the world progress,  
+And to make things that are new.  
   
-From C++ to Java,  
-From SQL to HTML,   
-Programming is the key,  
-To making things swell.  
-  
-A computer won't work,  
-Without commands to follow,  
-Programming can make,  
-A computer to hallow.
+It takes patience, skill and practice,  
+To make something so sublime;  
+A programmer's art, of coding and more,  
+Is a passion that's hard to define.
