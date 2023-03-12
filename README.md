@@ -6,23 +6,22 @@
 
 ### today's poem  
   
-A machine of code and logic,  
+A language of numbers and symbols so strange  
+A puzzle and challenge each time you arrange  
+A program to be created and written anew  
+A world of possibilities awaits you  
   
-A language that's complex and wide;  
-A way to make computers think,  
-A program that's so refined.  
+A series of commands, from a to z  
+A pattern of thought that is so unique  
+A formula of coding, each step so precise  
+A program that will work is your prize  
   
-A maze of systems and algorithms,  
-A mind that's so precise;  
-A programmer's guide to the world,  
-And a way to make things nice.  
+A vision of ideas, a problem to solve  
+A journey of programming, there's no one to solve  
+A set of instructions to guide you along  
+The logic to make it all strong  
   
-A way to solve a problem,  
-A tool to make something cool;  
-A way to help the world progress,  
-And to make things that are new.  
-  
-It takes patience, skill and practice,  
-To make something so sublime;  
-A programmer's art, of coding and more,  
-Is a passion that's hard to define.
+A structure of syntax, a line at a time  
+A puzzle that's waiting to be solved in its prime  
+A program that works, a job well done  
+The thrill of success, the satisfaction's won!
