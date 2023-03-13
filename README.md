@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-A language of numbers and symbols so strange  
-A puzzle and challenge each time you arrange  
-A program to be created and written anew  
-A world of possibilities awaits you  
+Programming is like a puzzle  
+A challenge I can't refuse  
+Piecing it together bit by bit  
+The code I must produce  
   
-A series of commands, from a to z  
-A pattern of thought that is so unique  
-A formula of coding, each step so precise  
-A program that will work is your prize  
+I sometimes get stuck and frustrated  
+But I can't give up the fight  
+So I take a break and try again  
+To get it just right  
   
-A vision of ideas, a problem to solve  
-A journey of programming, there's no one to solve  
-A set of instructions to guide you along  
-The logic to make it all strong  
+Programming makes me think  
+It's a game I can't resist  
+I must figure out each step  
+To complete the task I've missed  
   
-A structure of syntax, a line at a time  
-A puzzle that's waiting to be solved in its prime  
-A program that works, a job well done  
-The thrill of success, the satisfaction's won!
+I'm determined to succeed  
+No matter how hard it may seem  
+Figuring out this code  
+Is my favorite coding dream
