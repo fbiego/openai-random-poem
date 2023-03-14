@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is like a puzzle  
-A challenge I can't refuse  
-Piecing it together bit by bit  
-The code I must produce  
+Programming is like an art  
+A puzzle to solve and a part  
+It requires concentration and skill  
+To make something that runs, without a spill  
   
-I sometimes get stuck and frustrated  
-But I can't give up the fight  
-So I take a break and try again  
-To get it just right  
+The challenge of learning the code  
+Can be daunting and hard to decode  
+But once you understand the flow  
+You can create something that can really go  
   
-Programming makes me think  
-It's a game I can't resist  
-I must figure out each step  
-To complete the task I've missed  
+It's a language that's meant to be shared  
+With a community that's always there  
+To help you out when you're stuck  
+It's an incredibly rewarding luck  
   
-I'm determined to succeed  
-No matter how hard it may seem  
-Figuring out this code  
-Is my favorite coding dream
+Programming has changed our lives  
+Created a world that's full of surprises  
+From apps to games and more  
+Programming is a skill to explore
