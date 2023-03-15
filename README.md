@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like an art  
-A puzzle to solve and a part  
-It requires concentration and skill  
-To make something that runs, without a spill  
+Programming is a language of logic,  
+A way to solve complex problems on the spot.  
+It can take a while to learn,  
+But once you do, you can create anything you think of.  
   
-The challenge of learning the code  
-Can be daunting and hard to decode  
-But once you understand the flow  
-You can create something that can really go  
+It's like a puzzle,  
+That needs to be solved,  
+Using a language of bits,  
+And bytes that unfold.  
   
-It's a language that's meant to be shared  
-With a community that's always there  
-To help you out when you're stuck  
-It's an incredibly rewarding luck  
+It's a game of trial and error,  
+Until you get it right,  
+But when you do,  
+The feeling is truly out of sight.  
   
-Programming has changed our lives  
-Created a world that's full of surprises  
-From apps to games and more  
-Programming is a skill to explore
+A program is like a masterpiece,  
+A work of art,  
+A masterpiece that you created,  
+That really hits the mark.  
+  
+Programming is a language,  
+That will take you far,  
+If you use it properly,  
+You can create a star.
