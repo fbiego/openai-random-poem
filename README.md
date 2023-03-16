@@ -6,27 +6,20 @@
 
 ### today's poem  
   
-Programming is a language of logic,  
-A way to solve complex problems on the spot.  
-It can take a while to learn,  
-But once you do, you can create anything you think of.  
+Programming is like a game,  
+A puzzle to solve and a challenge to tame.  
   
-It's like a puzzle,  
-That needs to be solved,  
-Using a language of bits,  
-And bytes that unfold.  
+A complex web of code,  
+A language of life, to keep you on the road.  
   
-It's a game of trial and error,  
-Until you get it right,  
-But when you do,  
-The feeling is truly out of sight.  
+With logic and strategy,  
+A program to write, and the world you can light.  
   
-A program is like a masterpiece,  
-A work of art,  
-A masterpiece that you created,  
-That really hits the mark.  
+A journey of discovery,  
+A world of new possibilities, with no boundaries.  
   
-Programming is a language,  
-That will take you far,  
-If you use it properly,  
-You can create a star.
+From 0 to 1,  
+A journey of fun, to see where you run.  
+  
+Programming is like a dream,  
+A world of endless possibilities, and endless streams.
