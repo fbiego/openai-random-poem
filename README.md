@@ -6,20 +6,22 @@
 
 ### today's poem  
   
-Programming is like a game,  
-A puzzle to solve and a challenge to tame.  
+Programming, a language of its own  
+A code of logic and rules unknown  
+A challenge to understand just what it means  
+A task to take on with all that it entails  
   
-A complex web of code,  
-A language of life, to keep you on the road.  
+If you want to create something truly grand  
+A complex command structure to command  
+A world of imagination, a place of play  
+Where your code will be tested day by day  
   
-With logic and strategy,  
-A program to write, and the world you can light.  
+A coder, a master, a craftsman of tech  
+A builder of apps and websites galore  
+A maze of codes, commands, and syntax  
+A puzzle that must be figured out more  
   
-A journey of discovery,  
-A world of new possibilities, with no boundaries.  
-  
-From 0 to 1,  
-A journey of fun, to see where you run.  
-  
-Programming is like a dream,  
-A world of endless possibilities, and endless streams.
+Programming, a language of its own  
+A key to unlock all of the doors  
+A challenge to complete and a goal to reach  
+A reward that only comes with the knowledge you teach.
