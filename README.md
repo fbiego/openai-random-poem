@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, a language of its own  
-A code of logic and rules unknown  
-A challenge to understand just what it means  
-A task to take on with all that it entails  
+A language of ones and zeros  
+A language of ifs and thens  
+Programming is a game  
+To give life to your dreams  
   
-If you want to create something truly grand  
-A complex command structure to command  
-A world of imagination, a place of play  
-Where your code will be tested day by day  
+A language of logic and lines  
+A language of quirks and signs  
+Programming is a gift  
+To make things more precise  
   
-A coder, a master, a craftsman of tech  
-A builder of apps and websites galore  
-A maze of codes, commands, and syntax  
-A puzzle that must be figured out more  
+A language of syntax and structure  
+A language of bugs and fixes  
+Programming is a tool  
+To build things that are cool  
   
-Programming, a language of its own  
-A key to unlock all of the doors  
-A challenge to complete and a goal to reach  
-A reward that only comes with the knowledge you teach.
+A language of order and meaning  
+A language of algorithms and schemes  
+Programming is an art  
+To give life to your heart
