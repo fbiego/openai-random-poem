@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-A language of ones and zeros  
-A language of ifs and thens  
-Programming is a game  
-To give life to your dreams  
+Programming is like a puzzle,  
+It's pieces just waiting to be put in their places,  
+A long journey along many pathways,  
+The code waiting to be released.  
   
-A language of logic and lines  
-A language of quirks and signs  
-Programming is a gift  
-To make things more precise  
+A language of ones and zeros,  
+A way to get the computer to do your bidding,  
+A way to build systems,  
+That will make the task you've been given, stop bidding.  
   
-A language of syntax and structure  
-A language of bugs and fixes  
-Programming is a tool  
-To build things that are cool  
+A skill that is complex and satisfying,  
+It takes time, patience, and dedication,  
+A skill that is ever evolving,  
+A skill that will never be outdated.  
   
-A language of order and meaning  
-A language of algorithms and schemes  
-Programming is an art  
-To give life to your heart
+Programming is a way to solve problems,  
+To create something from nothing,  
+To create something that can help others,  
+To make the world a better place.
