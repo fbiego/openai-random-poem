@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-It's pieces just waiting to be put in their places,  
-A long journey along many pathways,  
-The code waiting to be released.  
+Programming is a wonderful thing,  
+No matter if it's coding or a string.  
+It's a language that's used to turn ideas into reality,  
+And can make you feel like a modern day alchemist.  
   
-A language of ones and zeros,  
-A way to get the computer to do your bidding,  
-A way to build systems,  
-That will make the task you've been given, stop bidding.  
+We can make something from nothing with the power of our code,  
+From webpages to games, it's a language that's constantly evolving.  
+From simple lines of code to complex algorithms,  
+Programming can make the impossible, possible.  
   
-A skill that is complex and satisfying,  
-It takes time, patience, and dedication,  
-A skill that is ever evolving,  
-A skill that will never be outdated.  
+It's a language of clarity, a language of precision,  
+A language of problem solving, a language of decision.  
+It can bring structure to our thoughts and can help us to create,  
+From the most basic of programs to those most intricate.  
   
-Programming is a way to solve problems,  
-To create something from nothing,  
-To create something that can help others,  
-To make the world a better place.
+Programming is a powerful tool,  
+One that can make our dreams come true.  
+It can teach us new ways of thinking,  
+And give us control of the world we're living in.
