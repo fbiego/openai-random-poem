@@ -6,22 +6,26 @@
 
 ### today's poem  
   
-Programming is a wonderful thing,  
-No matter if it's coding or a string.  
-It's a language that's used to turn ideas into reality,  
-And can make you feel like a modern day alchemist.  
+Programming is like a jigsaw puzzle,  
+It's a complex game that has its own rules.  
   
-We can make something from nothing with the power of our code,  
-From webpages to games, it's a language that's constantly evolving.  
-From simple lines of code to complex algorithms,  
-Programming can make the impossible, possible.  
+It's a game of logic and of thought,  
+It's filled with both challenge and naught.  
   
-It's a language of clarity, a language of precision,  
-A language of problem solving, a language of decision.  
-It can bring structure to our thoughts and can help us to create,  
-From the most basic of programs to those most intricate.  
+In programming there's no right or wrong,  
+It's a complex puzzle that can take long.  
   
-Programming is a powerful tool,  
-One that can make our dreams come true.  
-It can teach us new ways of thinking,  
-And give us control of the world we're living in.
+It's a game of problem-solving and of flow,  
+It's a game of debugging and of trial and error, oh.  
+  
+It's a game of debugging and of trial and error, oh.  
+It's a game of coding and of finding the right path.  
+  
+It's a game of trial and error,  
+It's a game of finding a solution to the problem at hand.  
+  
+It's a game of logic and of thought,  
+It's a game of coding and of debugging and trial and error.  
+  
+It's a game of fun and frustration,  
+But when you get it, it's a great satisfaction!
