@@ -6,26 +6,17 @@
 
 ### today's poem  
   
-Programming is like a jigsaw puzzle,  
-It's a complex game that has its own rules.  
+A code, a language, a way to communicate  
+A way to create, to animate, to innovate  
   
-It's a game of logic and of thought,  
-It's filled with both challenge and naught.  
+A skill to be learned, a challenge to be had  
+A journey to be taken, a puzzle to be solved  
   
-In programming there's no right or wrong,  
-It's a complex puzzle that can take long.  
+A tool to help automate, a way to make it right  
+A way to make a difference, a way to make it bright  
   
-It's a game of problem-solving and of flow,  
-It's a game of debugging and of trial and error, oh.  
+A complex web of logic, a language to be spoken  
+A way to make a dream, a way to make it happen  
   
-It's a game of debugging and of trial and error, oh.  
-It's a game of coding and of finding the right path.  
-  
-It's a game of trial and error,  
-It's a game of finding a solution to the problem at hand.  
-  
-It's a game of logic and of thought,  
-It's a game of coding and of debugging and trial and error.  
-  
-It's a game of fun and frustration,  
-But when you get it, it's a great satisfaction!
+Programming's power, it's a force to be reckoned  
+It's the way to the future, a way to transcend
