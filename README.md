@@ -6,17 +6,17 @@
 
 ### today's poem  
   
-A code, a language, a way to communicate  
-A way to create, to animate, to innovate  
+Programming, a world of its own,  
+Where logic and design can be shown,  
+To make a machine do as you please,  
+You must learn the secrets of the keys.  
   
-A skill to be learned, a challenge to be had  
-A journey to be taken, a puzzle to be solved  
+Using algorithms to create a task,  
+The code must be written to outlast,  
+From Java to Python, no language is left,  
+Creating a program to conquer and heft.  
   
-A tool to help automate, a way to make it right  
-A way to make a difference, a way to make it bright  
-  
-A complex web of logic, a language to be spoken  
-A way to make a dream, a way to make it happen  
-  
-Programming's power, it's a force to be reckoned  
-It's the way to the future, a way to transcend
+Debugging errors and making it right,  
+Testing the output to make sure it's tight,  
+Programming is the way to go,  
+It's a world of its own, you'll know.
