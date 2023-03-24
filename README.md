@@ -6,17 +6,23 @@
 
 ### today's poem  
   
-Programming, a world of its own,  
-Where logic and design can be shown,  
-To make a machine do as you please,  
-You must learn the secrets of the keys.  
+Programming, the way to make a machine,  
+A way to get things done with ease.  
   
-Using algorithms to create a task,  
-The code must be written to outlast,  
-From Java to Python, no language is left,  
-Creating a program to conquer and heft.  
+You can create something quite sublime,  
+With the help of a programming language.  
   
-Debugging errors and making it right,  
-Testing the output to make sure it's tight,  
-Programming is the way to go,  
-It's a world of its own, you'll know.
+It's a way to control the flow of time,  
+And bring your ideas to life.  
+  
+It's a way to create a new design,  
+And turn a game into something sublime.  
+  
+Programming is a way to make a machine,  
+And bring your dreams to reality.  
+  
+It's a way to create something grand,  
+And put your mind to the test.  
+  
+Programming is a way to make a machine,  
+A way to get things done with ease.
