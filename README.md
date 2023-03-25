@@ -6,23 +6,22 @@
 
 ### today's poem  
   
-Programming, the way to make a machine,  
-A way to get things done with ease.  
+Programming, it's a new way of life  
+A path of knowledge and strife  
+It starts off with a simple line of code  
+But soon there's a web of knowledge to unfold  
   
-You can create something quite sublime,  
-With the help of a programming language.  
+Data structures, algorithms, and more  
+It's a world of its own, a new kind of lore  
+Actions, functions, variables too  
+It's a never-ending journey, with much to do  
   
-It's a way to control the flow of time,  
-And bring your ideas to life.  
+If loops, if-else, and while  
+It's a puzzle that's really quite a trial  
+Troubleshooting, debugging, and testing  
+It takes a lot of patience, but it's worth investing  
   
-It's a way to create a new design,  
-And turn a game into something sublime.  
-  
-Programming is a way to make a machine,  
-And bring your dreams to reality.  
-  
-It's a way to create something grand,  
-And put your mind to the test.  
-  
-Programming is a way to make a machine,  
-A way to get things done with ease.
+Languages of Python and Java  
+It's a constantly changing landscape, that's always far  
+And when all the lines of code are done  
+It's a feeling of accomplishment, a job well done
