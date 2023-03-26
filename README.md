@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, it's a new way of life  
-A path of knowledge and strife  
-It starts off with a simple line of code  
-But soon there's a web of knowledge to unfold  
+Programming is quite a task  
+A world of ones and zeroes  
+It takes a certain kind of skill  
+To make the computer do as it chose  
   
-Data structures, algorithms, and more  
-It's a world of its own, a new kind of lore  
-Actions, functions, variables too  
-It's a never-ending journey, with much to do  
+From a simple "Hello World"  
+To a complex program that can do   
+It's amazing how much you can achieve  
+In this electrical stew  
   
-If loops, if-else, and while  
-It's a puzzle that's really quite a trial  
-Troubleshooting, debugging, and testing  
-It takes a lot of patience, but it's worth investing  
+It's a field of creativity  
+Where so much can be done  
+You can build a website or a game  
+Or a program to have some fun  
   
-Languages of Python and Java  
-It's a constantly changing landscape, that's always far  
-And when all the lines of code are done  
-It's a feeling of accomplishment, a job well done
+Programming requires dedication  
+To problems you must attend  
+But the reward of a working code  
+Is a feeling that can't be surpassed in the end.
