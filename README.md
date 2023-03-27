@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is quite a task  
-A world of ones and zeroes  
-It takes a certain kind of skill  
-To make the computer do as it chose  
+Programming, the language of machines  
+A way to find lost meanings  
+A way to make dreams come true  
+A way to bridge the gap between worlds  
   
-From a simple "Hello World"  
-To a complex program that can do   
-It's amazing how much you can achieve  
-In this electrical stew  
+A way to bring a vision to life  
+A way to create worlds unseen  
+A way to make a difference  
+A way to bring ideas to life  
   
-It's a field of creativity  
-Where so much can be done  
-You can build a website or a game  
-Or a program to have some fun  
+The power of code and syntax  
+The power to make and manipulate  
+The power to find new solutions  
+The power to make a complex task simpler  
   
-Programming requires dedication  
-To problems you must attend  
-But the reward of a working code  
-Is a feeling that can't be surpassed in the end.
+Programming, the language of machines  
+A way to share knowledge and ideas  
+A way to make a lasting impact  
+A way to create a better future.
