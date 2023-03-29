@@ -6,37 +6,27 @@
 
 ### today's poem  
   
-Code is like a puzzle,  
-It's a game of logic and wits,  
-To solve it with precision,  
-You need creative insights.  
+Programming is like a fine wine,  
+It can take you anywhere you want to go,  
+Take you to a different time,  
+Where you can explore and grow.  
   
-You'll find a method,  
-A way to make it work,  
-It's like a machine in motion,  
-That must be set in motion.  
+It can be the answer for you,  
+The answer to your problem,  
+It can be a challenge,  
+That you can easily solve.  
   
-You'll write the script,  
-To automate the task,  
-It may be tedious,  
-But it's worth the ask.  
+Programming can be like a story,  
+A story that you create,  
+A story that you write,  
+A story that you can master with ease.  
   
-You'll take a problem,  
-And solve it through design,  
-With a few clicks and keystrokes,  
-You'll make it shine.  
+It can be the key to success,  
+A key that can unlock the door,  
+A key that can help you achieve,  
+What you want, and so much more.  
   
-You'll debug the errors,  
-And make it run just right,  
-It's a challenge that's rewarding,  
-When you finally get it right.  
-  
-You'll write the code,  
-That will make the world go round,  
-A program so powerful,  
-That can't be found.  
-  
-Programming is a journey,  
-A path of discovery,  
-It's a way to create,  
-What you didn't think possible to be.
+Programming is like the wind,  
+It can blow you in any direction,  
+Giving you the chance to explore,  
+And to learn something new, with precision.
