@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is like a fine wine,  
-It can take you anywhere you want to go,  
-Take you to a different time,  
-Where you can explore and grow.  
+Programming is a thing of beauty,  
+A skill that's often overlooked;  
+It's a way of making something from nothing,  
+A challenge that can be unlocked.  
   
-It can be the answer for you,  
-The answer to your problem,  
-It can be a challenge,  
-That you can easily solve.  
+It's a puzzle that we must unravel,  
+A quest that never ends;  
+A way of making our ideas come alive,  
+A journey of technological bends.  
   
-Programming can be like a story,  
-A story that you create,  
-A story that you write,  
-A story that you can master with ease.  
+It starts with a single line of code,  
+A sequence of ones and zeros;  
+A careful mix of symbols and symbols,  
+A process that's both complex and simple.  
   
-It can be the key to success,  
-A key that can unlock the door,  
-A key that can help you achieve,  
-What you want, and so much more.  
-  
-Programming is like the wind,  
-It can blow you in any direction,  
-Giving you the chance to explore,  
-And to learn something new, with precision.
+Programming is a way of life,  
+A language that's constantly evolving;  
+It's a tool of great power and might,  
+A way of creating something new and exciting.
