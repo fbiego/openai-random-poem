@@ -6,22 +6,26 @@
 
 ### today's poem  
   
-Programming is a thing of beauty,  
-A skill that's often overlooked;  
-It's a way of making something from nothing,  
-A challenge that can be unlocked.  
+Programming is like a puzzle,  
+A challenge to solve and juggle.  
   
-It's a puzzle that we must unravel,  
-A quest that never ends;  
-A way of making our ideas come alive,  
-A journey of technological bends.  
+You must think with precision,  
+To find the best decision.  
   
-It starts with a single line of code,  
-A sequence of ones and zeros;  
-A careful mix of symbols and symbols,  
-A process that's both complex and simple.  
+It takes patience and a steady hand,  
+To understand the commands.  
   
-Programming is a way of life,  
-A language that's constantly evolving;  
-It's a tool of great power and might,  
-A way of creating something new and exciting.
+You need to be prepared,  
+For any unexpected snare.  
+  
+The language of computers,  
+Makes complicated tasks simpler.  
+  
+You must focus and strive,  
+To make the code come alive.  
+  
+Programming is a skill,  
+That requires lots of will.  
+  
+You'll be rewarded when the code runs,  
+And you can proudly show off your work to everyone.
