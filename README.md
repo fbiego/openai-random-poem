@@ -6,29 +6,27 @@
 
 ### today's poem  
   
-Programming is like a river,  
-It has many turns and twists,  
-It can be hard to navigate,  
-But it's worth the risk.  
+The computer is my friend,  
+I'm learning to program,  
+So that I can make it do my bidding,  
+But sometimes, it just won't comply.  
   
-It's a way to create,  
-To explore new ideas,  
-To build something great,  
-And make it come alive.  
+I type in the code,  
+And wait for the result,  
+But sometimes, it just won't do,  
+What I was expecting it to do.  
   
-It's a puzzle, a game,  
-A challenge that's hard to tame,  
-But if you stay on the path,  
-You will learn, and you will last.  
+The debugging begins,  
+I search for the bug,  
+Sometimes it takes a while,  
+But eventually I can make it smile.  
   
-Programming is a journey,  
-A journey of discovery,  
-And if you're willing to learn,  
-You'll find a world of adventure,  
-Be sure to take the time,  
-To learn the things you'll find.  
+The errors get sorted,  
+And the program runs,  
+It's a great feeling,  
+When the job is done.  
   
-Programming is a passion,  
-It's a way to express,  
-To shape and create,  
-Your own unique success.
+Programming is a challenge,  
+But it's also a lot of fun,  
+I'm getting better every day,  
+My skills will never be done.
