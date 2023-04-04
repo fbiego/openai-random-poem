@@ -6,26 +6,22 @@
 
 ### today's poem  
   
-Programming is the language of the future,  
-It allows us to build what we can imagine,  
-To explore the world, and search for its cure.  
+Programming can be a creative thing,  
+To make a game or a website sing.  
+Write some code and see what it brings,  
+Then watch it come to life and take wings.  
   
-We can create whatever we desire  
-From simple webpages to complex networks,  
-Where ideas can be shared and connected.  
+You can make a website for a store,  
+Or a game with lots of features galore.  
+Create an app or help a friend,  
+And watch your code come to its end.  
   
-It’s a powerful tool, yet so small,  
-That it can fit in the palm of your hand.  
-It’s a source of innovation and a way to understand.  
+Programming can help you understand,  
+The logic behind commands.  
+Debugging is the key to success,  
+When something is not quite right, I guess.  
   
-We can manipulate data and automate tasks,  
-We can design algorithms and create powerful apps.  
-It’s a journey of exploration and a never ending task.  
-  
-It’s a way to discover and to solve,  
-A way to create and to develop.  
-It’s a way to express yourself and your ideas evolve.  
-  
-Programming is the language of the future,  
-It’s an incredible tool that can open many doors.  
-A tool that will shape the world and so much more.
+Programming is a fun and complex art,  
+It can help you create with your heart.  
+It can help you solve problems great and small,  
+And create something that will enthrall.
