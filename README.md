@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming can be a creative thing,  
-To make a game or a website sing.  
-Write some code and see what it brings,  
-Then watch it come to life and take wings.  
+Programming, the language of computers,  
+A skill must be acquired to use it well,  
+It's a challenge to the sharpest of minds,  
+And rewards the ones who learn it best.  
   
-You can make a website for a store,  
-Or a game with lots of features galore.  
-Create an app or help a friend,  
-And watch your code come to its end.  
+It's the language of the future,  
+A skill to help you get ahead,  
+A way of life for some,  
+A way to make the world your bed.  
   
-Programming can help you understand,  
-The logic behind commands.  
-Debugging is the key to success,  
-When something is not quite right, I guess.  
+It's the language of machines,  
+A tool to make the impossible, possible,  
+A way to make ideas come to life,  
+And create something truly incredible.  
   
-Programming is a fun and complex art,  
-It can help you create with your heart.  
-It can help you solve problems great and small,  
-And create something that will enthrall.
+It's the language of logic,  
+A way to solve problems with ease,  
+A way to make your dreams come true,  
+And life a life of ease and peace.  
+  
+Programming, the language of computers,  
+A skill to help us progress and grow,  
+It's the way of the future,  
+A way to make the world a better place to know.
