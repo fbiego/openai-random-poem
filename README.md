@@ -6,32 +6,20 @@
 
 ### today's poem  
   
-A program that's neat,  
-A code that's complete,  
-An algorithm that's sound,  
-Will never let you down.  
+My code is my life, my computer my tool,  
+My programs are my pride, my logic my rule.  
   
-A design that's tried and true,  
-Will make your system run smooth,  
-A program that's optimized,  
-Will cause your system to run smooth.  
+I can make a website, I can make a game,  
+I can make a program, I'm never the same.  
   
-A syntax that's precise,  
-Will make your code concise,  
-A language that's clear,  
-Will make your code appear.  
+My programs come to life, they start to work,  
+My code is my passion, my heart will never shirk.  
   
-An interface that's friendly,  
-Will make your user grin,  
-A platform that's reliable,  
-Will make your user win.  
+My programs are my art, my code is my song,  
+My programs are my joy, I'll never be wrong.  
   
-A bug that's caught,  
-Will make your program stay hot,  
-And a system that's secure,  
-Will make your user secure.  
+My programs will live, my code will be shared,  
+My programs will stand, my code will be spared.  
   
-Programming's a skill,  
-That's worth mastering,  
-It takes hard work and dedication,  
-To become a programming sensation.
+My code will live on, my programs will thrive,  
+My programs will remain, as long as I'm alive.
