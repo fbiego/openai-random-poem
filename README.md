@@ -6,20 +6,22 @@
 
 ### today's poem  
   
-My code is my life, my computer my tool,  
-My programs are my pride, my logic my rule.  
+Programming is a language of its own,  
+It's like a puzzle that must be sown,  
+A challenge to decipher, it's never the same,  
+A set of instructions, that must be tame.  
   
-I can make a website, I can make a game,  
-I can make a program, I'm never the same.  
+It can be complex and intricate,  
+Sometimes it can be a bit of a fret,  
+But if you have the patience and the time,  
+You'll have your program running in no time.  
   
-My programs come to life, they start to work,  
-My code is my passion, my heart will never shirk.  
+It can be a source of great joy,  
+And sometimes it can be a bit of a ploy,  
+It takes skill and knowledge to stay afloat,  
+And to make sure the code is right, note for note.  
   
-My programs are my art, my code is my song,  
-My programs are my joy, I'll never be wrong.  
-  
-My programs will live, my code will be shared,  
-My programs will stand, my code will be spared.  
-  
-My code will live on, my programs will thrive,  
-My programs will remain, as long as I'm alive.
+Programming is a wonderful thing,  
+It's like singing a song that you can bring,  
+To life with your ideas and your thoughts,  
+And the tasks will be completed, no matter what the odds.
