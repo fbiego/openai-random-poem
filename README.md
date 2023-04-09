@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a language of its own,  
-It's like a puzzle that must be sown,  
-A challenge to decipher, it's never the same,  
-A set of instructions, that must be tame.  
+Programming is my passion,  
+My life is all about code,  
+It runs through my veins  
+Like a river on a road.  
   
-It can be complex and intricate,  
-Sometimes it can be a bit of a fret,  
-But if you have the patience and the time,  
-You'll have your program running in no time.  
+It's my source of income,  
+My career and my fame,  
+Programming is my ticket  
+To a life full of gain.  
   
-It can be a source of great joy,  
-And sometimes it can be a bit of a ploy,  
-It takes skill and knowledge to stay afloat,  
-And to make sure the code is right, note for note.  
+It's a puzzle I can solve,  
+A game I can play,  
+Where every turn and twist  
+Helps me to find my way.  
   
-Programming is a wonderful thing,  
-It's like singing a song that you can bring,  
-To life with your ideas and your thoughts,  
-And the tasks will be completed, no matter what the odds.
+It's a language to learn,  
+A skill to be mastered,  
+Programming is a challenge  
+That I'm never to be out-blasted.  
+  
+It's a way to express,  
+My creativity and thought,  
+Programming is my passion  
+My code will never be bought.
