@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is my passion,  
-My life is all about code,  
-It runs through my veins  
-Like a river on a road.  
+Programming is like a game of tetris  
+Different pieces come together to make a set  
+Colors and shapes come together to form a perfect fit  
+The code is written and debugged until it's all set  
   
-It's my source of income,  
-My career and my fame,  
-Programming is my ticket  
-To a life full of gain.  
+The goal is to make a program that runs as smooth as silk  
+But it takes a lot of time and patience to make it work  
+A lot of trial and error and some debugging tricks  
+To make sure that the code is free from errors and bugs  
   
-It's a puzzle I can solve,  
-A game I can play,  
-Where every turn and twist  
-Helps me to find my way.  
+It can be frustrating when a program just won't work  
+The challenge is to find the problem and fix it with a jerk  
+But when the code runs and works as expected  
+It's a feeling of accomplishment that can't be reckoned  
   
-It's a language to learn,  
-A skill to be mastered,  
-Programming is a challenge  
-That I'm never to be out-blasted.  
-  
-It's a way to express,  
-My creativity and thought,  
-Programming is my passion  
-My code will never be bought.
+Programming is a skill that can take you far  
+Creating a program from scratch is quite a feat  
+The feeling of accomplishment is unlike any other  
+Knowing you made something amazing with your own hands and computer.
