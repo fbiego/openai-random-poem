@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a game of tetris  
-Different pieces come together to make a set  
-Colors and shapes come together to form a perfect fit  
-The code is written and debugged until it's all set  
+Programming is like a secret language  
+It's cryptic and it's strange  
+It can take a while to master  
+But it's worth the change  
   
-The goal is to make a program that runs as smooth as silk  
-But it takes a lot of time and patience to make it work  
-A lot of trial and error and some debugging tricks  
-To make sure that the code is free from errors and bugs  
+It's a way of thinking  
+Where problem solving reigns  
+It's a way of life  
+Where the logical brain trains  
   
-It can be frustrating when a program just won't work  
-The challenge is to find the problem and fix it with a jerk  
-But when the code runs and works as expected  
-It's a feeling of accomplishment that can't be reckoned  
+You can build a game  
+Or an app, website or program  
+It's a creative process  
+Where the sky's the limit  
   
-Programming is a skill that can take you far  
-Creating a program from scratch is quite a feat  
-The feeling of accomplishment is unlike any other  
-Knowing you made something amazing with your own hands and computer.
+And when the code is all done  
+You'll be so proud  
+Because you created something  
+That will be talked about  
+  
+So don't give up  
+And don't give in  
+Programming can be hard  
+But it's worth the win
