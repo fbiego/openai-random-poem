@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is like a secret language  
-It's cryptic and it's strange  
-It can take a while to master  
-But it's worth the change  
+Programming, a challenge of sorts  
+A way to instruct computers to do our work  
+From simple loops to complex algorithms  
+It can be a daunting task, I won't deny  
   
-It's a way of thinking  
-Where problem solving reigns  
-It's a way of life  
-Where the logical brain trains  
+A language of code that can be hard to master  
+It requires an attention to detail and precision  
+It's a way to communicate to the computer  
+So that it can do what we desire  
   
-You can build a game  
-Or an app, website or program  
-It's a creative process  
-Where the sky's the limit  
+Sometimes it takes long hours of trial and error  
+To find the right combination of code  
+But when you see the output and it works  
+It's so satisfying, a feeling of joy  
   
-And when the code is all done  
-You'll be so proud  
-Because you created something  
-That will be talked about  
-  
-So don't give up  
-And don't give in  
-Programming can be hard  
-But it's worth the win
+Programming is a skill that's so useful  
+With it you can create something special  
+It can be used for good or for evil  
+It's a power that we should use wisely
