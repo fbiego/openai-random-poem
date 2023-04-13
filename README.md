@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, a challenge of sorts  
-A way to instruct computers to do our work  
-From simple loops to complex algorithms  
-It can be a daunting task, I won't deny  
+The zeros and ones, the lines of code  
+A language of machines, never growing old  
+The endless algorithms, the endless search  
+A journey of understanding, ever so complex  
   
-A language of code that can be hard to master  
-It requires an attention to detail and precision  
-It's a way to communicate to the computer  
-So that it can do what we desire  
+The logic, the structure, the order of things  
+The equations, the patterns, the way things cling  
+The puzzles to solve, the paths to explore  
+The challenges that arise, and the questions galore  
   
-Sometimes it takes long hours of trial and error  
-To find the right combination of code  
-But when you see the output and it works  
-It's so satisfying, a feeling of joy  
+The compiler, the debugger, the tests to run  
+The design, the build, the creation begun  
+The rush of success, the thrill of the find  
+The moments of joy, the moments so kind  
   
-Programming is a skill that's so useful  
-With it you can create something special  
-It can be used for good or for evil  
-It's a power that we should use wisely
+The world of programming, a world of its own  
+A world of possibilities, a world to be known  
+A world of exploration, a world of delight  
+A world of discovery, an infinite sight.
