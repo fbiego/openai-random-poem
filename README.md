@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-The zeros and ones, the lines of code  
-A language of machines, never growing old  
-The endless algorithms, the endless search  
-A journey of understanding, ever so complex  
+Programming,  
+A language so grand,  
+It can make a robot,  
+Do what you demand.  
   
-The logic, the structure, the order of things  
-The equations, the patterns, the way things cling  
-The puzzles to solve, the paths to explore  
-The challenges that arise, and the questions galore  
+It can control a drone,  
+Or make a website,  
+It can help a scientist,  
+Or bring a game to life.  
   
-The compiler, the debugger, the tests to run  
-The design, the build, the creation begun  
-The rush of success, the thrill of the find  
-The moments of joy, the moments so kind  
+Programming is powerful,  
+It can do so much,  
+It can make our lives easier,  
+With a simple touch.  
   
-The world of programming, a world of its own  
-A world of possibilities, a world to be known  
-A world of exploration, a world of delight  
-A world of discovery, an infinite sight.
+It's an art and science,  
+Combined together,  
+Programming can make,  
+Our lives much better.
