@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming,  
-A language so grand,  
-It can make a robot,  
-Do what you demand.  
+A language of ones and zeros  
+Living in a world of logic  
+A paradise for those who know  
+How to make the computer flow  
   
-It can control a drone,  
-Or make a website,  
-It can help a scientist,  
-Or bring a game to life.  
+A journey of discovery  
+A mind that's full of glee  
+To learn the tools and techniques  
+That make applications run free  
   
-Programming is powerful,  
-It can do so much,  
-It can make our lives easier,  
-With a simple touch.  
+The syntax and the rules  
+The if-then-else for fools  
+The loops and functions, oh so neat  
+To make a program run complete  
   
-It's an art and science,  
-Combined together,  
-Programming can make,  
-Our lives much better.
+A language that's ever-evolving  
+A world of creativity  
+A language that can bring ideas  
+To life with such agility  
+  
+A place of creativity  
+A language of ingenuity  
+A world of logic and reason  
+That can bring a dream to reality
