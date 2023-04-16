@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-A language of ones and zeros  
-Living in a world of logic  
-A paradise for those who know  
-How to make the computer flow  
+Programming is a wondrous thing,  
+It makes the computer to sing.  
+It can make a robot run,  
+And make a website have some fun.   
   
-A journey of discovery  
-A mind that's full of glee  
-To learn the tools and techniques  
-That make applications run free  
+It can make a game come alive,  
+And keep it going day and night.  
+It can make a program do,  
+Just about anything you want it to.   
   
-The syntax and the rules  
-The if-then-else for fools  
-The loops and functions, oh so neat  
-To make a program run complete  
+It can make a program work,  
+And make sure it never goes berserk.  
+It can make a computer learn,  
+And make sure it never ever crashes or gets burned.   
   
-A language that's ever-evolving  
-A world of creativity  
-A language that can bring ideas  
-To life with such agility  
-  
-A place of creativity  
-A language of ingenuity  
-A world of logic and reason  
-That can bring a dream to reality
+Programming is a skill so grand,  
+It can make your dreams come true at your command.  
+It can make our lives so much better,  
+And make us all feel so much better.
