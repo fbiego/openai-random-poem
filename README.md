@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming is a wondrous thing,  
-It makes the computer to sing.  
-It can make a robot run,  
-And make a website have some fun.   
+Programming is the act of creating  
+Something from nothing, like a sculpting  
   
-It can make a game come alive,  
-And keep it going day and night.  
-It can make a program do,  
-Just about anything you want it to.   
+Writing lines of code that make something function  
+A puzzle of logic that's a great construction  
   
-It can make a program work,  
-And make sure it never goes berserk.  
-It can make a computer learn,  
-And make sure it never ever crashes or gets burned.   
+A language that's made of ones and zeroes  
+A code that can be used in many ways like heroes  
   
-Programming is a skill so grand,  
-It can make your dreams come true at your command.  
-It can make our lives so much better,  
-And make us all feel so much better.
+The syntax must be precise, everything in its right place  
+A machine that can follow these instructions with grace  
+  
+Programming can be used to make a game  
+Where the players are entertained, its never the same  
+  
+A language that can be used to make complex things  
+A form of art in which the artist sings  
+  
+Programming may seem hard at the start  
+But with practice you can become a master of art.
