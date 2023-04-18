@@ -6,23 +6,22 @@
 
 ### today's poem  
   
-Programming is the act of creating  
-Something from nothing, like a sculpting  
+Programming is infinite  
+A never-ending adventure  
+A vast world of knowledge  
+A journey to explore  
   
-Writing lines of code that make something function  
-A puzzle of logic that's a great construction  
+A language to learn  
+A challenge to take  
+A skill to gain  
+A goal to make  
   
-A language that's made of ones and zeroes  
-A code that can be used in many ways like heroes  
+An ever-changing playground  
+Where ideas come alive  
+An outlet for creativity  
+A place to thrive  
   
-The syntax must be precise, everything in its right place  
-A machine that can follow these instructions with grace  
-  
-Programming can be used to make a game  
-Where the players are entertained, its never the same  
-  
-A language that can be used to make complex things  
-A form of art in which the artist sings  
-  
-Programming may seem hard at the start  
-But with practice you can become a master of art.
+The key to unlock  
+A world of possibility  
+Where we can create  
+And make our dreams reality
