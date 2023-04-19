@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is infinite  
-A never-ending adventure  
-A vast world of knowledge  
-A journey to explore  
+A programmer's life is a curious thing  
+A world of ones and zeroes they bring  
+Coding, debugging, and refactoring  
+A system of logic, no need for adoring  
   
-A language to learn  
-A challenge to take  
-A skill to gain  
-A goal to make  
+From the simplest of lines to the most complex  
+It can take hours to get it just right, at best  
+The syntax and structure must be sound  
+An error message is never found  
   
-An ever-changing playground  
-Where ideas come alive  
-An outlet for creativity  
-A place to thrive  
+The reward of a job well done  
+Is a successful program under the sun  
+The pride of knowing what you've created  
+Has no price, it can't be rated  
   
-The key to unlock  
-A world of possibility  
-Where we can create  
-And make our dreams reality
+The coder's domain is an ever-changing space  
+A place of learning, of knowledge and grace  
+A never-ending challenge, a puzzle to solve  
+A world of logic, and the power to evolve.
