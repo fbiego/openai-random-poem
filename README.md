@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-A programmer's life is a curious thing  
-A world of ones and zeroes they bring  
-Coding, debugging, and refactoring  
-A system of logic, no need for adoring  
+Code builds the world around us  
+A world of colors and sound  
+From the depths of our computers  
+We are the ones to astound  
   
-From the simplest of lines to the most complex  
-It can take hours to get it just right, at best  
-The syntax and structure must be sound  
-An error message is never found  
+Webpages, applications, and games  
+We craft with such precision  
+Our skills make a difference  
+In the lives of many a mission  
   
-The reward of a job well done  
-Is a successful program under the sun  
-The pride of knowing what you've created  
-Has no price, it can't be rated  
+Our art is in the logic  
+The structure and the syntax  
+We write with a purpose  
+Our code shall never relax  
   
-The coder's domain is an ever-changing space  
-A place of learning, of knowledge and grace  
-A never-ending challenge, a puzzle to solve  
-A world of logic, and the power to evolve.
+We are the engineers  
+The builders of the future  
+We use our creative minds  
+To make the world much more pure  
+  
+Programming is our passion  
+It’s what we were born to do  
+We’ll continue to build this world  
+For me and for you.
