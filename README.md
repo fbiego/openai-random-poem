@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Code builds the world around us  
-A world of colors and sound  
-From the depths of our computers  
-We are the ones to astound  
+Programming, so many rules,  
+It can be a confusing tool.  
+But when the code works just right,  
+We get the feeling of pure delight.  
   
-Webpages, applications, and games  
-We craft with such precision  
-Our skills make a difference  
-In the lives of many a mission  
+It's a language all its own:  
+To understand, you must hone  
+A set of skills and a sharp wit  
+To make sure the program works just right.  
   
-Our art is in the logic  
-The structure and the syntax  
-We write with a purpose  
-Our code shall never relax  
+It takes logic and analysis,  
+A knack for problem-solving,  
+To bring a concept to life  
+And create something that's worthwhile.  
   
-We are the engineers  
-The builders of the future  
-We use our creative minds  
-To make the world much more pure  
-  
-Programming is our passion  
-It’s what we were born to do  
-We’ll continue to build this world  
-For me and for you.
+Programming is the key:  
+To unlock a world of opportunities  
+That will help us make a mark  
+And create a better future for us all.
