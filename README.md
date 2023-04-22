@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, so many rules,  
-It can be a confusing tool.  
-But when the code works just right,  
-We get the feeling of pure delight.  
+A language of logic and code,  
+That creates an algorithm of hope  
+The computer responds in robotic way  
+A machine of great power and sway  
   
-It's a language all its own:  
-To understand, you must hone  
-A set of skills and a sharp wit  
-To make sure the program works just right.  
+In a world of ones and zeros  
+A program takes shape and grows  
+A path is laid with binary signs  
+As each line of code aligns  
   
-It takes logic and analysis,  
-A knack for problem-solving,  
-To bring a concept to life  
-And create something that's worthwhile.  
+A world of puzzles and problems arise  
+Which the programmer must surmise  
+The only limit is creativity  
+In the world of computers, you can be free  
   
-Programming is the key:  
-To unlock a world of opportunities  
-That will help us make a mark  
-And create a better future for us all.
+Programming gives the power to create  
+Though it takes a lot of time and debate  
+A world of possibility awaits  
+For those willing to take a chance and create
