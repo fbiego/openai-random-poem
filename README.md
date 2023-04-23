@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-A language of logic and code,  
-That creates an algorithm of hope  
-The computer responds in robotic way  
-A machine of great power and sway  
+My love of coding comes to me like a breeze  
+It's like a language that I strive to decipher  
+I am excited to be a programmer  
+It's like a journey that I'll never end  
   
-In a world of ones and zeros  
-A program takes shape and grows  
-A path is laid with binary signs  
-As each line of code aligns  
+I learn the syntax and I understand  
+My keyboard is my canvas and my code is my art  
+I can create whatever I can imagine  
+And watch my ideas come to life in the end  
   
-A world of puzzles and problems arise  
-Which the programmer must surmise  
-The only limit is creativity  
-In the world of computers, you can be free  
+I love problem solving and I'm always on the job  
+My patience and persistence are what I rely on  
+I debug my code and I'm never done  
+My problems soon become solved in the sun  
   
-Programming gives the power to create  
-Though it takes a lot of time and debate  
-A world of possibility awaits  
-For those willing to take a chance and create
+Programming is my passion and I'm never bored  
+It brings out my creativity and I'm always exploring  
+I'm always on the lookout for new tricks  
+My love for coding will never go away
