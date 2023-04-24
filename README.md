@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-My love of coding comes to me like a breeze  
-It's like a language that I strive to decipher  
-I am excited to be a programmer  
-It's like a journey that I'll never end  
+The code is my plaything  
+I revel in the challenge  
+It's pure logic and function  
+in which I can delve and delve  
   
-I learn the syntax and I understand  
-My keyboard is my canvas and my code is my art  
-I can create whatever I can imagine  
-And watch my ideas come to life in the end  
+I can make it do what I want  
+control and shape the outcome  
+with a few simple commands  
+or a few lines of a script  
   
-I love problem solving and I'm always on the job  
-My patience and persistence are what I rely on  
-I debug my code and I'm never done  
-My problems soon become solved in the sun  
+Computer programs are my canvas  
+on which I can paint my dreams  
+and bring my ideas to life  
+with a few clicks of keys  
   
-Programming is my passion and I'm never bored  
-It brings out my creativity and I'm always exploring  
-I'm always on the lookout for new tricks  
-My love for coding will never go away
+It's a puzzle to be solved  
+the logic must be right  
+but when the pieces all fit together  
+the output can be quite a sight  
+  
+Programming is my craft  
+I excel at the art  
+it's a journey of discovery  
+and a work of the heart
