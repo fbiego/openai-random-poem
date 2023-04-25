@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-The code is my plaything  
-I revel in the challenge  
-It's pure logic and function  
-in which I can delve and delve  
+Programming, you are a masterful  
+Skill that takes your time and patience  
+Lines of code that can be so daunting  
+But written with care, will be amazing  
   
-I can make it do what I want  
-control and shape the outcome  
-with a few simple commands  
-or a few lines of a script  
+Your logic is complex, yet so sublime  
+Your syntax, your style, it's all mine  
+Computer instructions, written out in time  
+Form a program, that works so divine  
   
-Computer programs are my canvas  
-on which I can paint my dreams  
-and bring my ideas to life  
-with a few clicks of keys  
+From games to apps, to websites too  
+You can find a use for programming, that's true  
+Creating a software, that's so new  
+It's a challenge, and an adventure too  
   
-It's a puzzle to be solved  
-the logic must be right  
-but when the pieces all fit together  
-the output can be quite a sight  
-  
-Programming is my craft  
-I excel at the art  
-it's a journey of discovery  
-and a work of the heart
+You have to learn, and that's no lie  
+But the rewards, will make you fly  
+Your understanding, will make you wise  
+Programming, you are a must to try
