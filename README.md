@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming, you are a masterful  
-Skill that takes your time and patience  
-Lines of code that can be so daunting  
-But written with care, will be amazing  
+My code is my creation,  
+A masterpiece of precision.  
+I debug the syntax,  
+My code is so complex.  
   
-Your logic is complex, yet so sublime  
-Your syntax, your style, it's all mine  
-Computer instructions, written out in time  
-Form a program, that works so divine  
+I watch my programs come alive,  
+Each line a different drive.  
+From variables to strings,  
+This coding is everything.  
   
-From games to apps, to websites too  
-You can find a use for programming, that's true  
-Creating a software, that's so new  
-It's a challenge, and an adventure too  
+My fingers fly across the keys,  
+Debugging is a breeze.  
+I'm a master at my craft,  
+My code will always last.  
   
-You have to learn, and that's no lie  
-But the rewards, will make you fly  
-Your understanding, will make you wise  
-Programming, you are a must to try
+An algorithm is my friend,  
+I use it time and time again.  
+I nest my functions deep,  
+My code is so very neat.  
+  
+My programs are complete,  
+I can go ahead and sleep.  
+For I know my code is right,  
+And I'm a programmer tonight.
