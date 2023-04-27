@@ -6,27 +6,31 @@
 
 ### today's poem  
   
-My code is my creation,  
-A masterpiece of precision.  
-I debug the syntax,  
-My code is so complex.  
+A computer is what I use,  
+To program and debug,  
+Without any excuse.  
   
-I watch my programs come alive,  
-Each line a different drive.  
-From variables to strings,  
-This coding is everything.  
+My lines of code,  
+Are like a poem of prose,  
+That will run,  
+Wherever it goes.  
   
-My fingers fly across the keys,  
-Debugging is a breeze.  
-I'm a master at my craft,  
-My code will always last.  
+I open my project,  
+And pick the right language,  
+Then I start to type,  
+With my fingers a-swaying.  
   
-An algorithm is my friend,  
-I use it time and time again.  
-I nest my functions deep,  
-My code is so very neat.  
+I write and debug,  
+My functions and class,  
+To ensure my program,  
+Will run with no hassle.  
   
-My programs are complete,  
-I can go ahead and sleep.  
-For I know my code is right,  
-And I'm a programmer tonight.
+I have my variables,  
+And my if-statements too,  
+To make sure my program,  
+Will not be blue.  
+  
+When I'm done,  
+I'll have a program,  
+That will run,  
+And all will be grand.
