@@ -6,31 +6,22 @@
 
 ### today's poem  
   
-A computer is what I use,  
-To program and debug,  
-Without any excuse.  
+Programming is a tool,  
+To make computers go,  
+To make a website look cool,  
+Or to create a video game show.  
   
-My lines of code,  
-Are like a poem of prose,  
-That will run,  
-Wherever it goes.  
+It can make a spreadsheet,  
+To organize all data,  
+Or to create a calculator,  
+So you don't have to wait.  
   
-I open my project,  
-And pick the right language,  
-Then I start to type,  
-With my fingers a-swaying.  
+Programming can be powerful,  
+Creating endless possibilities,  
+It can even make a robot,  
+To do your daily chores with ease.  
   
-I write and debug,  
-My functions and class,  
-To ensure my program,  
-Will run with no hassle.  
-  
-I have my variables,  
-And my if-statements too,  
-To make sure my program,  
-Will not be blue.  
-  
-When I'm done,  
-I'll have a program,  
-That will run,  
-And all will be grand.
+Programming can be tedious,  
+The syntax can be a pain,  
+But once you understand it,  
+You can do anything you can imagine.
