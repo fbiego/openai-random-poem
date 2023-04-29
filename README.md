@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a tool,  
-To make computers go,  
-To make a website look cool,  
-Or to create a video game show.  
+Programming, oh so grand  
+A language that I understand  
+No matter the task at hand  
+It's the tools I use to expand  
   
-It can make a spreadsheet,  
-To organize all data,  
-Or to create a calculator,  
-So you don't have to wait.  
+From a simple website to a complex system  
+It's the foundation of a new paradigm  
+A language that's powerful and sublime  
+It's the language of the modern age, this time  
   
-Programming can be powerful,  
-Creating endless possibilities,  
-It can even make a robot,  
-To do your daily chores with ease.  
+A language that can be so precise  
+It's like a puzzle that needs to be solved  
+A language that's filled with surprise  
+That can solve problems that were unsolved  
   
-Programming can be tedious,  
-The syntax can be a pain,  
-But once you understand it,  
-You can do anything you can imagine.
+Programming is a skill that's so vital  
+It's like a superpower that's so essential  
+It can help us change the world  
+And make complex things quite simple
