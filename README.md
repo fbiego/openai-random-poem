@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, oh so grand  
-A language that I understand  
-No matter the task at hand  
-It's the tools I use to expand  
+Programming, the art of it  
+Where machines can learn to do it  
+An opportunity to create  
+And bring ideas to life  
   
-From a simple website to a complex system  
-It's the foundation of a new paradigm  
-A language that's powerful and sublime  
-It's the language of the modern age, this time  
+Simple instructions that guide  
+From the basic commands to complex ones  
+To create powerful programs that can do  
+Anything they are tasked to run  
   
-A language that can be so precise  
-It's like a puzzle that needs to be solved  
-A language that's filled with surprise  
-That can solve problems that were unsolved  
+It's a mental challenge  
+Where you can build up your skills  
+And create something that was once  
+Just a mere thought that exists  
   
-Programming is a skill that's so vital  
-It's like a superpower that's so essential  
-It can help us change the world  
-And make complex things quite simple
+Programming, the art of it  
+Where machines can learn to do it  
+A chance to explore and discover  
+A world of possibilities.
