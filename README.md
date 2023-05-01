@@ -6,22 +6,21 @@
 
 ### today's poem  
   
-Programming, the art of it  
-Where machines can learn to do it  
-An opportunity to create  
-And bring ideas to life  
+Programming, what a thrill  
+Turning ideas into code  
+Making computers do our will  
   
-Simple instructions that guide  
-From the basic commands to complex ones  
-To create powerful programs that can do  
-Anything they are tasked to run  
+Creating websites and apps  
+Game development, with no slaps  
+The power to control our fate  
+A skill that will never be too late  
   
-It's a mental challenge  
-Where you can build up your skills  
-And create something that was once  
-Just a mere thought that exists  
+The possibilities are endless  
+From the tech giant to the small business  
+That's what programming can do  
+A skill that everyone should pursue  
   
-Programming, the art of it  
-Where machines can learn to do it  
-A chance to explore and discover  
-A world of possibilities.
+A language of ones and zeros  
+The potential for us to explore  
+The future is so bright  
+And programming will be its light
