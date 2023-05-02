@@ -6,21 +6,22 @@
 
 ### today's poem  
   
-Programming, what a thrill  
-Turning ideas into code  
-Making computers do our will  
+A program can be like a story  
+Unfolding with an unwritten glory  
+From its lines of codes so tiny  
+Unlock the door to a world divinely  
   
-Creating websites and apps  
-Game development, with no slaps  
-The power to control our fate  
-A skill that will never be too late  
+From the keyboard to the screen  
+The program comes alive and keen  
+An algorithm the heart of it all  
+The logic sets the program's call  
   
-The possibilities are endless  
-From the tech giant to the small business  
-That's what programming can do  
-A skill that everyone should pursue  
+The program's flow with an artful grace  
+The variables, they each have a place  
+The looping through the code, so neat  
+The program runs, complete  
   
-A language of ones and zeros  
-The potential for us to explore  
-The future is so bright  
-And programming will be its light
+The program's goal is achieved, at last  
+A sense of joy, the programmer's cast  
+From a computer's mind, a magical thing  
+A program, a blessing to the world bring.
