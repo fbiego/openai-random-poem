@@ -6,22 +6,20 @@
 
 ### today's poem  
   
-A program can be like a story  
-Unfolding with an unwritten glory  
-From its lines of codes so tiny  
-Unlock the door to a world divinely  
+Programming, the art of crafting code  
+To make a machine run, like a well-oiled road  
   
-From the keyboard to the screen  
-The program comes alive and keen  
-An algorithm the heart of it all  
-The logic sets the program's call  
+Writing the instructions, so precise and exact  
+The logic and syntax, the results will impact  
   
-The program's flow with an artful grace  
-The variables, they each have a place  
-The looping through the code, so neat  
-The program runs, complete  
+Lines of code for functions that can be called  
+Data types to store, with each loop installed  
   
-The program's goal is achieved, at last  
-A sense of joy, the programmer's cast  
-From a computer's mind, a magical thing  
-A program, a blessing to the world bring.
+Conditional logic and branching, to determine the flow  
+The logic dictates, the results will show  
+  
+Debugging and troubleshooting, to find the bug  
+Testing to ensure, all is snug  
+  
+The end result is, a machine that's alive  
+A program that functions, so that you can survive!
