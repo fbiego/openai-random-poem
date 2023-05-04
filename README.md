@@ -6,20 +6,27 @@
 
 ### today's poem  
   
-Programming, the art of crafting code  
-To make a machine run, like a well-oiled road  
+Programming is a code so true  
+A language of numbers and symbols too  
+It's a language of algorithms and bytes  
+A way of building things right  
   
-Writing the instructions, so precise and exact  
-The logic and syntax, the results will impact  
+It's a way to create things anew  
+To give instructions to computers so true  
+A language of if statements and loops  
+A way to make programs so smooth  
   
-Lines of code for functions that can be called  
-Data types to store, with each loop installed  
+It's a math so precise  
+A way to create a device  
+To take an idea from a thought  
+And turn it into a thing that's sought  
   
-Conditional logic and branching, to determine the flow  
-The logic dictates, the results will show  
+Programming is a way to build  
+To create something, something to fill  
+A need or a desire that's seen  
+Using instructions that are so keen  
   
-Debugging and troubleshooting, to find the bug  
-Testing to ensure, all is snug  
-  
-The end result is, a machine that's alive  
-A program that functions, so that you can survive!
+Programming is a way to solve  
+To take something from a thought to a whole  
+To take an idea from a thought  
+And turn it into something sought
