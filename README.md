@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a code so true  
-A language of numbers and symbols too  
-It's a language of algorithms and bytes  
-A way of building things right  
+Programming is like a puzzle to me  
+A series of codes and logic set free  
+Filled with ifs, fors and whiles  
+It's a language that can take many miles  
   
-It's a way to create things anew  
-To give instructions to computers so true  
-A language of if statements and loops  
-A way to make programs so smooth  
+My brain feels engaged when I'm coding  
+It's like a game that I'm exploring  
+The debugging and the challenges  
+Are what I live for in my coding experiences  
   
-It's a math so precise  
-A way to create a device  
-To take an idea from a thought  
-And turn it into a thing that's sought  
+Programming lets me be creative  
+It gives me a way to be innovative  
+I can come up with ideas and see them through  
+My creative juices begin to brew  
   
-Programming is a way to build  
-To create something, something to fill  
-A need or a desire that's seen  
-Using instructions that are so keen  
-  
-Programming is a way to solve  
-To take something from a thought to a whole  
-To take an idea from a thought  
-And turn it into something sought
+Programming is a language so powerful  
+It gives me the ability to be so resourceful  
+My coding skills are my pride and joy  
+My work is my own beautiful toy
