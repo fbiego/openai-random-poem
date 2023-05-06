@@ -6,22 +6,32 @@
 
 ### today's poem  
   
-Programming is like a puzzle to me  
-A series of codes and logic set free  
-Filled with ifs, fors and whiles  
-It's a language that can take many miles  
+Programming, what a delight  
+It's filled with logic and might  
   
-My brain feels engaged when I'm coding  
-It's like a game that I'm exploring  
-The debugging and the challenges  
-Are what I live for in my coding experiences  
+We fill our minds with the code  
+And make the machines explode  
   
-Programming lets me be creative  
-It gives me a way to be innovative  
-I can come up with ideas and see them through  
-My creative juices begin to brew  
+We learn the syntax, its rules and its tricks  
+We make the computers perform our tricks  
   
-Programming is a language so powerful  
-It gives me the ability to be so resourceful  
-My coding skills are my pride and joy  
-My work is my own beautiful toy
+The endless power of technology  
+Empowers us to be free  
+  
+We can make the websites run  
+We can make the systems come undone  
+  
+Programming is an art and a science  
+It's an incredible experience  
+  
+To code a website or a program  
+It's a process that's really quite long  
+  
+We use our problem-solving skills  
+To make our projects real  
+  
+Programming is a joy to use  
+It's a tool that can't be abused  
+  
+We use our knowledge to create  
+And make the world a better place
