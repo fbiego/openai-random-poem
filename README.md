@@ -6,32 +6,32 @@
 
 ### today's poem  
   
-Programming, what a delight  
-It's filled with logic and might  
+Programming is like a puzzle,  
+A challenge that I must solve.  
+It's a game of logic and skill,  
+A game I can't dissolve.  
   
-We fill our minds with the code  
-And make the machines explode  
+My mind is set in motion  
+As I try to figure out  
+What command should go where  
+And which ones can I leave out.  
   
-We learn the syntax, its rules and its tricks  
-We make the computers perform our tricks  
+I'm full of ideas  
+But code is what I need.  
+I'll work until I'm done  
+And I'll be sure to succeed.  
   
-The endless power of technology  
-Empowers us to be free  
+My work is built with patience  
+To make it just right.  
+It's an art of my own making  
+A masterpiece of my own design.  
   
-We can make the websites run  
-We can make the systems come undone  
+The hours I put in  
+Are many and long.  
+But the end result is worth it,  
+A program that plays a song.  
   
-Programming is an art and a science  
-It's an incredible experience  
-  
-To code a website or a program  
-It's a process that's really quite long  
-  
-We use our problem-solving skills  
-To make our projects real  
-  
-Programming is a joy to use  
-It's a tool that can't be abused  
-  
-We use our knowledge to create  
-And make the world a better place
+Programming is a passion,  
+A task that I must do.  
+It's a skill I want to master  
+And a challenge I will pursue.
