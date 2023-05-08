@@ -6,32 +6,23 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-A challenge that I must solve.  
-It's a game of logic and skill,  
-A game I can't dissolve.  
+Programming,  
+A language so grand,  
+It can bring ideas to life,  
+Without a single strand.  
   
-My mind is set in motion  
-As I try to figure out  
-What command should go where  
-And which ones can I leave out.  
+It can make a website,  
+An app or game,  
+From a single line of code,  
+We can all make the same.  
   
-I'm full of ideas  
-But code is what I need.  
-I'll work until I'm done  
-And I'll be sure to succeed.  
+Programming can be difficult,  
+And it does take time,  
+But those who persist,  
+Will see success,  
+In life and in rhyme.  
   
-My work is built with patience  
-To make it just right.  
-It's an art of my own making  
-A masterpiece of my own design.  
-  
-The hours I put in  
-Are many and long.  
-But the end result is worth it,  
-A program that plays a song.  
-  
-Programming is a passion,  
-A task that I must do.  
-It's a skill I want to master  
-And a challenge I will pursue.
+Programming is the future,  
+A skill that is here to stay,  
+It can be used to create,  
+Things we use every day.
