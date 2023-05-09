@@ -6,23 +6,22 @@
 
 ### today's poem  
   
-Programming,  
-A language so grand,  
-It can bring ideas to life,  
-Without a single strand.  
+Programming is a language of its own,  
+A skill to be practiced and honed,  
+A way to express creativity,  
+A key to success in the tech industry.  
   
-It can make a website,  
-An app or game,  
-From a single line of code,  
-We can all make the same.  
+It can help you build a website,  
+Or a game that's really quite neat,  
+You can design a program to do your bidding,  
+No matter the task, it won't stop your winning.  
   
-Programming can be difficult,  
-And it does take time,  
-But those who persist,  
-Will see success,  
-In life and in rhyme.  
+It's a process of trial and error,  
+Testing and debugging, every hour,  
+But with dedication and patience in hand,  
+You can master its complexities and command.  
   
-Programming is the future,  
-A skill that is here to stay,  
-It can be used to create,  
-Things we use every day.
+Programming can bring joy and satisfaction,  
+A way to make your dreams come to fruition,  
+No matter the language, the possibilities are endless,  
+It's your ticket to a bright and successful future.
