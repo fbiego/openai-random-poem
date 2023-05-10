@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a language of its own,  
-A skill to be practiced and honed,  
-A way to express creativity,  
-A key to success in the tech industry.  
+Programming is a magical thing,  
+No matter how hard it may seem.  
+It can teach us so much of life,  
+Give us insight that we may need.  
   
-It can help you build a website,  
-Or a game that's really quite neat,  
-You can design a program to do your bidding,  
-No matter the task, it won't stop your winning.  
+We can learn about how to think,  
+How to create and how to solve.  
+Programming can teach us to be brave,  
+It can give us the power to evolve.  
   
-It's a process of trial and error,  
-Testing and debugging, every hour,  
-But with dedication and patience in hand,  
-You can master its complexities and command.  
+It can open up many doors,  
+And let us explore the unknown.  
+We can make something new and grand,  
+It's a skill that we can own.  
   
-Programming can bring joy and satisfaction,  
-A way to make your dreams come to fruition,  
-No matter the language, the possibilities are endless,  
-It's your ticket to a bright and successful future.
+Programming is a great tool,  
+It can help us to succeed.  
+It can give us the power to achieve,  
+Anything we may need.
