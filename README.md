@@ -6,22 +6,17 @@
 
 ### today's poem  
   
-Programming is a magical thing,  
-No matter how hard it may seem.  
-It can teach us so much of life,  
-Give us insight that we may need.  
+Programming, a way to make our dreams reality  
+A way to create a world of fantasy  
+A way to take our ideas and turn them into a visual feast  
+Making an impact beyond all expectations, at least  
   
-We can learn about how to think,  
-How to create and how to solve.  
-Programming can teach us to be brave,  
-It can give us the power to evolve.  
+Programming, a way to bring our visions to life  
+A way to construct a world where we can thrive  
+A way to bring our thoughts to the digital domain  
+Where we can build upon our dreams and create a unique gain  
   
-It can open up many doors,  
-And let us explore the unknown.  
-We can make something new and grand,  
-It's a skill that we can own.  
-  
-Programming is a great tool,  
-It can help us to succeed.  
-It can give us the power to achieve,  
-Anything we may need.
+Programming, a way to bring a world of possibilities  
+A way to create a world where anything is achievable  
+A way to take our imaginations and make them a reality  
+Where we can expand our horizons and reach our ultimate goal of victory
