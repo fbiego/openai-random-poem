@@ -6,17 +6,27 @@
 
 ### today's poem  
   
-Programming, a way to make our dreams reality  
-A way to create a world of fantasy  
-A way to take our ideas and turn them into a visual feast  
-Making an impact beyond all expectations, at least  
+A world of logic and of code  
+A computer's power to be explored  
+A programmer's mind to think and to probe  
+And a language to be honed  
   
-Programming, a way to bring our visions to life  
-A way to construct a world where we can thrive  
-A way to bring our thoughts to the digital domain  
-Where we can build upon our dreams and create a unique gain  
+A program that can perform a task  
+A set of instructions to pass  
+A system of rules to process and ask  
+And a program to be shown  
   
-Programming, a way to bring a world of possibilities  
-A way to create a world where anything is achievable  
-A way to take our imaginations and make them a reality  
-Where we can expand our horizons and reach our ultimate goal of victory
+The language of computers is complex  
+It's often a challenge to express  
+But when the code is written with finesse  
+The result can be quite impressive  
+  
+A program to define a process  
+A way to solve a problem with success  
+A way to make a computer confess  
+A language to be mastered  
+  
+A programmer is a coder of dreams  
+A master of the language of machines  
+A wizard of code and of streams  
+Programming is an art
