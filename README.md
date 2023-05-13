@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-A world of logic and of code  
-A computer's power to be explored  
-A programmer's mind to think and to probe  
-And a language to be honed  
+Programming my life,  
+A labor of love and strife,  
+My thoughts and ideas,  
+Forming into code with ease,  
   
-A program that can perform a task  
-A set of instructions to pass  
-A system of rules to process and ask  
-And a program to be shown  
+Computer science my new friend,  
+My skills I now must mend,  
+Debugging and designing,  
+Each task is so enthralling,  
   
-The language of computers is complex  
-It's often a challenge to express  
-But when the code is written with finesse  
-The result can be quite impressive  
+Coding and learning,  
+My creativity is burning,  
+Finding a solution,  
+My mind is in revolution,  
   
-A program to define a process  
-A way to solve a problem with success  
-A way to make a computer confess  
-A language to be mastered  
-  
-A programmer is a coder of dreams  
-A master of the language of machines  
-A wizard of code and of streams  
-Programming is an art
+Logic and algorithms,  
+My skillsets ever growing,  
+A computer's my new tool,  
+My future I must keep cool.
