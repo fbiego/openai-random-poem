@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming my life,  
-A labor of love and strife,  
-My thoughts and ideas,  
-Forming into code with ease,  
+Programming is a skill that's hard to learn  
+It's a deep realm full of knowledge to earn  
+It's not just a skill, but a way of life  
+That can open up so many opportunities in life  
   
-Computer science my new friend,  
-My skills I now must mend,  
-Debugging and designing,  
-Each task is so enthralling,  
+It can help you build websites, apps, and games  
+It can help you build machines and planes  
+It can help you create something you never thought possible  
+And help you make the world a bit more accessible  
   
-Coding and learning,  
-My creativity is burning,  
-Finding a solution,  
-My mind is in revolution,  
+It's a skill that requires hard work and discipline  
+To make sure you can master the syntax and principles  
+It can help you make a difference in this world  
+And make your ideas come to life and unfurl  
   
-Logic and algorithms,  
-My skillsets ever growing,  
-A computer's my new tool,  
-My future I must keep cool.
+Programming is something that you can do  
+It can help you make a career out of something you love too  
+So take the time to learn it, no matter how long  
+It will be a skill you'll use for life and for which you will be strong.
