@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a skill that's hard to learn  
-It's a deep realm full of knowledge to earn  
-It's not just a skill, but a way of life  
-That can open up so many opportunities in life  
+Programming is like a craft  
+Creating something from nothing  
+You start with a blank slate  
+And craft a masterpiece  
   
-It can help you build websites, apps, and games  
-It can help you build machines and planes  
-It can help you create something you never thought possible  
-And help you make the world a bit more accessible  
+It's a creative outlet  
+A challenge to the mind  
+Coding has no limit  
+You can create almost anything  
   
-It's a skill that requires hard work and discipline  
-To make sure you can master the syntax and principles  
-It can help you make a difference in this world  
-And make your ideas come to life and unfurl  
+It's a language of its own  
+A way to make the world a better place  
+Developing solutions to problems  
+Creating something of substance  
   
-Programming is something that you can do  
-It can help you make a career out of something you love too  
-So take the time to learn it, no matter how long  
-It will be a skill you'll use for life and for which you will be strong.
+Programming can be daunting  
+It takes great skill and knowledge  
+But the rewards are immense  
+A world of possibilities await
