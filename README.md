@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a craft  
-Creating something from nothing  
-You start with a blank slate  
-And craft a masterpiece  
+The clock's ticking, the code's wracking,  
+A new challenge I'm now attacking.  
+I'm writing in bliss, I'm coding with a kiss,  
+I'm so in love with programming.  
   
-It's a creative outlet  
-A challenge to the mind  
-Coding has no limit  
-You can create almost anything  
+My fingers they type, my syntax is tight,  
+My code compiles without a fight.  
+My thoughts now so clear, my future looks near,  
+I'm so in love with programming.  
   
-It's a language of its own  
-A way to make the world a better place  
-Developing solutions to problems  
-Creating something of substance  
+My journey's begun, I've only just started,  
+My learning is only just started.  
+My dreams, they are grand, I'm loving the plan,  
+I'm so in love with programming.  
   
-Programming can be daunting  
-It takes great skill and knowledge  
-But the rewards are immense  
-A world of possibilities await
+My enthusiasm's high, my future looks bright,  
+My skills, they are sure to ignite.  
+My confidence grows, my knowledge flows,  
+I'm so in love with programming.  
+  
+My heart skips a beat, when I'm coding away,  
+My mind, it is completely astray.  
+My passion shines through, my joy, it is true,  
+I'm so in love with programming.
