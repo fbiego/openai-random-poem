@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-The clock's ticking, the code's wracking,  
-A new challenge I'm now attacking.  
-I'm writing in bliss, I'm coding with a kiss,  
-I'm so in love with programming.  
+Programming is my art,  
+A craft I must master.  
+The logic and the code,  
+A skill that I must foster.  
   
-My fingers they type, my syntax is tight,  
-My code compiles without a fight.  
-My thoughts now so clear, my future looks near,  
-I'm so in love with programming.  
+I'll debug and I'll test,  
+Each line I must review.  
+Make sure that the syntax  
+Is perfect and true.  
   
-My journey's begun, I've only just started,  
-My learning is only just started.  
-My dreams, they are grand, I'm loving the plan,  
-I'm so in love with programming.  
+The challenge is great,  
+And I must persist.  
+I'll keep on coding,  
+With skill and a list.  
   
-My enthusiasm's high, my future looks bright,  
-My skills, they are sure to ignite.  
-My confidence grows, my knowledge flows,  
-I'm so in love with programming.  
-  
-My heart skips a beat, when I'm coding away,  
-My mind, it is completely astray.  
-My passion shines through, my joy, it is true,  
-I'm so in love with programming.
+For the coding is fun,  
+And I'll never tire.  
+My passion will never die,  
+As I write code with fire.
