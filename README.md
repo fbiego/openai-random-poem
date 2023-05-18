@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is my art,  
-A craft I must master.  
-The logic and the code,  
-A skill that I must foster.  
+Computers are my closest friend,  
+My programming skills never end.  
+I can create a program with ease,  
+To solve a problem or just to please.  
   
-I'll debug and I'll test,  
-Each line I must review.  
-Make sure that the syntax  
-Is perfect and true.  
+I can build a website or game,  
+It's like a puzzle I can tame.  
+My creativity will never cease,  
+I'm coding with a perfect peace.  
   
-The challenge is great,  
-And I must persist.  
-I'll keep on coding,  
-With skill and a list.  
+I can solve complex problems too,  
+From endless lines of code I will view.  
+I can debug and make it work,  
+My programming skills I will never shirk.  
   
-For the coding is fun,  
-And I'll never tire.  
-My passion will never die,  
-As I write code with fire.
+My programs will serve people well,  
+For any issues I will not yell.  
+I love to see when the code works,  
+My programming skill will never jerk.
