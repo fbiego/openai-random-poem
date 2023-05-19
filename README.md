@@ -6,22 +6,26 @@
 
 ### today's poem  
   
-Computers are my closest friend,  
-My programming skills never end.  
-I can create a program with ease,  
-To solve a problem or just to please.  
+A code that is written with a plan  
+To create something new and grand  
   
-I can build a website or game,  
-It's like a puzzle I can tame.  
-My creativity will never cease,  
-I'm coding with a perfect peace.  
+Creating a program that is smart  
+To make the user's life start  
   
-I can solve complex problems too,  
-From endless lines of code I will view.  
-I can debug and make it work,  
-My programming skills I will never shirk.  
+The programmer works with precision  
+To build something with precision  
   
-My programs will serve people well,  
-For any issues I will not yell.  
-I love to see when the code works,  
-My programming skill will never jerk.
+With loops and functions, iterating  
+Making the user's life more exciting  
+  
+The programmer is the creator  
+Of a world of endless possibilities  
+  
+Debugging and coding with care  
+To make sure it's working out there  
+  
+Programming can be a mystery  
+But it's always an adventure, you see  
+  
+Creating a program from start to end  
+A program that will never bend
