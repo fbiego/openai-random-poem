@@ -6,26 +6,22 @@
 
 ### today's poem  
   
-A code that is written with a plan  
-To create something new and grand  
+Programming is a wondrous thing  
+It can do so many things  
+Creating new software, applications, and games  
+It's all done with code and a few strings  
   
-Creating a program that is smart  
-To make the user's life start  
+From a computer to a phone  
+Programming can make it all known  
+From a website to a store  
+Programming can open any door  
   
-The programmer works with precision  
-To build something with precision  
+A compiler, an interpreter, a debugger, too  
+Programming can help you get through  
+A language like Java, C#, or Python  
+Programming can make your dreams come true  
   
-With loops and functions, iterating  
-Making the user's life more exciting  
-  
-The programmer is the creator  
-Of a world of endless possibilities  
-  
-Debugging and coding with care  
-To make sure it's working out there  
-  
-Programming can be a mystery  
-But it's always an adventure, you see  
-  
-Creating a program from start to end  
-A program that will never bend
+Programming takes hard work and dedication  
+But the end result is worth all its dedication  
+Software, websites, and more  
+Programming will open any door
