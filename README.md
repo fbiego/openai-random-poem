@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming is a wondrous thing  
-It can do so many things  
-Creating new software, applications, and games  
-It's all done with code and a few strings  
+Programming, oh such a tedious endeavor  
+A journey of logic and thought forever  
   
-From a computer to a phone  
-Programming can make it all known  
-From a website to a store  
-Programming can open any door  
+Lines of code and functions to be written  
+Instructions to be followed, never to be smitten  
   
-A compiler, an interpreter, a debugger, too  
-Programming can help you get through  
-A language like Java, C#, or Python  
-Programming can make your dreams come true  
+Debugging the code, line-by-line  
+Tracing the bug, a tricky design  
   
-Programming takes hard work and dedication  
-But the end result is worth all its dedication  
-Software, websites, and more  
-Programming will open any door
+Bytes of data and algorithms of form  
+The result of which, is the goal to perform  
+  
+Testing the program, to make sure it works  
+Checking the syntax, every bit that lurks  
+  
+Finally, the program is ready to go  
+It's time to deploy, the result is a show  
+  
+Programming, the art of making machines  
+The end result, a world of unseen dreams
