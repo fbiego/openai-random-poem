@@ -6,23 +6,32 @@
 
 ### today's poem  
   
-Programming, oh such a tedious endeavor  
-A journey of logic and thought forever  
+Programming is a skill that I must learn  
+To help me create the things I yearn  
   
-Lines of code and functions to be written  
-Instructions to be followed, never to be smitten  
+It takes patience and practice and thought  
+To achieve the goals I have sought  
   
-Debugging the code, line-by-line  
-Tracing the bug, a tricky design  
+I will break problems down into small chunks  
+To figure out how to make them work  
   
-Bytes of data and algorithms of form  
-The result of which, is the goal to perform  
+I will use loops to go through data  
+To make sure everything is up to date  
   
-Testing the program, to make sure it works  
-Checking the syntax, every bit that lurks  
+I will use conditionals to direct the flow  
+To get to the results that I will know  
   
-Finally, the program is ready to go  
-It's time to deploy, the result is a show  
+I will use functions to group code  
+To make it easier to debug and load  
   
-Programming, the art of making machines  
-The end result, a world of unseen dreams
+I will use classes to structure the code  
+To make it easier to manage and code  
+  
+My knowledge of programming will grow  
+As I continue to learn and explore  
+  
+Building applications and websites too  
+Will be part of the things I do  
+  
+Programming is a skill I have learned  
+It has given me knowledge that I have earned
