@@ -6,32 +6,22 @@
 
 ### today's poem  
   
-Programming is a skill that I must learn  
-To help me create the things I yearn  
+Programming is a great way to pass the time  
+You can build something new, or something sublime  
+The possibilities are endless, the challenges you'll face  
+You'll learn a lot and have a lot of fun in the race  
   
-It takes patience and practice and thought  
-To achieve the goals I have sought  
+You can learn to make websites, or games, or apps  
+And add a few features that make them snap  
+When you finally finish, the feeling of accomplishment you'll find  
+Is a reward that's better than anything you can buy  
   
-I will break problems down into small chunks  
-To figure out how to make them work  
+Programming is a skill, and it's something to be proud of  
+Learning and mastering the craft is quite tough  
+But the rewards are worth it, and you'll be glad you worked hard  
+When you can create something that's truly amazing and a work of art  
   
-I will use loops to go through data  
-To make sure everything is up to date  
-  
-I will use conditionals to direct the flow  
-To get to the results that I will know  
-  
-I will use functions to group code  
-To make it easier to debug and load  
-  
-I will use classes to structure the code  
-To make it easier to manage and code  
-  
-My knowledge of programming will grow  
-As I continue to learn and explore  
-  
-Building applications and websites too  
-Will be part of the things I do  
-  
-Programming is a skill I have learned  
-It has given me knowledge that I have earned
+Programming can be quite complicated and time consuming  
+But it's also extremely rewarding and the knowledge you'll be gaining  
+It's a skill that will stay with you for a lifetime  
+And it's something you can use to make your life shine
