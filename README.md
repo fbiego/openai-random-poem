@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, what a joy  
-A task that I so enjoy  
-Coding in the night  
-With a cup of coffee in sight  
+Programming is a language of the future  
+A way to code and make things come alive  
+To create something with a few simple lines  
+That can be used to help mankind thrive  
   
-My mind is in a race  
-I'm learning at a fast pace  
-The syntax and the code  
-My brain can barely hold  
+It’s a creative outlet to explore and discover  
+A language full of complexity and fun  
+Where you can make a computer do your bidding  
+And watch it come to life in the sun  
   
-The logic and the structures  
-The algorithms and the lectures  
-I'm gaining so much knowledge  
-And putting it to use  
+You can build websites, apps and more  
+And learn from others in the community  
+Take part in hackathons and join the fray  
+To create something really unique  
   
-Debugging and problem-solving  
-My brain is always evolving  
-Computers I understand  
-Programming is my command
+Programming is a language of the future  
+A powerful tool for us all to use  
+It’s a way to make the impossible possible  
+And to build a better world for us to choose.
