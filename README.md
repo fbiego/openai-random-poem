@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a language of the future  
-A way to code and make things come alive  
-To create something with a few simple lines  
-That can be used to help mankind thrive  
+Programming is like building a bridge  
+It's a way to cross the divide  
+It can be complex and hard to understand  
+But with patience a masterpiece can be designed  
   
-It’s a creative outlet to explore and discover  
-A language full of complexity and fun  
-Where you can make a computer do your bidding  
-And watch it come to life in the sun  
+It's a language that speaks in ones and zeroes  
+A way to create something from nothing  
+It can be a challenge and a test of your skill  
+But in the end, it's a great feeling  
   
-You can build websites, apps and more  
-And learn from others in the community  
-Take part in hackathons and join the fray  
-To create something really unique  
+Programming is like a puzzle  
+You have to put the pieces in the right place  
+It might take some time but it pays off  
+When you see the whole picture in space  
   
-Programming is a language of the future  
-A powerful tool for us all to use  
-It’s a way to make the impossible possible  
-And to build a better world for us to choose.
+Programming is like a game  
+It can be hard but it's also fun  
+If you get stuck, just take a break  
+And come back when you're done  
+  
+Programming can be a great tool  
+For creating some amazing things  
+It's a way to use your imagination  
+And show the world what it brings
