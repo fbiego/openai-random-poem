@@ -6,23 +6,50 @@
 
 ### today's poem  
   
-Programming is a great way to make your mind go astray,  
-From writing code to designing a website, the possibilities are quite great.  
+Programming is a journey,  
   
-From just a few lines of code, the possibilities are infinite,  
-Creating a game, a website, an app, no limit to the things you can commit.  
+A search for understanding.  
   
-You can make a website with HTML and CSS,  
-Designing a logo, a background, a layout, with graphics and more, you impress.  
+It can be quite mysterious,  
   
-You can create an app with Java, C++, and Python,  
-Using different languages to build the app, with coding you'll be sittin'  
+Filled with puzzling demands.  
   
-Programming is a great way to expand your mind,  
-You'll learn new things, new concepts, new ideas of all kind.  
+At times it can be tedious,  
   
-From working with databases to designing a game,  
-You'll learn new skills that will never be the same.  
+But the reward is worth the cost.  
   
-So if you ever want to challenge yourself,  
-Just pick up a book, and learn to program for yourself.
+For the brave and patient souls  
+  
+Who can master the software's host.  
+  
+The syntax and the language,  
+  
+The logic and the flow.  
+  
+It can be quite confusing,  
+  
+But the challenge can be great fun to know.  
+  
+When you understand the power,  
+  
+The possibilities abound.  
+  
+You can create a new world,  
+  
+Where solutions can be found.  
+  
+So open up your mind,  
+  
+And dive into the code.  
+  
+The journey is long,  
+  
+But the reward can't be overstated.  
+  
+Programming is a journey,  
+  
+Where you will never truly end.  
+  
+A world of possibilities,  
+  
+A challenge that's hard to comprehend.
