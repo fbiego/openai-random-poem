@@ -6,50 +6,22 @@
 
 ### today's poem  
   
-Programming is a journey,  
+Programming is a puzzle so deep  
+A game of sorts, a haiku of code  
+A puzzle like no other, so complex  
+A game of logic, skill, and flow  
   
-A search for understanding.  
+A game of understanding, of patience, of logic  
+A time-consuming endeavor, no doubt  
+A journey of trial and error, but progress  
+A journey that leads to a great reward  
   
-It can be quite mysterious,  
+A reward of satisfaction, accomplishment  
+A reward of a job well done  
+A reward that comes from hard work and dedication  
+A reward that gives you a feeling of pride  
   
-Filled with puzzling demands.  
-  
-At times it can be tedious,  
-  
-But the reward is worth the cost.  
-  
-For the brave and patient souls  
-  
-Who can master the software's host.  
-  
-The syntax and the language,  
-  
-The logic and the flow.  
-  
-It can be quite confusing,  
-  
-But the challenge can be great fun to know.  
-  
-When you understand the power,  
-  
-The possibilities abound.  
-  
-You can create a new world,  
-  
-Where solutions can be found.  
-  
-So open up your mind,  
-  
-And dive into the code.  
-  
-The journey is long,  
-  
-But the reward can't be overstated.  
-  
-Programming is a journey,  
-  
-Where you will never truly end.  
-  
-A world of possibilities,  
-  
-A challenge that's hard to comprehend.
+Programming is a puzzle so deep  
+A game of sorts, a haiku of code  
+A challenge like no other, so complex  
+A game of logic, skill, and flow.
