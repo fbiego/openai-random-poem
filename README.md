@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a secret language,  
-It's like taking a journey through time and space,  
-From the very first line of code,  
-To the end of the debugging race.  
+A program of ones and zeros  
+A language of mystery and code  
+A way to create something new  
+A program's like a book to unfold  
   
-It's a challenge that never stops,  
-To solve the puzzle and put the pieces together,  
-A complex code of loops and stops,  
-And all must work in harmony forever.  
+From HTML to Java and C sharp  
+Each language a different part of the mix  
+We write, we debug, we solve, we debug  
+A program's like a puzzle that we fix  
   
-Programming is like a riddle,  
-A complex mechanism with many a quirk,  
-But with patience and practice and a little bit of luck,  
-You can create something that will really work.  
+A program can be small or large in size  
+A program can be complex or simple and brief  
+A program can be useful and fun  
+A program can make a life more complete  
   
-Programming is like a puzzle,  
-It can be solved with a little bit of strategy,  
-But it takes a special kind of person,  
-To make something great out of the technology.
+A program can be made to do amazing things  
+From a game to a web or a chatbot  
+A program can be a work of art  
+It's creative and unique, like a painting, we plot  
+  
+Programming is a craft that takes time  
+To master it, you need patience and skill  
+But once you understand it, it's worth the climb  
+Programming is an art that's worth the thrill
