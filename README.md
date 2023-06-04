@@ -6,27 +6,24 @@
 
 ### today's poem  
   
-A program of ones and zeros  
-A language of mystery and code  
-A way to create something new  
-A program's like a book to unfold  
+Programming is a language of its own  
+It's a complex system of numbers and symbols  
+It's an art form, and a science rolled into one  
   
-From HTML to Java and C sharp  
-Each language a different part of the mix  
-We write, we debug, we solve, we debug  
-A program's like a puzzle that we fix  
+A language that speaks to the machines  
+And tells them what to do  
+It's a powerful tool that brings so much to the table  
   
-A program can be small or large in size  
-A program can be complex or simple and brief  
-A program can be useful and fun  
-A program can make a life more complete  
+It's a challenge to master, and it takes some time  
+But it's worth the effort, when you start to see the light  
+Programming opens up a world of possibilities  
   
-A program can be made to do amazing things  
-From a game to a web or a chatbot  
-A program can be a work of art  
-It's creative and unique, like a painting, we plot  
+So many doors are opened when you have the knowledge  
+You can create anything you can imagine  
+From the simplest of games to the most intricate websites  
   
-Programming is a craft that takes time  
-To master it, you need patience and skill  
-But once you understand it, it's worth the climb  
-Programming is an art that's worth the thrill
+Programming is a skill that can take you far  
+You can craft your own future with it in your hand  
+  
+Take the time to learn it, and you'll find  
+That programming can be your best friend.
