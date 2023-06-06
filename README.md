@@ -6,22 +6,21 @@
 
 ### today's poem  
   
-Programming is like a puzzle  
-it's a challenging game  
-If you can solve it,  
-you're not the same  
-  
-You need to think ahead  
-and anticipate the moves  
-It's a game of logic and ability  
-that you need to prove  
-  
-You have to write the code  
-and make it work  
-It's like a jigsaw  
-without the perk  
-  
-It's time consuming but worth it  
-in the end  
 Programming is a skill  
-you can always depend
+So many complexities to fill  
+The syntax can be a thrill  
+A challenge to get it right  
+  
+But when it clicks, it's quite a sight  
+A jumble of words and numbers  
+Made sense of all of a sudden  
+  
+The logic behind the lines  
+A puzzle to be defined  
+A challenge to be faced  
+The reward of an executed task  
+  
+A rush of accomplishment  
+A feeling of being content  
+This is what programming brings  
+A sense of pride that it brings
