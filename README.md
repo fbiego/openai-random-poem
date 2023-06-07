@@ -6,21 +6,34 @@
 
 ### today's poem  
   
-Programming is a skill  
-So many complexities to fill  
-The syntax can be a thrill  
-A challenge to get it right  
+Programming is like a puzzle  
   
-But when it clicks, it's quite a sight  
-A jumble of words and numbers  
-Made sense of all of a sudden  
+Solving it is such a hustle  
   
-The logic behind the lines  
-A puzzle to be defined  
-A challenge to be faced  
-The reward of an executed task  
+Assembling the code, making it flow  
   
-A rush of accomplishment  
-A feeling of being content  
-This is what programming brings  
-A sense of pride that it brings
+Till it works as you want, in a row  
+  
+It's a challenge, a game, a fun pursuit  
+  
+The result is a code, that's cute  
+  
+It's a way to express yourself, you see  
+  
+Creating a masterpiece, that's free  
+  
+Programming can be simple, or complex  
+  
+It's a tool that can help you reflect  
+  
+It's a language you can use to create  
+  
+Something that's better than great  
+  
+So if you ever feel lost and confused  
+  
+Put your fingers to the keyboard and choose  
+  
+To write some code that's true and bright  
+  
+And make your ideas come to life.
