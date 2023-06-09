@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a language that I know  
-A set of instructions that I must show  
-A way to tell a computer what to do  
-A way to make the world brand new  
+Programming is a skill of precision,  
+A craft of logic and decision,  
+A set of commands and syntax,  
+Coding can be quite complex.  
   
-Programming is a skill that I must learn  
-A way to make my ideas turn  
-From a thought in my head to an action in code  
-Making new things no one has ever showed  
+Some of us spend hours and hours,  
+Solving problems with immense powers,  
+To create something from the heart,  
+That will make the world a better place to start.  
   
-Programming is a challenge that I love  
-A way to make what I'm thinking of  
-A way to make things from nothing at all  
-A way to make life better for us all  
+It's a language of numbers and symbols,  
+A way of communication and thought that overwhelms,  
+It's a system of thought, logic, and design,  
+That can help us make something that's truly divine.  
   
-Programming is a journey I take  
-A way to create and never break  
-A way to make things work and play  
-A way to make the world a better place today
+You can create a website, a mobile app,  
+Or a game that will give you a great clap,  
+You can create something that will never stop,  
+And will be a part of the world's top.  
+  
+Programming is an art,  
+A way of expressing yourself and to start,  
+A way to create something beautiful,  
+That will make the world more colorful.
