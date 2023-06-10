@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a skill of precision,  
-A craft of logic and decision,  
-A set of commands and syntax,  
-Coding can be quite complex.  
+Programming is like a puzzle  
+A complex solution to a problem  
+It requires a lot of thought  
+To solve it in the proper way  
   
-Some of us spend hours and hours,  
-Solving problems with immense powers,  
-To create something from the heart,  
-That will make the world a better place to start.  
+At times the code can be tricky  
+But with enough hard work and dedication  
+You can find the perfect solution  
+For any code you create  
   
-It's a language of numbers and symbols,  
-A way of communication and thought that overwhelms,  
-It's a system of thought, logic, and design,  
-That can help us make something that's truly divine.  
+Programming can be a challenge  
+But it can be a lot of fun  
+If you keep trying and don't give up  
+You can make something great  
   
-You can create a website, a mobile app,  
-Or a game that will give you a great clap,  
-You can create something that will never stop,  
-And will be a part of the world's top.  
-  
-Programming is an art,  
-A way of expressing yourself and to start,  
-A way to create something beautiful,  
-That will make the world more colorful.
+Programming is an art  
+A skill that takes time and effort  
+It can be frustrating at times  
+But the rewards are worth it in the end
