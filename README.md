@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a puzzle  
-A complex solution to a problem  
-It requires a lot of thought  
-To solve it in the proper way  
+Programming is a wonder,  
+A feat of human design,  
+To create a machine so clever,  
+And give it a mind.  
   
-At times the code can be tricky  
-But with enough hard work and dedication  
-You can find the perfect solution  
-For any code you create  
+It has the ability to think,  
+To process and perform,  
+To solve any mathematical problem,  
+And do so out of the norm.  
   
-Programming can be a challenge  
-But it can be a lot of fun  
-If you keep trying and don't give up  
-You can make something great  
+It can find solutions for puzzles,  
+With data it can crunch,  
+It can recognize patterns for us,  
+In every bit and hunch.  
   
-Programming is an art  
-A skill that takes time and effort  
-It can be frustrating at times  
-But the rewards are worth it in the end
+It can make decisions for us,  
+With logic and its might,  
+It can help us make progress,  
+In our daily plight.  
+  
+Programming is a marvel,  
+A craft of human kind,  
+To create a machine so wise,  
+And give it a mind.
