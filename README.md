@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a wonder,  
-A feat of human design,  
-To create a machine so clever,  
-And give it a mind.  
+Programming is a language all its own  
+A code to be cracked, a puzzle to be known  
+It's a way to build something from nothing  
+A way to make something that's truly something  
   
-It has the ability to think,  
-To process and perform,  
-To solve any mathematical problem,  
-And do so out of the norm.  
+A language of logic, and of rules  
+A language with which to build and create tools  
+The possibilities of what can be done  
+Are limited only by the mind of the one  
   
-It can find solutions for puzzles,  
-With data it can crunch,  
-It can recognize patterns for us,  
-In every bit and hunch.  
+From websites to apps, to games galore  
+Programming is the way to explore  
+The inner workings of a digital world  
+Where you can make a mark, and be heard  
   
-It can make decisions for us,  
-With logic and its might,  
-It can help us make progress,  
-In our daily plight.  
-  
-Programming is a marvel,  
-A craft of human kind,  
-To create a machine so wise,  
-And give it a mind.
+Programming is a gift, a way to create  
+A way to express and to communicate  
+A way to bring ideas to life  
+A way to make something that's truly sublime
