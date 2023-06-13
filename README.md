@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a language all its own  
-A code to be cracked, a puzzle to be known  
-It's a way to build something from nothing  
-A way to make something that's truly something  
+Programming is my passion  
+I never tire of the action  
+My mind works in a fashion  
+That I can never fathom  
   
-A language of logic, and of rules  
-A language with which to build and create tools  
-The possibilities of what can be done  
-Are limited only by the mind of the one  
+The colors, the syntax, the code  
+My fingers type it all like a pro  
+No matter the language, I won't slow  
+My programming skills make me so proud  
   
-From websites to apps, to games galore  
-Programming is the way to explore  
-The inner workings of a digital world  
-Where you can make a mark, and be heard  
+I can solve tricky puzzles  
+My algorithms cause no hassles  
+The code I write is so useful  
+My skills bring me no troubles  
   
-Programming is a gift, a way to create  
-A way to express and to communicate  
-A way to bring ideas to life  
-A way to make something that's truly sublime
+I'm a programmer by nature  
+My code is my great feature  
+My bugfixes are done with pleasure  
+My coding is my great treasure
