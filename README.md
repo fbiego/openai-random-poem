@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming is my passion  
-I never tire of the action  
-My mind works in a fashion  
-That I can never fathom  
+Programming, a skill so hard to learn  
+At times it can make your head spin and turn  
   
-The colors, the syntax, the code  
-My fingers type it all like a pro  
-No matter the language, I won't slow  
-My programming skills make me so proud  
+The syntax and the language can be so obscure  
+But when mastered, you will feel so pure  
   
-I can solve tricky puzzles  
-My algorithms cause no hassles  
-The code I write is so useful  
-My skills bring me no troubles  
+The logic that goes into coding  
+Can be a challenge that is overwhelming  
   
-I'm a programmer by nature  
-My code is my great feature  
-My bugfixes are done with pleasure  
-My coding is my great treasure
+The patience and the time that it takes  
+Can be a real mindbreaking ache  
+  
+But through the difficult moments  
+You will find the joy that coding brings  
+  
+The feeling of accomplishment when you make it work  
+Will make you feel so alert  
+  
+Programming is a skill of the future  
+It will be something you will treasure
