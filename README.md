@@ -6,23 +6,27 @@
 
 ### today's poem  
   
-Programming, a skill so hard to learn  
-At times it can make your head spin and turn  
+Programming, oh programming  
+A complex and mysterious thing  
+That may seem daunting at first glance  
+But is, in fact, an easy dance  
   
-The syntax and the language can be so obscure  
-But when mastered, you will feel so pure  
+For it can be used to create  
+Videos, websites, and apps so great  
+An artist's canvas, some say,  
+For those who'd rather code than play  
   
-The logic that goes into coding  
-Can be a challenge that is overwhelming  
+You can make the world a better place  
+With a few lines of code and some space  
+A puzzle to solve, a story to tell  
+A way to express, a way to excel  
   
-The patience and the time that it takes  
-Can be a real mindbreaking ache  
+Programming is an art, it's true  
+A language of ones and zeroes, too  
+It takes time and dedication  
+To make that dream a realization  
   
-But through the difficult moments  
-You will find the joy that coding brings  
-  
-The feeling of accomplishment when you make it work  
-Will make you feel so alert  
-  
-Programming is a skill of the future  
-It will be something you will treasure
+Programming, oh programming  
+A complex and mysterious thing  
+But with patience and understanding  
+It can be an amazing thing
