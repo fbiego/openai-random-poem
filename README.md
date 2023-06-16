@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming, oh programming  
-A complex and mysterious thing  
-That may seem daunting at first glance  
-But is, in fact, an easy dance  
+Programming, oh coding so sublime  
+Like a chess game, but with less time  
+To think and to plan, the logic to start  
+The syntax and structure, and the code to part  
   
-For it can be used to create  
-Videos, websites, and apps so great  
-An artist's canvas, some say,  
-For those who'd rather code than play  
+The screen is your canvas, and all of the tools  
+To create something new, with such great rules  
+Put together the pieces, to make a whole  
+An application that can take control  
   
-You can make the world a better place  
-With a few lines of code and some space  
-A puzzle to solve, a story to tell  
-A way to express, a way to excel  
+No matter the problem, no matter the size  
+Your mind is the weapon, the force is your eyes  
+To find the solutions, the logic to solve  
+Programming is key, and it's yours to evolve  
   
-Programming is an art, it's true  
-A language of ones and zeroes, too  
-It takes time and dedication  
-To make that dream a realization  
+The languages of code, the ones you can learn  
+Are the key to success, and a path you must earn  
+The ideas and concepts, the concepts to grasp  
+Are the building blocks, of your future's maps  
   
-Programming, oh programming  
-A complex and mysterious thing  
-But with patience and understanding  
-It can be an amazing thing
+Programming, oh coding so sublime  
+It's the key to success, and that is no lie  
+So take up the challenge, and get off the ground  
+It's time to code, and make a sound!
