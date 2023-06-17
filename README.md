@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming, oh coding so sublime  
-Like a chess game, but with less time  
-To think and to plan, the logic to start  
-The syntax and structure, and the code to part  
+Programming is a language,  
+A way to communicate,  
+A way to understand,  
+A way to create.  
   
-The screen is your canvas, and all of the tools  
-To create something new, with such great rules  
-Put together the pieces, to make a whole  
-An application that can take control  
+It's a way to make things,  
+To do things differently,  
+To get it done,  
+In the most efficient way possible.  
   
-No matter the problem, no matter the size  
-Your mind is the weapon, the force is your eyes  
-To find the solutions, the logic to solve  
-Programming is key, and it's yours to evolve  
+Programming is a way to explore,  
+To think differently,  
+To push the boundaries,  
+And to make something new.  
   
-The languages of code, the ones you can learn  
-Are the key to success, and a path you must earn  
-The ideas and concepts, the concepts to grasp  
-Are the building blocks, of your future's maps  
+It's a way to design,  
+To build, and to test,  
+To create something beautiful,  
+In an organized mess.  
   
-Programming, oh coding so sublime  
-It's the key to success, and that is no lie  
-So take up the challenge, and get off the ground  
-It's time to code, and make a sound!
+Programming is a way to express,  
+To think and to solve,  
+To make something from nothing,  
+And to be creative as a whole.
