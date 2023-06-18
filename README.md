@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a language,  
-A way to communicate,  
-A way to understand,  
-A way to create.  
+A sequence of commands to direct a machine  
+A way to order a computer to do something neat  
+A means to calculate, analyze, and scheme  
+Programming is the language of our digital dreams  
   
-It's a way to make things,  
-To do things differently,  
-To get it done,  
-In the most efficient way possible.  
+A way to input data and get a result  
+A way to create a piece of art that's felt  
+A way to write a code and make it run  
+Programming is the way to have some fun  
   
-Programming is a way to explore,  
-To think differently,  
-To push the boundaries,  
-And to make something new.  
+A way to solve puzzles and complex equations  
+A way to test theories and their implications  
+A way to build something with just a few lines  
+Programming is the way to make it shine  
   
-It's a way to design,  
-To build, and to test,  
-To create something beautiful,  
-In an organized mess.  
-  
-Programming is a way to express,  
-To think and to solve,  
-To make something from nothing,  
-And to be creative as a whole.
+Programming is a language that is like no other  
+It's a way of coding that can be an amazing discovery  
+So open that terminal, type in some commands  
+A whole new world awaits, let the programming begin!
