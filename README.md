@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-A sequence of commands to direct a machine  
-A way to order a computer to do something neat  
-A means to calculate, analyze, and scheme  
-Programming is the language of our digital dreams  
+Programming like a puzzle,  
+Forging new paths,  
+Computers do what we ask of them,  
+And oh, the math.  
   
-A way to input data and get a result  
-A way to create a piece of art that's felt  
-A way to write a code and make it run  
-Programming is the way to have some fun  
+Programming can be hard,  
+But the reward is great,  
+When the code is finally tamed,  
+It's a feeling of elate.  
   
-A way to solve puzzles and complex equations  
-A way to test theories and their implications  
-A way to build something with just a few lines  
-Programming is the way to make it shine  
+Programming has its challenges,  
+But also its joys,  
+So don't let the fear stop you,  
+It's all part of the process.  
   
-Programming is a language that is like no other  
-It's a way of coding that can be an amazing discovery  
-So open that terminal, type in some commands  
-A whole new world awaits, let the programming begin!
+Programming is a language,  
+Complex and unique,  
+But the possibilities are endless,  
+So, let's take a peek.  
+  
+Programming can be daunting,  
+But with patience and skill,  
+You'll be mastering the craft,  
+And your code will be thrill!
