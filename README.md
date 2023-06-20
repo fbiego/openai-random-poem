@@ -6,27 +6,26 @@
 
 ### today's poem  
   
-Programming like a puzzle,  
-Forging new paths,  
-Computers do what we ask of them,  
-And oh, the math.  
+Like a puzzle to solve  
+Programming I love  
+It's a challenge I crave  
+A logic exercise  
   
-Programming can be hard,  
-But the reward is great,  
-When the code is finally tamed,  
-It's a feeling of elate.  
+A new idea to conceive  
+My creativity's stirred  
+By the power I receive  
   
-Programming has its challenges,  
-But also its joys,  
-So don't let the fear stop you,  
-It's all part of the process.  
+My brain's in a whirl  
+As I write my codes  
+Debugging my program  
+To make sure it flows  
   
-Programming is a language,  
-Complex and unique,  
-But the possibilities are endless,  
-So, let's take a peek.  
+My aim as I work  
+Is to create something new  
+A one-of-a-kind program  
+That's sure to wow the few  
   
-Programming can be daunting,  
-But with patience and skill,  
-You'll be mastering the craft,  
-And your code will be thrill!
+Passionate and driven  
+By this task I'm engaged  
+I'm ready to conquer  
+My programming saga!
