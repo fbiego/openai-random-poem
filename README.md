@@ -6,26 +6,22 @@
 
 ### today's poem  
   
-Like a puzzle to solve  
-Programming I love  
-It's a challenge I crave  
-A logic exercise  
+Programming is my life,  
+It's the thing that I strive.  
+It's like a game of chess,  
+A challenge that I must address.  
   
-A new idea to conceive  
-My creativity's stirred  
-By the power I receive  
+I can make things from nothing,  
+Create a world with coding.  
+It's a science, an art,  
+It's something I take part.  
   
-My brain's in a whirl  
-As I write my codes  
-Debugging my program  
-To make sure it flows  
+Programming is the way,  
+To make a program play.  
+It's like a puzzle to solve,  
+Making it look good with resolve.  
   
-My aim as I work  
-Is to create something new  
-A one-of-a-kind program  
-That's sure to wow the few  
-  
-Passionate and driven  
-By this task I'm engaged  
-I'm ready to conquer  
-My programming saga!
+Programming is my passion,  
+It's something I will never fashion.  
+It's the thing that I love,  
+And it will come from above.
