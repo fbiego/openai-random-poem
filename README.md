@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is my life,  
-It's the thing that I strive.  
-It's like a game of chess,  
-A challenge that I must address.  
+My mind is a fortress,  
+My thoughts a wall of code  
+My heart is a library,  
+My feelings a deep-seeded code.  
   
-I can make things from nothing,  
-Create a world with coding.  
-It's a science, an art,  
-It's something I take part.  
+Logic and reason,  
+My thoughts are a mess  
+A problem to solve,  
+A challenge best.  
   
-Programming is the way,  
-To make a program play.  
-It's like a puzzle to solve,  
-Making it look good with resolve.  
+My fingers keep typing,  
+My brain never stops  
+My code is my language,  
+A skill I'll never drop.  
   
-Programming is my passion,  
-It's something I will never fashion.  
-It's the thing that I love,  
-And it will come from above.
+A challenge to conquer,  
+A task to achieve  
+Programming is a passion,  
+The power I'll receive.  
+  
+My mind is a fortress,  
+My thoughts a wall of code  
+My heart is a library,  
+My feelings a deep-seeded code.
