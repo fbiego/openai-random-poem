@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming is a skill like no other,  
-Creating a language of 0s and 1s  
-From a world of pure imagination  
-You can create a new innovation.  
+Programming's a strange thing  
+A way to make a machine sing  
+It's a language all its own  
+A way to make things known  
   
-You can create a website or an app  
-It's like a never ending game of snap  
-There's so much potential in code  
-If you have the right mindset, you can go abroad.  
+It takes a certain kind of skill  
+To write the code and make it real  
+It's a science, an art, a craft  
+To put the pieces in the right spot  
   
-You can create a website or a game  
-It's like putting together a puzzle, but not the same  
-It's like a child's first steps, each line of code carefully placed  
-And the end result will be a website with a beautiful face.  
+A program can make calculations  
+And handle complex operations  
+It can do things you never thought  
+It can even be taught  
   
-You can create a program that can help  
-It's like a doctor, providing a yelp  
-It can help with calculations, or even more  
-It can give information and so much more.  
+To teach a machine to think  
+Can be quite a feat  
+But it's a challenge that's worthwhile  
+As it's often neat  
   
-Programming is a skill like no other  
-It can make a difference in the world, like a brother  
-From a world of pure imagination  
-You can create a new innovation.
+From spreadsheets to games  
+Programming is the way  
+To control the technology  
+That's here to stay
