@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming's a strange thing  
-A way to make a machine sing  
-It's a language all its own  
-A way to make things known  
+Programming is like a puzzle,  
+A challenge to solve.  
+It takes creativity and skill,  
+To make the code evolve.  
   
-It takes a certain kind of skill  
-To write the code and make it real  
-It's a science, an art, a craft  
-To put the pieces in the right spot  
+It can be tedious and hard,  
+But also quite rewarding.  
+It's a puzzle that teaches,  
+And skills that will never be boring.  
   
-A program can make calculations  
-And handle complex operations  
-It can do things you never thought  
-It can even be taught  
+At times, it may seem overwhelming,  
+But stick with it and you'll see.  
+The answers you seek,  
+Will appear eventually.  
   
-To teach a machine to think  
-Can be quite a feat  
-But it's a challenge that's worthwhile  
-As it's often neat  
+Programming is like a game,  
+Where coding is the key.  
+Each step of the way,  
+You'll learn and grow, technically.  
   
-From spreadsheets to games  
-Programming is the way  
-To control the technology  
-That's here to stay
+So take the challenge and don't be afraid,  
+And soon you'll be coding like a pro.  
+Your skills will be sharp,  
+And you'll be ready to go!
