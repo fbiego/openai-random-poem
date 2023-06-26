@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-A challenge to solve.  
-It takes creativity and skill,  
-To make the code evolve.  
+Programming is a language  
+so precise and so fine  
+It's an art that can be mastered  
+with practice and time  
   
-It can be tedious and hard,  
-But also quite rewarding.  
-It's a puzzle that teaches,  
-And skills that will never be boring.  
+It takes intelligence and skill  
+to make a program run  
+and a bit of creativity  
+to make it fun  
   
-At times, it may seem overwhelming,  
-But stick with it and you'll see.  
-The answers you seek,  
-Will appear eventually.  
+It's a way to solve problems  
+and create something new  
+It's a challenge that is thrilling  
+for me and you  
   
-Programming is like a game,  
-Where coding is the key.  
-Each step of the way,  
-You'll learn and grow, technically.  
-  
-So take the challenge and don't be afraid,  
-And soon you'll be coding like a pro.  
-Your skills will be sharp,  
-And you'll be ready to go!
+So let's keep learning  
+from the masters of the craft  
+and together we will make  
+something that will last
