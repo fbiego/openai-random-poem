@@ -6,22 +6,20 @@
 
 ### today's poem  
   
-Programming is a language  
-so precise and so fine  
-It's an art that can be mastered  
-with practice and time  
+Programming is like a puzzle of life  
+A way to express emotions and strife  
   
-It takes intelligence and skill  
-to make a program run  
-and a bit of creativity  
-to make it fun  
+A way to make things easier  
+A way to make the world much queerer  
   
-It's a way to solve problems  
-and create something new  
-It's a challenge that is thrilling  
-for me and you  
+A way to make the world a brighter place  
+A way to bring people joy and grace  
   
-So let's keep learning  
-from the masters of the craft  
-and together we will make  
-something that will last
+A way to make the world a better place  
+A way to give people a voice and a face  
+  
+Programming is my passion and joy  
+A way to make things happen with a single ploy  
+  
+A way to solve the problems we face  
+A way to make our lives a better place
