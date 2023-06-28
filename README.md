@@ -6,20 +6,27 @@
 
 ### today's poem  
   
-Programming is like a puzzle of life  
-A way to express emotions and strife  
+Programming with its syntax and rules  
+Making machines do what I choose  
+Creating something from nothing  
+My code can give life to the blues  
   
-A way to make things easier  
-A way to make the world much queerer  
+Into the world of codes I dive  
+Exploring the realm of the byte  
+Testing all the different parts  
+To make sure that nothing is slight  
   
-A way to make the world a brighter place  
-A way to bring people joy and grace  
+Finding solutions to problems  
+These puzzles I enjoy to solve  
+Writing algorithms and functions  
+To make the most of the revolve  
   
-A way to make the world a better place  
-A way to give people a voice and a face  
+Debugging with each line of code  
+Editing what doesn't work  
+Making sure all is running smoothly  
+Is the challenge that I'm up to perk  
   
-Programming is my passion and joy  
-A way to make things happen with a single ploy  
-  
-A way to solve the problems we face  
-A way to make our lives a better place
+The beauty of programming  
+A language I can control  
+Making the impossible possible  
+Is a satisfaction to behold
