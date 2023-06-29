@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming with its syntax and rules  
-Making machines do what I choose  
-Creating something from nothing  
-My code can give life to the blues  
+Programming, it’s a language that’s so grand  
+From the mundane to the complex, it’s at hand  
+It’s the language of machines, a bridge between man  
+A key to unlocking the future, and the past  
   
-Into the world of codes I dive  
-Exploring the realm of the byte  
-Testing all the different parts  
-To make sure that nothing is slight  
+Lines of code that stream on like a river  
+Syntax that’s precise, it’s so clever  
+It’s the language of the web, more powerful than ever  
+A must for any tech enthusiast, it’s a must-have  
   
-Finding solutions to problems  
-These puzzles I enjoy to solve  
-Writing algorithms and functions  
-To make the most of the revolve  
+It’s a creative outlet, a way to express  
+A way to make something out of nothing, I must confess  
+It’s a way to make things happen, and to progress  
+It’s a way to bring ideas to life, it’s the best  
   
-Debugging with each line of code  
-Editing what doesn't work  
-Making sure all is running smoothly  
-Is the challenge that I'm up to perk  
-  
-The beauty of programming  
-A language I can control  
-Making the impossible possible  
-Is a satisfaction to behold
+Programming, it’s a language that never ends  
+A way to make the world a better place, and to transcend  
+It’s the language of the future, it’s the language of trends  
+It’s a language I can’t get enough of, so I’ll never stop learning.
