@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, it’s a language that’s so grand  
-From the mundane to the complex, it’s at hand  
-It’s the language of machines, a bridge between man  
-A key to unlocking the future, and the past  
+Programming is like a puzzle,  
+Each piece you must assemble.  
+Finding each missing part,  
+To make your program stable.  
   
-Lines of code that stream on like a river  
-Syntax that’s precise, it’s so clever  
-It’s the language of the web, more powerful than ever  
-A must for any tech enthusiast, it’s a must-have  
+You must debug your codes,  
+Until the computer nods.  
+Writing each line with care,  
+To make sure your program runs fair.  
   
-It’s a creative outlet, a way to express  
-A way to make something out of nothing, I must confess  
-It’s a way to make things happen, and to progress  
-It’s a way to bring ideas to life, it’s the best  
+You must learn the syntax,  
+For your code to compile.  
+Testing and debugging,  
+To make sure it runs mile.  
   
-Programming, it’s a language that never ends  
-A way to make the world a better place, and to transcend  
-It’s the language of the future, it’s the language of trends  
-It’s a language I can’t get enough of, so I’ll never stop learning.
+Programming is no simple task,  
+But with practice and time,  
+Your code will work,  
+And you'll be sublime!
