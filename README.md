@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-Each piece you must assemble.  
-Finding each missing part,  
-To make your program stable.  
+Programming is a language,  
+It’s like a written dance.  
+In code we can express,  
+Our ideas and advance.  
   
-You must debug your codes,  
-Until the computer nods.  
-Writing each line with care,  
-To make sure your program runs fair.  
+It’s a way to create,  
+A thing so great.  
+We can build something new,  
+And make it do what we want it to.  
   
-You must learn the syntax,  
-For your code to compile.  
-Testing and debugging,  
-To make sure it runs mile.  
+Programming is a skill,  
+That takes time and will.  
+It is not easy,  
+But it can be breezy.  
   
-Programming is no simple task,  
-But with practice and time,  
-Your code will work,  
-And you'll be sublime!
+We can make something,   
+From nothing at all.  
+We write the code,  
+And make it tall.  
+  
+Programming makes us think,  
+It’s a way to link.  
+It can be tough,  
+But nothing is enough.
