@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a language,  
-It’s like a written dance.  
-In code we can express,  
-Our ideas and advance.  
+Programming can be a challenge,  
+A puzzle waiting to be solved,  
+A task that can take hours,  
+The lines of code that must be involved.  
   
-It’s a way to create,  
-A thing so great.  
-We can build something new,  
-And make it do what we want it to.  
+It's logic and precision,  
+A science of its own,  
+Writing code that can be read,  
+A skill that must be known.  
   
-Programming is a skill,  
-That takes time and will.  
-It is not easy,  
-But it can be breezy.  
+For a programmer to succeed,  
+Organization is key,  
+The details that make a program complete,  
+The little things that set it free.  
   
-We can make something,   
-From nothing at all.  
-We write the code,  
-And make it tall.  
-  
-Programming makes us think,  
-It’s a way to link.  
-It can be tough,  
-But nothing is enough.
+The satisfaction of a job done,  
+A task that looks complete,  
+Programming can be a struggle,  
+But to some, it's a feat.
