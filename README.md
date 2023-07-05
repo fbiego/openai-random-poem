@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming's a skill I'm trying to learn,  
-It's on my list of things to discern.  
-Not only have I got to think hard,  
-But also keep track of every card.  
+Programming how I adore thee  
+Thou art the lifeblood of me  
+The only thing that makes my heart beat  
+My brain's sweet honey, oh so sweet  
   
-For each and every line of code,  
-There's a logic that I must decode.  
-It's a challenge for my brain to find,  
-The answer that I need to bind.  
+I love the challenge in each line  
+To make it all turn out just fine  
+From the coding to the debugging  
+It's like a game of hide and seek  
   
-I'm still getting used to the syntax,  
-And trying not to use too many hex.  
-But with each new bit of knowledge I acquire,  
-My skills of programming grow so much higher.  
+Though it may have its ups and downs  
+We'll continue to work towards the crown  
+The pride in knowing just what you've done  
+For something that's already won  
   
-Programming is a language all its own,  
-It's a way to make even the abstractly known.  
-For those who take the time to learn,  
-A world of possibilities will then begin to turn.
+Programming, my love for thee  
+Will never for a moment leave  
+The joy of knowing I can make  
+A difference, oh, what a stake!
