@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming how I adore thee  
-Thou art the lifeblood of me  
-The only thing that makes my heart beat  
-My brain's sweet honey, oh so sweet  
+Programming is like a puzzle,  
+A game that I play,  
+I can create anything,  
+If I put my mind to it and I play.  
   
-I love the challenge in each line  
-To make it all turn out just fine  
-From the coding to the debugging  
-It's like a game of hide and seek  
+My ideas are like stars in the sky,  
+If I focus I can make them fly,  
+To the code I will add,   
+And the program will come alive.  
   
-Though it may have its ups and downs  
-We'll continue to work towards the crown  
-The pride in knowing just what you've done  
-For something that's already won  
+I am the master of my domain,  
+I can create anything from the mundane,  
+No matter how hard the task may be,  
+Programming is the key.  
   
-Programming, my love for thee  
-Will never for a moment leave  
-The joy of knowing I can make  
-A difference, oh, what a stake!
+I can make a world filled with fun,  
+A place where everyone can come,  
+No matter what game I decide to make,  
+The challenge is what will make programming great.
