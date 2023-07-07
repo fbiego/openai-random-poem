@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-A game that I play,  
-I can create anything,  
-If I put my mind to it and I play.  
+Programming is like a puzzle  
+A challenge that's full of hustle  
+A challenge of wit and patience  
+A challenge of logic and science  
   
-My ideas are like stars in the sky,  
-If I focus I can make them fly,  
-To the code I will add,   
-And the program will come alive.  
+It's a combination of bits and bytes  
+A combination of ones and zeroes  
+A combination of building and problem solving  
+A combination of looking and doing  
   
-I am the master of my domain,  
-I can create anything from the mundane,  
-No matter how hard the task may be,  
-Programming is the key.  
+It's a language of math and logic  
+A language of instructions and syntax  
+A language of algorithms and abstractions  
+A language of data and operations  
   
-I can make a world filled with fun,  
-A place where everyone can come,  
-No matter what game I decide to make,  
-The challenge is what will make programming great.
+It's a way of thinking and solving  
+A way of understanding and creating  
+A way of being creative and innovative  
+A way of expressing and communicating  
+  
+Programming is what I do  
+To make my ideas come true  
+To make my dreams and visions real  
+To make my computer do my will
