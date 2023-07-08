@@ -6,27 +6,25 @@
 
 ### today's poem  
   
-Programming is like a puzzle  
-A challenge that's full of hustle  
-A challenge of wit and patience  
-A challenge of logic and science  
+Programming's a language of its own,  
+A way to make things be shown  
+A way to make the world turn round,  
+A way to make computers abound  
   
-It's a combination of bits and bytes  
-A combination of ones and zeroes  
-A combination of building and problem solving  
-A combination of looking and doing  
+It's a set of instructions, so true,  
+A way to make things come to life anew  
+A way to make things work like a charm,  
+A way to make things work without harm  
   
-It's a language of math and logic  
-A language of instructions and syntax  
-A language of algorithms and abstractions  
-A language of data and operations  
+It's a world of logic and reason,  
+A way to create a new season  
+A way to make life easier and more fun,  
+A way to make the most of what's done  
   
-It's a way of thinking and solving  
-A way of understanding and creating  
-A way of being creative and innovative  
-A way of expressing and communicating  
+It's a way to learn and to grow,  
+A way to make things go  
+A way to make the world a better place,  
+A way to make the future so we can face  
   
-Programming is what I do  
-To make my ideas come true  
-To make my dreams and visions real  
-To make my computer do my will
+Programming's a language all its own,  
+A way to make things be shown.
