@@ -6,25 +6,27 @@
 
 ### today's poem  
   
-Programming's a language of its own,  
-A way to make things be shown  
-A way to make the world turn round,  
-A way to make computers abound  
+Programming is an art,  
+A way to create and impart,  
+A way to make a machine  
+Do what you want it to be seen.  
   
-It's a set of instructions, so true,  
-A way to make things come to life anew  
-A way to make things work like a charm,  
-A way to make things work without harm  
+It's a way to craft something new,  
+Something to make others view,  
+A way to make a machine  
+Do what you want it to be seen.  
   
-It's a world of logic and reason,  
-A way to create a new season  
-A way to make life easier and more fun,  
-A way to make the most of what's done  
+It's a way to make something grand,  
+Something to make others understand,  
+A way to make a machine  
+Do what you want it to be seen.  
   
-It's a way to learn and to grow,  
-A way to make things go  
-A way to make the world a better place,  
-A way to make the future so we can face  
+It's a way to craft a masterpiece,  
+Something to make other's minds cease,  
+A way to make a machine  
+Do what you want it to be seen.  
   
-Programming's a language all its own,  
-A way to make things be shown.
+Programming is an art,  
+A way to create and impart,  
+A way to make a machine  
+Do what you want it to be seen.
