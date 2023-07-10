@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming is an art,  
-A way to create and impart,  
-A way to make a machine  
-Do what you want it to be seen.  
+Coding and programming,  
+An art that’s unique and fun,  
+A world of endless possibilities,  
+Where anything can be done.  
   
-It's a way to craft something new,  
-Something to make others view,  
-A way to make a machine  
-Do what you want it to be seen.  
+Inputting codes and algorithms,  
+Lines full of symbols and numbers,  
+Bringing life to machines,  
+Creating something that slumbers.  
   
-It's a way to make something grand,  
-Something to make others understand,  
-A way to make a machine  
-Do what you want it to be seen.  
+Debugging and testing,  
+Making sure the code is right,  
+Writing loops and conditions,  
+And making sure the logic is tight.  
   
-It's a way to craft a masterpiece,  
-Something to make other's minds cease,  
-A way to make a machine  
-Do what you want it to be seen.  
+Designing a user interface,  
+Making sure it looks just right,  
+Building applications and websites,  
+So people can access day and night.  
   
-Programming is an art,  
-A way to create and impart,  
-A way to make a machine  
-Do what you want it to be seen.
+Programming is a skill,  
+That requires patience and time,  
+But it can be rewarding,  
+In the end, it will all be just fine.
