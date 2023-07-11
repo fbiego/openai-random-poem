@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Coding and programming,  
-An art that’s unique and fun,  
-A world of endless possibilities,  
-Where anything can be done.  
+Programming is a thing of beauty,  
+It's a way to make our dreams come true,  
+To express our creativity,  
+And to give us what we need to do.  
   
-Inputting codes and algorithms,  
-Lines full of symbols and numbers,  
-Bringing life to machines,  
-Creating something that slumbers.  
+It's a language of machines and more,  
+It's a way to solve and explore,  
+From making websites to games galore,  
+It's an art to which we can all adore.  
   
-Debugging and testing,  
-Making sure the code is right,  
-Writing loops and conditions,  
-And making sure the logic is tight.  
+It's a way to make our lives better,  
+To make something out of nothing ever,  
+And to create things never before,  
+It's an amazing feat like no other.  
   
-Designing a user interface,  
-Making sure it looks just right,  
-Building applications and websites,  
-So people can access day and night.  
+We can use it to automate tasks,  
+We can use it to build amazing apps,  
+We can use it to make our future bright,  
+And to make the world a better sight.  
   
-Programming is a skill,  
-That requires patience and time,  
-But it can be rewarding,  
-In the end, it will all be just fine.
+So use your programming skills today,  
+To make something that will stand the test of time,  
+And to show the world that you have something to say,  
+Because programming is a thing of beauty!
