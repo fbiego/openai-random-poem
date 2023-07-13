@@ -6,27 +6,17 @@
 
 ### today's poem  
   
-Programming is my passion,  
-It’s a language of creation,  
-A way to make my dreams come true,  
-And build something brand new.  
+I'm a programmer, an engineer of sorts  
+I'm the one who can develop the thought  
+From a simple problem to a complex solution  
+I can make something new with each iteration  
   
-I can craft an application,  
-Or a website from my imagination,  
-A game that I can share,  
-That anyone can play with care.  
+Creating algorithms and debugging codes  
+I'm the one who makes sure it loads  
+From a single line to a whole application  
+I'm here to make your dreams a realization  
   
-Programming is a way to express,  
-To make something to impress,  
-A way to show my coding skill,  
-To create something that will thrill.  
-  
-It’s more than just a job,  
-It’s a hobby, a career, a mob,  
-It’s a skill that I can use,  
-To make something that I choose.  
-  
-Programming is my passion,  
-It’s a language of creation,  
-A way to make my dreams come true,  
-And build something brand new.
+My work is complex and my coding is tough  
+But I can make your project have no hiccups  
+I'm a programmer, an innovator of sorts  
+I'm the one who makes your ideas come to life in a sort
