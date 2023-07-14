@@ -6,17 +6,27 @@
 
 ### today's poem  
   
-I'm a programmer, an engineer of sorts  
-I'm the one who can develop the thought  
-From a simple problem to a complex solution  
-I can make something new with each iteration  
+From the depths of the coding abyss,  
+We battle the bugs and the lists,  
+The lines of code all amassed,  
+We strive to make them last.  
   
-Creating algorithms and debugging codes  
-I'm the one who makes sure it loads  
-From a single line to a whole application  
-I'm here to make your dreams a realization  
+We don't mind the midnight hours,  
+We don't mind the midnight showers,  
+The ones that turn the bits to bytes,  
+In the search for computational highs.  
   
-My work is complex and my coding is tough  
-But I can make your project have no hiccups  
-I'm a programmer, an innovator of sorts  
-I'm the one who makes your ideas come to life in a sort
+We balance the ones and the zeroes,  
+We find the loops and the heroes,  
+We strive for the perfect code,  
+The one that never shows a single node.  
+  
+We debug when the machines crash,  
+We test until we just can't stand,  
+We make sure the software runs,  
+And for that, our praises come.  
+  
+The challenge of programming is real,  
+But it's the challenge that we must feel,  
+The satisfaction of a job well done,  
+Is the reward of a programming one.
