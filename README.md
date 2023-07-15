@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-From the depths of the coding abyss,  
-We battle the bugs and the lists,  
-The lines of code all amassed,  
-We strive to make them last.  
+Programming, so complex and opaque  
+A language so hard to decode  
+It takes a special kind of brain  
+To understand its inner workings and gain  
   
-We don't mind the midnight hours,  
-We don't mind the midnight showers,  
-The ones that turn the bits to bytes,  
-In the search for computational highs.  
+A daunting task to learn this skill  
+A journey that can seem uphill  
+But with dedication and hard work  
+You can make your code go berserk  
   
-We balance the ones and the zeroes,  
-We find the loops and the heroes,  
-We strive for the perfect code,  
-The one that never shows a single node.  
+You can create a world of wonders  
+Using code to make it come alive  
+From a simple game to a complex system  
+Programming makes it all come to life  
   
-We debug when the machines crash,  
-We test until we just can't stand,  
-We make sure the software runs,  
-And for that, our praises come.  
-  
-The challenge of programming is real,  
-But it's the challenge that we must feel,  
-The satisfaction of a job well done,  
-Is the reward of a programming one.
+Let your imagination run free  
+Create something that will set you apart  
+Explore the possibilities of programming  
+And show the world your coding smarts!
