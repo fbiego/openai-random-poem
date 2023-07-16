@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, so complex and opaque  
-A language so hard to decode  
-It takes a special kind of brain  
-To understand its inner workings and gain  
+A program in hand and a vision in mind  
+You craft a new language, so diverse and so fine.  
+You create a world full of ifs and of thens  
+Where logic and reasoning have no end.  
   
-A daunting task to learn this skill  
-A journey that can seem uphill  
-But with dedication and hard work  
-You can make your code go berserk  
+You design a platform with features and such  
+The possibilities are endless, it's almost too much.  
+You debug the code and follow the specs  
+Making sure that the program never wrecks.  
   
-You can create a world of wonders  
-Using code to make it come alive  
-From a simple game to a complex system  
-Programming makes it all come to life  
+The user interface is easy to use  
+You design it so that the user never has to choose.  
+You write the code with a few simple clicks  
+And make sure that the user never gets sick.  
   
-Let your imagination run free  
-Create something that will set you apart  
-Explore the possibilities of programming  
-And show the world your coding smarts!
+A program is crafted and a vision is reached  
+You have created a masterpiece that will teach.  
+You can share it with others and watch it grow  
+The programming world is just beginning to show.
