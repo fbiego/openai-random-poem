@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-A program in hand and a vision in mind  
-You craft a new language, so diverse and so fine.  
-You create a world full of ifs and of thens  
-Where logic and reasoning have no end.  
+Programming is my passion  
+I sit and I type with elation  
+Coding and creating, day and night  
+Testing and debugging, with all my might  
   
-You design a platform with features and such  
-The possibilities are endless, it's almost too much.  
-You debug the code and follow the specs  
-Making sure that the program never wrecks.  
+Lines of code, I love to write  
+Sometimes I stay up all night  
+Making sure my programs work just right  
+Achieving success, a sense of delight  
   
-The user interface is easy to use  
-You design it so that the user never has to choose.  
-You write the code with a few simple clicks  
-And make sure that the user never gets sick.  
+Debugging, I do with ease  
+All my programs, I will please  
+No errors, no bugs, nothing to impede  
+I'm confident, I have all I need  
   
-A program is crafted and a vision is reached  
-You have created a masterpiece that will teach.  
-You can share it with others and watch it grow  
-The programming world is just beginning to show.
+Programming is my craft  
+I'm proud of the things I have made  
+Computers and I, we make a great pair  
+With coding, I will always be there
