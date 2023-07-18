@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is my passion  
-I sit and I type with elation  
-Coding and creating, day and night  
-Testing and debugging, with all my might  
+Programming, oh what a task  
+It's a skill you cannot mask  
+It's the way of the future, a language all its own  
+Integrating with machines, to make them your own  
   
-Lines of code, I love to write  
-Sometimes I stay up all night  
-Making sure my programs work just right  
-Achieving success, a sense of delight  
+It's a process of learning, and a challenge to grow  
+No matter the task, you'll need to know  
+Variables, loops, and functions,  
+Makes up a program of high precision  
   
-Debugging, I do with ease  
-All my programs, I will please  
-No errors, no bugs, nothing to impede  
-I'm confident, I have all I need  
+You'll use logic and analysis,  
+To debug those errors and anomalies  
+It's a journey of exploration,  
+To bring your dream into realisation  
   
-Programming is my craft  
-I'm proud of the things I have made  
-Computers and I, we make a great pair  
-With coding, I will always be there
+Programming is a passion, a joy and a thrill  
+It's a way to express your creative will  
+It's a language of the tech world,  
+A way to be creative, and a way to be heard
