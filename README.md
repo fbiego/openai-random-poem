@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, oh what a task  
-It's a skill you cannot mask  
-It's the way of the future, a language all its own  
-Integrating with machines, to make them your own  
+I write code and build programs  
+To make a computer do my bidding  
+My fingertips dance along the keys  
+Solving puzzles and problems with ease  
   
-It's a process of learning, and a challenge to grow  
-No matter the task, you'll need to know  
-Variables, loops, and functions,  
-Makes up a program of high precision  
+It's like a puzzle, a game of sorts  
+I delight in finding the missing thoughts  
+My mind works in mysterious ways  
+Finding patterns and clever plays  
   
-You'll use logic and analysis,  
-To debug those errors and anomalies  
-It's a journey of exploration,  
-To bring your dream into realisation  
+The computer obeys my command  
+A powerful tool at my hand  
+My ideas come to life  
+When I write code and debug strife  
   
-Programming is a passion, a joy and a thrill  
-It's a way to express your creative will  
-It's a language of the tech world,  
-A way to be creative, and a way to be heard
+A world of possibility opens up  
+As I learn and grow my cup  
+Each bug I fix and line I write  
+Gives me a new sense of delight
