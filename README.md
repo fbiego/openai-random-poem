@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-I write code and build programs  
-To make a computer do my bidding  
-My fingertips dance along the keys  
-Solving puzzles and problems with ease  
+Coding my way through the night,  
+My mind is a hive of delight.  
+The code is a language all its own,  
+Complex, yet at the same time, known.  
   
-It's like a puzzle, a game of sorts  
-I delight in finding the missing thoughts  
-My mind works in mysterious ways  
-Finding patterns and clever plays  
+My fingers type away in a trance,  
+Every line of code I advance.  
+The challenge of the task at hand,  
+Is something I just understand.  
   
-The computer obeys my command  
-A powerful tool at my hand  
-My ideas come to life  
-When I write code and debug strife  
+My monitor is my friend and guide,  
+Where I can work side by side.  
+The lines of code keep piling up,  
+As I'm working on my cup.  
   
-A world of possibility opens up  
-As I learn and grow my cup  
-Each bug I fix and line I write  
-Gives me a new sense of delight
+My skill I will never forget,  
+My programming skills are a debt.  
+For the things that I have done,  
+I'm sure I will have lots of fun.
