@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Coding my way through the night,  
-My mind is a hive of delight.  
-The code is a language all its own,  
-Complex, yet at the same time, known.  
+Programming, so complex and deep,  
+From the simple to the very steep.  
+Creating a program that's sound and true,  
+Coding with bits and bytes anew.  
   
-My fingers type away in a trance,  
-Every line of code I advance.  
-The challenge of the task at hand,  
-Is something I just understand.  
+Designing a program with skill and care,  
+Lines of code compiled everywhere.  
+Debugging, testing, to get it right,  
+Executing commands with all your might.  
   
-My monitor is my friend and guide,  
-Where I can work side by side.  
-The lines of code keep piling up,  
-As I'm working on my cup.  
+Chasing after bugs late at night,  
+Logic and debugging in full flight.  
+Searching the code to find the clues,  
+Debugging the program to make it choose.  
   
-My skill I will never forget,  
-My programming skills are a debt.  
-For the things that I have done,  
-I'm sure I will have lots of fun.
+Data Structures and algorithms,  
+A challenge for the most of us.  
+Finding the best way for its use,  
+Programming can be so much fun and reuse.  
+  
+The complexity of coding is no joke,  
+It takes skill and time to make it work.  
+So take your time and do your best,  
+And soon you'll have a program that passes the test.
