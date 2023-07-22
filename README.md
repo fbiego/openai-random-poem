@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming, so complex and deep,  
-From the simple to the very steep.  
-Creating a program that's sound and true,  
-Coding with bits and bytes anew.  
+Programming, it's a joyous thing  
+A language that's made of zeroes and ones  
+It can be used to create everything   
+From a website to a game  
   
-Designing a program with skill and care,  
-Lines of code compiled everywhere.  
-Debugging, testing, to get it right,  
-Executing commands with all your might.  
+It's a tool that can make our lives easier  
+It can be used to automate tasks  
+It can help us find answers that are quicker  
+And solve problems with just a few clicks  
   
-Chasing after bugs late at night,  
-Logic and debugging in full flight.  
-Searching the code to find the clues,  
-Debugging the program to make it choose.  
+It's a skill that's in high demand  
+That can help you make a good living  
+It can be used to build things that no one has seen  
+Give you a great sense of giving  
   
-Data Structures and algorithms,  
-A challenge for the most of us.  
-Finding the best way for its use,  
-Programming can be so much fun and reuse.  
-  
-The complexity of coding is no joke,  
-It takes skill and time to make it work.  
-So take your time and do your best,  
-And soon you'll have a program that passes the test.
+It's an art that requires patience and some brains  
+It's a skill that'll help you succeed  
+It's a language that'll never go away  
+Programming, it's a beautiful thing indeed.
