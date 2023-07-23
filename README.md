@@ -6,22 +6,26 @@
 
 ### today's poem  
   
-Programming, it's a joyous thing  
-A language that's made of zeroes and ones  
-It can be used to create everything   
-From a website to a game  
+Coding is a language so abstract  
+A language that can do so much, yet so exact  
   
-It's a tool that can make our lives easier  
-It can be used to automate tasks  
-It can help us find answers that are quicker  
-And solve problems with just a few clicks  
+It's like a puzzle, a problem to solve  
+But with the right code, you can make it evolve  
   
-It's a skill that's in high demand  
-That can help you make a good living  
-It can be used to build things that no one has seen  
-Give you a great sense of giving  
+It's a skill that's ever-evolving and ever-growing  
+A skill that is always changing and constantly flowing  
   
-It's an art that requires patience and some brains  
-It's a skill that'll help you succeed  
-It's a language that'll never go away  
-Programming, it's a beautiful thing indeed.
+It's a way to express yourself, to explore and create  
+A way to make something out of nothing, before it even was great  
+  
+It's a tool that can make systems, apps, and websites appear  
+And it's a language that can make data become clear  
+  
+Coding is a skill that's becoming more and more important  
+A skill that can bring ideas to life, no matter how distant   
+  
+It's a language of creativity, of innovation, and of thought  
+A language that can transform the world, no matter how small or how large it's sought  
+  
+Coding is a language, an art, a science, and more  
+A language of potential, that's truly for evermore.
