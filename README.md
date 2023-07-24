@@ -6,26 +6,20 @@
 
 ### today's poem  
   
-Coding is a language so abstract  
-A language that can do so much, yet so exact  
+A coding life is a challenge that's true  
+But the reward of a working program too  
   
-It's like a puzzle, a problem to solve  
-But with the right code, you can make it evolve  
+A challenge of logic and syntax  
+Can seem overwhelming but not so complex  
   
-It's a skill that's ever-evolving and ever-growing  
-A skill that is always changing and constantly flowing  
+It's not a race, there's no real time  
+Just solve the problem one line at a time  
   
-It's a way to express yourself, to explore and create  
-A way to make something out of nothing, before it even was great  
+Step by step, slowly but surely  
+The program gradually starts to work properly  
   
-It's a tool that can make systems, apps, and websites appear  
-And it's a language that can make data become clear  
+It's a journey of trial and error  
+But the outcome is worth it, no need to terror  
   
-Coding is a skill that's becoming more and more important  
-A skill that can bring ideas to life, no matter how distant   
-  
-It's a language of creativity, of innovation, and of thought  
-A language that can transform the world, no matter how small or how large it's sought  
-  
-Coding is a language, an art, a science, and more  
-A language of potential, that's truly for evermore.
+The satisfaction of a successful coding project  
+A feeling that's not easily forget
