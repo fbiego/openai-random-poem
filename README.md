@@ -6,20 +6,27 @@
 
 ### today's poem  
   
-A coding life is a challenge that's true  
-But the reward of a working program too  
+We code in the night   
+Pushing pixels and bytes  
+Programming with delight   
+The errors we fight  
   
-A challenge of logic and syntax  
-Can seem overwhelming but not so complex  
+We create with our minds   
+And watch our dreams take flight  
+A world of our own design   
+We set things right  
   
-It's not a race, there's no real time  
-Just solve the problem one line at a time  
+We craft with our hands   
+Elegant and precise  
+Inventing new lands   
+A place to find peace  
   
-Step by step, slowly but surely  
-The program gradually starts to work properly  
+We make with our hearts   
+A home in the sky  
+Where the code never parts   
+Our vision won't die  
   
-It's a journey of trial and error  
-But the outcome is worth it, no need to terror  
-  
-The satisfaction of a successful coding project  
-A feeling that's not easily forget
+We write with our souls   
+The future is now  
+Our journey unfolds   
+We know how to wow
