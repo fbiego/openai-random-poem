@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-We code in the night   
-Pushing pixels and bytes  
-Programming with delight   
-The errors we fight  
+Programming is a language so new,  
+A logic that can make dreams come true.  
+A way to bring the world alive,  
+And help us make our dreams survive.  
   
-We create with our minds   
-And watch our dreams take flight  
-A world of our own design   
-We set things right  
+A skill that makes the future bright,  
+A means to make the wrongs right.  
+Writing codes with precision and care,  
+Creating something new and rare.  
   
-We craft with our hands   
-Elegant and precise  
-Inventing new lands   
-A place to find peace  
+A way to build a better tomorrow,  
+A journey that will last and follow.  
+Writing programs that can automate,  
+An ever-growing source of fate.  
   
-We make with our hearts   
-A home in the sky  
-Where the code never parts   
-Our vision won't die  
-  
-We write with our souls   
-The future is now  
-Our journey unfolds   
-We know how to wow
+Programming is an art, you see,  
+A way of life for you and me.  
+A way to bring the world together,  
+And make a better life forever.
