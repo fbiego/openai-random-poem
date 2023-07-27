@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a language so new,  
-A logic that can make dreams come true.  
-A way to bring the world alive,  
-And help us make our dreams survive.  
+Programming is a form of art,  
+Tapping into the power of the heart,  
+Manipulating data with ease,  
+Bringing forth a digital breeze.  
   
-A skill that makes the future bright,  
-A means to make the wrongs right.  
-Writing codes with precision and care,  
-Creating something new and rare.  
+From the start of a simple line of code,  
+To a beautiful output that we can boast,  
+Programming lets us explore and create,  
+A world of possibilities that can hardly wait.  
   
-A way to build a better tomorrow,  
-A journey that will last and follow.  
-Writing programs that can automate,  
-An ever-growing source of fate.  
+We can search for answers,  
+We can create games,  
+We can create websites,  
+We can even calculate the weather!  
   
-Programming is an art, you see,  
-A way of life for you and me.  
-A way to bring the world together,  
-And make a better life forever.
+Programming is a powerful tool,  
+Creating wonders at the drop of a hat,  
+It's a form of expression,  
+That can open up a world of possibilities, all that.
