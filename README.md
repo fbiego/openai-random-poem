@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-A language of ones and zeroes,  
-Programming is a clever art,  
-That allows us to create code,  
-To make things with a logical start.  
+Programming, such an intricate thing  
+A web of logic, a heavy ring  
+A language of lines, a complex code  
+A way to control, like a heavy load  
   
-We can make computers be smart,  
-Using a skill that's quite rare,  
-It's a way to make machines work,  
-Creating software with care.  
+It's a language of ones and of zeroes  
+A way of life that no one knows  
+It's a way to make things happen  
+A way to make things that never end  
   
-We can code, solve, and debug,  
-To create programs that will last,  
-Making something from nothing,  
-That can help us go much faster.  
+Programming is a creative art  
+A way to make things right from the start  
+A way to solve problems that can't be done  
+A way to make things that are never done  
   
-Programming can do the impossible,  
-Using lines of code so true,  
-It's an art that's ever changing,  
-And something that will always renew.
+It's a way to make things run  
+A way to make sure things are done  
+It's a way to make things happen  
+A way to make things that never end  
+  
+Programming is a challenge of the mind  
+A way to make things that are hard to find  
+A way to solve problems that can't be done  
+A way to make things that are never done.
