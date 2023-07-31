@@ -6,27 +6,26 @@
 
 ### today's poem  
   
-Programming, such an intricate thing  
-A web of logic, a heavy ring  
-A language of lines, a complex code  
-A way to control, like a heavy load  
+Programming, to me, is a way of life  
+A way to create something new from nothing but strife  
   
-It's a language of ones and of zeroes  
-A way of life that no one knows  
-It's a way to make things happen  
-A way to make things that never end  
+From a blank canvas to a masterpiece  
+Every line of code a chance to release  
   
-Programming is a creative art  
-A way to make things right from the start  
-A way to solve problems that can't be done  
-A way to make things that are never done  
+The power to make anything you can think  
+A new world of ideas, if you just take a blink  
   
-It's a way to make things run  
-A way to make sure things are done  
-It's a way to make things happen  
-A way to make things that never end  
+From a web page to an app  
+Programming can make it all snap  
   
-Programming is a challenge of the mind  
-A way to make things that are hard to find  
-A way to solve problems that can't be done  
-A way to make things that are never done.
+So if you want to build something grand  
+Start programming and take a stand  
+  
+A language of ones and zeros  
+A way to make your dreams come true, that's for sure  
+  
+Programming is a skill that is worth its weight in gold  
+A way to make your mark, so don't be too bold  
+  
+For those who want to be creative and explore  
+Programming is the key to the digital door
