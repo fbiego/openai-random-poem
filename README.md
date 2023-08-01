@@ -6,26 +6,23 @@
 
 ### today's poem  
   
-Programming, to me, is a way of life  
-A way to create something new from nothing but strife  
+Programming, so much to learn  
+A language that's ever changing  
   
-From a blank canvas to a masterpiece  
-Every line of code a chance to release  
+A complex web of syntax and commands  
+A never-ending task of understanding  
   
-The power to make anything you can think  
-A new world of ideas, if you just take a blink  
+From zero to hero, create code of might  
+To wield the power to make things right  
   
-From a web page to an app  
-Programming can make it all snap  
+Function by function, line by line  
+The task is daunting and hard to define  
   
-So if you want to build something grand  
-Start programming and take a stand  
+But the rewards are great, be it a game  
+Or a program that can do the same  
   
-A language of ones and zeros  
-A way to make your dreams come true, that's for sure  
+The feeling of success, when the program works  
+Is like a wave, a wave that jerks  
   
-Programming is a skill that is worth its weight in gold  
-A way to make your mark, so don't be too bold  
-  
-For those who want to be creative and explore  
-Programming is the key to the digital door
+From coding and debugging, to design  
+Programming is a skill that's divine
