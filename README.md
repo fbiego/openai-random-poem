@@ -6,23 +6,20 @@
 
 ### today's poem  
   
-Programming, so much to learn  
-A language that's ever changing  
+Programming is a way to make things  
+A way to solve problems and create dreams  
   
-A complex web of syntax and commands  
-A never-ending task of understanding  
+It's a language of sorts, to be sure  
+A language of ones and zeroes, written in allure  
   
-From zero to hero, create code of might  
-To wield the power to make things right  
+You can build things in a network of code  
+From a website to a video game mode  
   
-Function by function, line by line  
-The task is daunting and hard to define  
+Programming is a way to express  
+Your thoughts and ideas, no matter the stress  
   
-But the rewards are great, be it a game  
-Or a program that can do the same  
+It can be tricky and hard to learn  
+But the rewards are worth it in the end  
   
-The feeling of success, when the program works  
-Is like a wave, a wave that jerks  
-  
-From coding and debugging, to design  
-Programming is a skill that's divine
+Programming is a way to make things  
+A way to solve problems and create dreams
