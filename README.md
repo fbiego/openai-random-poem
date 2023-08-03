@@ -6,20 +6,27 @@
 
 ### today's poem  
   
-Programming is a way to make things  
-A way to solve problems and create dreams  
+Programming, you are my friend  
+You help me to comprehend  
+The mysteries of the digital world  
+And make my projects unfurl  
   
-It's a language of sorts, to be sure  
-A language of ones and zeroes, written in allure  
+You help me automate tasks  
+In ways that no one else asks  
+You help me to create and solve  
+In ways no one else could evolve  
   
-You can build things in a network of code  
-From a website to a video game mode  
+You give me the power to unlock  
+The secrets of a digital rock  
+You give me the ability to code  
+The most complex of digital abodes  
   
-Programming is a way to express  
-Your thoughts and ideas, no matter the stress  
+You help me to express my ideas  
+In ways that no one else sees  
+You help me to build and design  
+In ways no one else would define  
   
-It can be tricky and hard to learn  
-But the rewards are worth it in the end  
-  
-Programming is a way to make things  
-A way to solve problems and create dreams
+Without you, my projects would be dull  
+But you help me to make them full  
+Without you, my projects would fail  
+But you give me the tools to prevail
