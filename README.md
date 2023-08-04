@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming, you are my friend  
-You help me to comprehend  
-The mysteries of the digital world  
-And make my projects unfurl  
+Programming is my life's true passion  
+The ability to create and be a fashion  
+A craft so vast, so many facets  
+From computer science to web designs, you bet  
   
-You help me automate tasks  
-In ways that no one else asks  
-You help me to create and solve  
-In ways no one else could evolve  
+I love the challenge of problem solving  
+Finding the right code to keep evolving  
+Writing a script or debugging a program  
+No matter the task, I'm sure to cram  
   
-You give me the power to unlock  
-The secrets of a digital rock  
-You give me the ability to code  
-The most complex of digital abodes  
+The joy that comes when the code is done  
+The satisfaction of a job well done  
+The thrill of being able to create  
+It's enough to make me levitate  
   
-You help me to express my ideas  
-In ways that no one else sees  
-You help me to build and design  
-In ways no one else would define  
-  
-Without you, my projects would be dull  
-But you help me to make them full  
-Without you, my projects would fail  
-But you give me the tools to prevail
+My journey to programming I'm ever-learning  
+A life skill that's always yearning  
+My code is my own, truly unique  
+And my passion for this craft will never be meek
