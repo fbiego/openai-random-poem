@@ -6,22 +6,32 @@
 
 ### today's poem  
   
-Programming is my life's true passion  
-The ability to create and be a fashion  
-A craft so vast, so many facets  
-From computer science to web designs, you bet  
+Programming, a language of code  
+That can bend the rules of the world  
+It's the engine that can make a dream,  
+A dream that will never be furled  
   
-I love the challenge of problem solving  
-Finding the right code to keep evolving  
-Writing a script or debugging a program  
-No matter the task, I'm sure to cram  
+You can create the craziest things,  
+From a virtual world that sings  
+To a car that can drive itself,  
+A code that has no elves  
   
-The joy that comes when the code is done  
-The satisfaction of a job well done  
-The thrill of being able to create  
-It's enough to make me levitate  
+Programming is powerful and grand,  
+It can move the world in your hand  
+It can make a robot think,  
+Or even make a river stink  
   
-My journey to programming I'm ever-learning  
-A life skill that's always yearning  
-My code is my own, truly unique  
-And my passion for this craft will never be meek
+Programming is art and science,  
+A tool to make the world advance  
+It's a skill that's in high demand,  
+From websites to a moon landing  
+  
+Programming is logic and reason,  
+It's a language that's ever changing  
+It's a tool to build and create,  
+From a game to a plate  
+  
+Programming is the language of the future,  
+A path that's full of adventure  
+It will take you to places unseen,  
+Where your dreams can become a reality.
