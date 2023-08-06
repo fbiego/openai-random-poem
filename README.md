@@ -6,32 +6,27 @@
 
 ### today's poem  
   
-Programming, a language of code  
-That can bend the rules of the world  
-It's the engine that can make a dream,  
-A dream that will never be furled  
+Programming, oh programming,  
+A wondrous gift to me  
+For when I make the right code  
+It will set me free  
   
-You can create the craziest things,  
-From a virtual world that sings  
-To a car that can drive itself,  
-A code that has no elves  
+Creating a website  
+Or a game for all to see  
+Programming can do it all  
+A world of possibility  
   
-Programming is powerful and grand,  
-It can move the world in your hand  
-It can make a robot think,  
-Or even make a river stink  
+The world is my oyster  
+I can do anything  
+The sky is the limit  
+My creativity will bring  
   
-Programming is art and science,  
-A tool to make the world advance  
-It's a skill that's in high demand,  
-From websites to a moon landing  
+When I'm stuck and in a rut  
+I can debug and debug  
+And when I hit that final key  
+I smile with a big hug  
   
-Programming is logic and reason,  
-It's a language that's ever changing  
-It's a tool to build and create,  
-From a game to a plate  
-  
-Programming is the language of the future,  
-A path that's full of adventure  
-It will take you to places unseen,  
-Where your dreams can become a reality.
+Programming, oh programming  
+A fantastic tool for me  
+From a simple website  
+To a game I can play endlessly
