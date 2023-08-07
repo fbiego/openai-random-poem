@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming, oh programming,  
-A wondrous gift to me  
-For when I make the right code  
-It will set me free  
+My skill is creative,  
+A craft of the digital age,  
+Programming, to me,  
+Is a language I can engage.  
   
-Creating a website  
-Or a game for all to see  
-Programming can do it all  
-A world of possibility  
+A code of syntax and logic,  
+To make computers do my will.  
+A problem to solve or game to play,  
+My mind is set to thrill.  
   
-The world is my oyster  
-I can do anything  
-The sky is the limit  
-My creativity will bring  
+Hours I commit to this path,  
+Developing apps with glee.  
+A puzzle to solve or program to write,  
+My passion I can see.  
   
-When I'm stuck and in a rut  
-I can debug and debug  
-And when I hit that final key  
-I smile with a big hug  
+From scratch to the end product,  
+My work is truly a feat.  
+To create something of value,  
+It's a feeling of great heat.  
   
-Programming, oh programming  
-A fantastic tool for me  
-From a simple website  
-To a game I can play endlessly
+The challenge of the task,  
+Is what brings me joy.  
+Programming is my passion,  
+My skill I will employ.
