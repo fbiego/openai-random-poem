@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-My skill is creative,  
-A craft of the digital age,  
-Programming, to me,  
-Is a language I can engage.  
+Programming is a world of its own,  
+A language of its own,  
+Filled with ifs and fors and whiles,  
+The code is a canvas,  
+A masterpiece being crafted,  
+A problem being solved,  
+A journey being taken.  
   
-A code of syntax and logic,  
-To make computers do my will.  
-A problem to solve or game to play,  
-My mind is set to thrill.  
+The debugging, the frustration,  
+The joy of seeing the program work,  
+The puzzles, the challenges,  
+The coding, the debugging,  
+The learning and the teaching.  
   
-Hours I commit to this path,  
-Developing apps with glee.  
-A puzzle to solve or program to write,  
-My passion I can see.  
-  
-From scratch to the end product,  
-My work is truly a feat.  
-To create something of value,  
-It's a feeling of great heat.  
-  
-The challenge of the task,  
-Is what brings me joy.  
-Programming is my passion,  
-My skill I will employ.
+Programming is an art,  
+A skill to be mastered,  
+A craft to be honed,  
+A puzzle to be solved,  
+A world to explore.
