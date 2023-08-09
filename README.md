@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a world of its own,  
-A language of its own,  
-Filled with ifs and fors and whiles,  
-The code is a canvas,  
-A masterpiece being crafted,  
-A problem being solved,  
-A journey being taken.  
+Programming's what I do,   
+It's my passion, my truth  
+It's the key to the future,   
+And the foundation of my youth.  
   
-The debugging, the frustration,  
-The joy of seeing the program work,  
-The puzzles, the challenges,  
-The coding, the debugging,  
-The learning and the teaching.  
+It's the language of computers,  
+The language I adore  
+It's the challenge that I take,  
+To achieve something more.  
   
-Programming is an art,  
-A skill to be mastered,  
-A craft to be honed,  
-A puzzle to be solved,  
-A world to explore.
+It's the engine behind the games,  
+The fuel for the robots  
+It's the brain of the machines,  
+That never seems to stop.  
+  
+It's the language of the web,  
+The fire that feeds the app  
+It's the bridge between the past and the future,  
+The force that'll never snap.  
+  
+It's the joy I get when I succeed,  
+The thrill of something new  
+It's the satisfaction of a job done right,  
+My heart and soul, it's true.
