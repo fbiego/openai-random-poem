@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming's what I do,   
-It's my passion, my truth  
-It's the key to the future,   
-And the foundation of my youth.  
+Programming is a language of its own  
+It can be used to create a powerful tone  
+The possibilities are endless, it's quite amazing  
+From websites to apps, it can be used in many ways  
   
-It's the language of computers,  
-The language I adore  
-It's the challenge that I take,  
-To achieve something more.  
+You can write down lines of code  
+In C, Java, HTML, or Python mode  
+The syntax is specific and the rules are strict  
+But by following them, great things can be picked  
   
-It's the engine behind the games,  
-The fuel for the robots  
-It's the brain of the machines,  
-That never seems to stop.  
+Programming is like a puzzle of sorts  
+You have to put all the pieces in the right spots  
+It can be a challenging task  
+But the satisfaction of the result is worth it at last  
   
-It's the language of the web,  
-The fire that feeds the app  
-It's the bridge between the past and the future,  
-The force that'll never snap.  
+You can create your own world  
+Full of buttons, texts, and other things  
+You can design it from scratch  
+And users can interact with it and get a kick  
   
-It's the joy I get when I succeed,  
-The thrill of something new  
-It's the satisfaction of a job done right,  
-My heart and soul, it's true.
+Programming can be daunting at first  
+But with practice and knowledge you can quench your thirst  
+It's a complex but rewarding profession  
+And with it, you can make your dreams come true with precision.
