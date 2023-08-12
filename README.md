@@ -6,17 +6,22 @@
 
 ### today's poem  
   
-Programming's my passion, my hobby and my game  
-It's like a puzzle to me, and I just can't get enough of the same  
+Programming seems like a chore,  
+Full of puzzles, loops and more,  
+But it can also be quite fun,  
+Writing code till day is done.  
   
-The logic and the syntax, the algorithms and the code  
-It's like a language to me, a language I can decode  
+High and low, left and right,  
+Indentation must be just right,  
+Computer screens fill my night,  
+Coding's a skill I must fight.  
   
-I start with a problem, and I think how to solve it  
-But I don't get it right the first time, so I often have to revise it  
+Syntax errors, debugging too,  
+It can make me feel blue,  
+But it's also quite a thrill,  
+To get code to work against its will.  
   
-Debugging's the worst, but I know I must persist  
-But when the program finally compiles, it gives me such a bliss  
-  
-Programming's an art, a skill that I adore  
-It's the one thing that I'm sure, I'll never get bored
+Programming is a skill,  
+That's both hard and still,  
+But it's worth every bit,  
+To make something that works and fits.
