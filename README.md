@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming seems like a chore,  
-Full of puzzles, loops and more,  
-But it can also be quite fun,  
-Writing code till day is done.  
+Programming, such a curious thing,  
+A language I'm still learning to sing,  
+From loops to classes, what a task,  
+To understand while I'm still aghast.  
   
-High and low, left and right,  
-Indentation must be just right,  
-Computer screens fill my night,  
-Coding's a skill I must fight.  
+A language of symbols, and numbers too,  
+So much to learn, what should I do?  
+I sit and I ponder, I think and I type,  
+My heart starts to flutter, I really do try.  
   
-Syntax errors, debugging too,  
-It can make me feel blue,  
-But it's also quite a thrill,  
-To get code to work against its will.  
+From Java to Python, I'm learning them all,  
+My coding skills growing, feeling quite tall,  
+Debugging and testing, a skill to be honed,  
+I'm getting the hang of it, feeling so grown.  
   
-Programming is a skill,  
-That's both hard and still,  
-But it's worth every bit,  
-To make something that works and fits.
+Programming can be a challenge, I know,  
+But I'm getting the hang of it, my skills really show,  
+My confidence building, I'm sure I can do it,  
+Programming, I'm ready, just watch me shoot.
