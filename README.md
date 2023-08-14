@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming, such a curious thing,  
-A language I'm still learning to sing,  
-From loops to classes, what a task,  
-To understand while I'm still aghast.  
+Programming's a science so unique,  
+A language with its own technique.  
+A type of math that's so complex,  
+That all around the world it's checked.  
   
-A language of symbols, and numbers too,  
-So much to learn, what should I do?  
-I sit and I ponder, I think and I type,  
-My heart starts to flutter, I really do try.  
+From the code you can create,  
+A program that cannot be beat.  
+A game that has no end in sight,  
+A website that looks just right.  
   
-From Java to Python, I'm learning them all,  
-My coding skills growing, feeling quite tall,  
-Debugging and testing, a skill to be honed,  
-I'm getting the hang of it, feeling so grown.  
+Programming's a skill so sublime,  
+It's how we make computers chime.  
+From a few lines of code so deep,  
+We can make computers so cheap.  
   
-Programming can be a challenge, I know,  
-But I'm getting the hang of it, my skills really show,  
-My confidence building, I'm sure I can do it,  
-Programming, I'm ready, just watch me shoot.
+Programming's a gift we have,  
+To make the world a better place.  
+From developing a new app,  
+To coding a website that's sharp.  
+  
+Programming's a way to express,  
+A new language, no less.  
+A skill we should always improve,  
+For our future to always move.
