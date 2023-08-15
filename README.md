@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming's a science so unique,  
-A language with its own technique.  
-A type of math that's so complex,  
-That all around the world it's checked.  
+Programming, the skill of the ages  
+Weaving lines of code on the pages  
+Instructing computers to do our bidding  
+Performing feats of automation, never so quickening  
   
-From the code you can create,  
-A program that cannot be beat.  
-A game that has no end in sight,  
-A website that looks just right.  
+Programming, the language of the machines  
+Expressing their thoughts, so it seems  
+Of ones and zeroes, a binary song  
+Instructing the computer to go along  
   
-Programming's a skill so sublime,  
-It's how we make computers chime.  
-From a few lines of code so deep,  
-We can make computers so cheap.  
+Programming, the code of the future  
+Forging a path for the computer to endure  
+Weaving a web of complexity in a tapestry of data  
+It appears, the computer's in charge, so beware of its fate  
   
-Programming's a gift we have,  
-To make the world a better place.  
-From developing a new app,  
-To coding a website that's sharp.  
-  
-Programming's a way to express,  
-A new language, no less.  
-A skill we should always improve,  
-For our future to always move.
+Programming, the art of the wise  
+Unlocking the secrets of the skies  
+The power to control and create  
+A tool of tremendous might, with no fate but its own fate
