@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming, the skill of the ages  
-Weaving lines of code on the pages  
-Instructing computers to do our bidding  
-Performing feats of automation, never so quickening  
+A language of ones and zeroes,  
+A syntax to decipher and codes to decode,  
+The logic and problem solving skills come in handy  
+For the programmer at work or at play.  
   
-Programming, the language of the machines  
-Expressing their thoughts, so it seems  
-Of ones and zeroes, a binary song  
-Instructing the computer to go along  
+The creative and analytical mind  
+Are the tools of a successful programmer  
+The journey to mastering this craft  
+Can be long and arduous.  
   
-Programming, the code of the future  
-Forging a path for the computer to endure  
-Weaving a web of complexity in a tapestry of data  
-It appears, the computer's in charge, so beware of its fate  
+The debugging and testing of code  
+Can be a tedious and time consuming task,  
+But the satisfaction of creating something  
+From nothing is worth the hard work.  
   
-Programming, the art of the wise  
-Unlocking the secrets of the skies  
-The power to control and create  
-A tool of tremendous might, with no fate but its own fate
+The output of a program  
+Can be both useful and delightful,  
+A wonderful feeling of accomplishment  
+That no one can take away.  
+  
+So if you have the patience and determination  
+To learn a new language of computers  
+The world of programming  
+Will welcome you with open arms.
