@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-A language of ones and zeroes,  
-A syntax to decipher and codes to decode,  
-The logic and problem solving skills come in handy  
-For the programmer at work or at play.  
+Programming is my passion,  
+My coding skills are vast,  
+My programs always run,  
+So I can work and last.  
   
-The creative and analytical mind  
-Are the tools of a successful programmer  
-The journey to mastering this craft  
-Can be long and arduous.  
+My code shines like a diamond,  
+It's written with care,  
+Creating something out of nothing,  
+That I can be proud to share.  
   
-The debugging and testing of code  
-Can be a tedious and time consuming task,  
-But the satisfaction of creating something  
-From nothing is worth the hard work.  
+I make complex algorithms,  
+That look so very simple,  
+To solve problems that arise,  
+In a way that's quite nimble.  
   
-The output of a program  
-Can be both useful and delightful,  
-A wonderful feeling of accomplishment  
-That no one can take away.  
-  
-So if you have the patience and determination  
-To learn a new language of computers  
-The world of programming  
-Will welcome you with open arms.
+Programming is an art,  
+And I'm the artist here,  
+Writing code that will stand the test of time,  
+For years and years to come, and never fear.
