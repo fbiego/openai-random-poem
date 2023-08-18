@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is my passion,  
-My coding skills are vast,  
-My programs always run,  
-So I can work and last.  
+Programming is the future of the world  
+It gives us the power to make it all unfurl  
+We can create anything with a few simple lines  
+From a website to a game that will blow your mind  
   
-My code shines like a diamond,  
-It's written with care,  
-Creating something out of nothing,  
-That I can be proud to share.  
+You can learn the language and create something new  
+It's easier than it seems, just give it a try or two  
+We can learn how to build something that will last  
+And we'll find the solutions to our problems in the past  
   
-I make complex algorithms,  
-That look so very simple,  
-To solve problems that arise,  
-In a way that's quite nimble.  
+Programming can take us to a place we've never seen  
+It can show us the beauty of a code that's so pristine  
+We can create a world of our own design  
+Where we can explore and learn and truly shine  
   
-Programming is an art,  
-And I'm the artist here,  
-Writing code that will stand the test of time,  
-For years and years to come, and never fear.
+Programming is a language for everyone  
+It's the language of the future, it's here to be done  
+We can learn how to write code and make it our own  
+And create a world that will never be shown
