@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is the future of the world  
-It gives us the power to make it all unfurl  
-We can create anything with a few simple lines  
-From a website to a game that will blow your mind  
+Programming is more than just a craft  
+It's a skill that will never be lost  
+It's a way to create and build  
+From a language that's not quite so bold  
   
-You can learn the language and create something new  
-It's easier than it seems, just give it a try or two  
-We can learn how to build something that will last  
-And we'll find the solutions to our problems in the past  
+A language made of ones and zeroes  
+A way to make things come alive  
+To create a world of code and logic  
+Where anything can survive  
   
-Programming can take us to a place we've never seen  
-It can show us the beauty of a code that's so pristine  
-We can create a world of our own design  
-Where we can explore and learn and truly shine  
+A way to be creative and free  
+To make something that's never been seen  
+It's a way to express yourself  
+In a language so very keen  
   
-Programming is a language for everyone  
-It's the language of the future, it's here to be done  
-We can learn how to write code and make it our own  
-And create a world that will never be shown
+Programming is a way of life  
+A way to learn and grow  
+To create something with your own hands  
+It's a skill that you should know
