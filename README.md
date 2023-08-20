@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is more than just a craft  
-It's a skill that will never be lost  
-It's a way to create and build  
-From a language that's not quite so bold  
+Programming, a powerful tool  
+Creating something out of nothing, no one can fool  
+Inventing things, solutions for our needs  
+With the potential to make the world a better place, indeed  
   
-A language made of ones and zeroes  
-A way to make things come alive  
-To create a world of code and logic  
-Where anything can survive  
+From websites to databases, programming can do it all  
+Using languages like Python, JavaScript, and SQL  
+Making games, and software, and complex algorithms  
+Programming is the future, so it's time to learn it all  
   
-A way to be creative and free  
-To make something that's never been seen  
-It's a way to express yourself  
-In a language so very keen  
+A language of math and logic combined  
+Programming is a great way to use your mind  
+Learning it can be hard, but don't give up  
+You'll reap the rewards if you drink from the cup  
   
-Programming is a way of life  
-A way to learn and grow  
-To create something with your own hands  
-It's a skill that you should know
+Programming is a skill that's sought after  
+It's the future, so you better not waiver  
+So learn it, practice it, and make something great  
+You won't regret it, it's guaranteed to be great.
