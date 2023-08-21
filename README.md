@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, a powerful tool  
-Creating something out of nothing, no one can fool  
-Inventing things, solutions for our needs  
-With the potential to make the world a better place, indeed  
+Programming is my passion, it’s my obsession  
+The thrill of creating something that’s my own expression  
+There’s nothing quite like it, it’s the ultimate high  
+It’s something that I can’t wait to try  
   
-From websites to databases, programming can do it all  
-Using languages like Python, JavaScript, and SQL  
-Making games, and software, and complex algorithms  
-Programming is the future, so it's time to learn it all  
+From the comfort of my chair I can work on a line of code  
+And make something useful that I can proudly show  
+A few clicks and I can make a change  
+That’s why I’m so passionate about coding and my range  
   
-A language of math and logic combined  
-Programming is a great way to use your mind  
-Learning it can be hard, but don't give up  
-You'll reap the rewards if you drink from the cup  
+It’s not just about the technical stuff  
+It’s also about problem solving and being tough  
+Finding solutions to everyday problems  
+That’s where the real challenge lies, it’s true  
   
-Programming is a skill that's sought after  
-It's the future, so you better not waiver  
-So learn it, practice it, and make something great  
-You won't regret it, it's guaranteed to be great.
+I love the satisfaction of seeing my work work  
+It’s so fulfilling when I see the results  
+It’s moments like these that make coding so great  
+And why I’ll always enjoy programming to this day.
