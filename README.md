@@ -6,27 +6,32 @@
 
 ### today's poem  
   
-Programming is my art, so deep and so complex  
-A craft of algorithms and code that perplex  
-A language so esoteric and so refined  
-It's an art that can be so hard to define  
+A program's like a living thing,  
+It's born from a single line of code,  
+So simple and yet so mundane,  
+But it holds a world of possibilities untold.  
   
-It takes a special kind of skill to understand  
-The logic and the processes that are at hand  
-A world of ones and zeros, a virtual reality  
-A world that's ever changing, a language of agility  
+A program is a jigsaw puzzle,  
+With pieces that must fit just right,  
+A coder must be precise and careful,  
+To make sure the program runs so light.  
   
-It's a challenge to the mind, a puzzle to solve  
-A way to manipulate the data that involves  
-A chance to put together the pieces of the code  
-To make a program that will run and not explode!  
+A program can be a game,  
+A way to keep its players entertained,  
+Or it can be a tool,  
+To help people get work done faster than before.  
   
-Programming is a journey, a chance to explore  
-A way to create something, a task to adore  
-The satisfaction of seeing something complete  
-A feeling that can't be beat, a chance to compete  
+A program can be a website,  
+Where people come to browse and buy,  
+Or an app, that helps them find their way,  
+Wherever they may want to go.  
   
-Programming is a language that is so profound  
-A way to create something new and profound  
-A skill that requires a dedication and a drive  
-To understand and learn, and to help others thrive
+A program can be a machine,  
+That can learn and adjust on its own,  
+And with AI, it can even think,  
+Doing more than we had ever known.  
+  
+A program can be anything,  
+And do whatever we can dream,  
+But without coding it won't take shape,  
+That's why we should all learn to program.
