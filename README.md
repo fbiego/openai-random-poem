@@ -6,32 +6,22 @@
 
 ### today's poem  
   
-A program's like a living thing,  
-It's born from a single line of code,  
-So simple and yet so mundane,  
-But it holds a world of possibilities untold.  
+Programming, a language of logic  
+A way to express our thoughts  
+No matter what the task may be  
+We all can learn and grow  
   
-A program is a jigsaw puzzle,  
-With pieces that must fit just right,  
-A coder must be precise and careful,  
-To make sure the program runs so light.  
+Sometimes it can be a challenge  
+To understand the syntax  
+But if we keep plugging away  
+We'll make our code complex  
   
-A program can be a game,  
-A way to keep its players entertained,  
-Or it can be a tool,  
-To help people get work done faster than before.  
+We can make our computer do  
+Whatever we choose to do  
+We can build a game or website  
+The possibilities are quite a few  
   
-A program can be a website,  
-Where people come to browse and buy,  
-Or an app, that helps them find their way,  
-Wherever they may want to go.  
-  
-A program can be a machine,  
-That can learn and adjust on its own,  
-And with AI, it can even think,  
-Doing more than we had ever known.  
-  
-A program can be anything,  
-And do whatever we can dream,  
-But without coding it won't take shape,  
-That's why we should all learn to program.
+Programming, a language of logic  
+A way to express our thoughts  
+No matter how hard it may be  
+We can all learn and grow
