@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming's like a puzzle,  
-It's a challenge that can drive you insane.  
-But when you break it down,  
-You can create something great and maintain.  
+Programming, the language of the future  
+A complex code that is a real suture  
+A digital language that is oh so pure  
+Bringing our ideas to life, no more obscure  
   
-It's a language that's precise,  
-And commands must be so exact.  
-But when it's all done right,  
-A masterpiece is what you'll exact.  
+A way to create, to imagine, to explore  
+To find the hidden paths, the unknown door  
+A way to be creative and think to the core  
+A way to build something, and never be bored  
   
-It can be as simple or as complex,  
-As you want it to be.  
-But no matter the difficulty,  
-It's a great tool to see.  
+Programming is a way to make life more fun  
+To create something great, for everyone  
+A way to learn and explore new ideas  
+Programming is the language of the future, no more seize  
   
-Programming can be tedious,  
-But it can be quite rewarding.  
-It can be used to do great things,  
-And can be quite astounding.  
-  
-So take a deep breath and dive in,  
-And tackle this programming task.  
-You'll find success and satisfaction,  
-When you complete your programming task.
+A way to build a world no one has seen  
+A way to make something that will leave a dream  
+Programming is the language that will never be done  
+It will continue to grow, never be none
