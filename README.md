@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, the language of the future  
-A complex code that is a real suture  
-A digital language that is oh so pure  
-Bringing our ideas to life, no more obscure  
+Programming is the passion of the few  
+The ones who can see the code that others can't view  
+Making something from nothing with just a few lines  
+Solving problems and debugging until the solution shines  
   
-A way to create, to imagine, to explore  
-To find the hidden paths, the unknown door  
-A way to be creative and think to the core  
-A way to build something, and never be bored  
+It's a language that has its own set of rules  
+Computers can understand it, but not all of us do  
+Yet its application can help the world in diverse ways  
+By creating the tools and solutions of today  
   
-Programming is a way to make life more fun  
-To create something great, for everyone  
-A way to learn and explore new ideas  
-Programming is the language of the future, no more seize  
+It's a task that requires focus and patience  
+Where a little mistake can cause the program to not advance  
+But with hard work and dedication, the results are great  
+The feeling of accomplishment is truly worth the wait  
   
-A way to build a world no one has seen  
-A way to make something that will leave a dream  
-Programming is the language that will never be done  
-It will continue to grow, never be none
+Programming is the future, and it's here to stay  
+We should all embrace it and learn it every day  
+So future generations will be able to do  
+The same things we do, and more, in the years to come.
