@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a puzzle,  
-A complicated jumble.  
-It can be a challenge,  
-But it can also be a joy.  
+Programming is a way to create,  
+With lines of code we can innovate,  
+From a simple game to a new website,  
+Programming can make it all complete.  
   
-To assemble the pieces and make them mesh,  
-Takes a special sort of finesse.  
-You might feel overwhelmed,  
-But you can tackle it nonetheless.  
+We can make robots move and talk,  
+We can make a powerful app that can walk,  
+From a basic website to a complex software,  
+Programming can make it all run with ease.  
   
-It requires logic and precision,  
-A certain kind of wit.  
-It's a skill that takes practice,  
-To get it just right.  
+We can build a game that can fly,  
+Using code we can make it try,  
+From a calculator to a search engine,  
+Programming can make it all so keen.  
   
-But when you see the results,  
-It's a feeling of such delight!  
-Programming can be hard,  
-But it can also be so bright.
+Programming can be a challenge,  
+You'll need to use your knowledge,  
+From a calculator to a chatbot,  
+Programming can make it all hot.  
+  
+Programming can be difficult,  
+But it can be so rewarding,  
+From a game to a website,  
+Programming can make it all complete.
