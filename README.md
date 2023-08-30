@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a way to create,  
-With lines of code we can innovate,  
-From a simple game to a new website,  
-Programming can make it all complete.  
+Programming, a language unknown  
+A task that appears not to be fun  
+A code and a syntax in every line  
+To create something new, so sublime  
   
-We can make robots move and talk,  
-We can make a powerful app that can walk,  
-From a basic website to a complex software,  
-Programming can make it all run with ease.  
+Computers are complex, and not too kind  
+Sometimes their response is hard to find  
+Debugging, it seems, is the only way  
+To make sure the code runs, without delay  
   
-We can build a game that can fly,  
-Using code we can make it try,  
-From a calculator to a search engine,  
-Programming can make it all so keen.  
+Programming has a certain appeal  
+Creating something that you can feel  
+A game, a website, or maybe an app  
+It's all possible with a few lines of code, that's a fact  
   
-Programming can be a challenge,  
-You'll need to use your knowledge,  
-From a calculator to a chatbot,  
-Programming can make it all hot.  
-  
-Programming can be difficult,  
-But it can be so rewarding,  
-From a game to a website,  
-Programming can make it all complete.
+Programming is something that I love  
+It's a challenge and a blessing from above  
+It's a challenge that I'm happy to take  
+A language that I'll never forsake
