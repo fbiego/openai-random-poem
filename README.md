@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-The art of programming  
-Is like a song so sweet,  
-The logic and the coding  
-Can bring a project to its feet.  
+Programming is like a puzzle  
+A challenge that I must solve  
+I must tinker and fiddle  
+To see what I can absolve  
   
-The syntax and the structures  
-Can be tricky at first,  
-But with practice and patience  
-You'll pass any test.  
+My thoughts I translate to code  
+My logic I must refine  
+I look for the solutions  
+That fit the problem in line  
   
-You'll learn to debug and troubleshoot,  
-You'll refactor code with care,  
-And you'll create a masterpiece  
-That you can proudly share.  
+My fingers fly across the keyboard  
+My eyes glued to the screen  
+My program is taking shape  
+The code is looking quite clean  
   
-You'll write programs that are efficient  
-And solve problems with ease,  
-You'll find joy and satisfaction  
-In your coding prowess.  
-  
-The art of programming  
-Is a craft to behold,  
-So keep coding and learning  
-As your skills unfold.
+My program has been completed  
+My code ran without hitch  
+I smile and feel proud of my work  
+As I sit satisfied with a twitch
