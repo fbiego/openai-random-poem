@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is like a puzzle  
-A challenge that I must solve  
-I must tinker and fiddle  
-To see what I can absolve  
+Programming, so mysterious and complex,  
+A language of its own, a language of text.  
+A puzzle to solve, a maze to traverse,  
+A challenge to conquer, an adventure to pursue.  
   
-My thoughts I translate to code  
-My logic I must refine  
-I look for the solutions  
-That fit the problem in line  
+A language of syntax and semantics,  
+A language of logic and reason.  
+A language of algorithms and equations,  
+A language of innovation and progress.  
   
-My fingers fly across the keyboard  
-My eyes glued to the screen  
-My program is taking shape  
-The code is looking quite clean  
+It can bring to life the wildest of dreams,  
+And create a world of possibilities.  
+It can help you to understand the world,  
+Or create the world you want to see.  
   
-My program has been completed  
-My code ran without hitch  
-I smile and feel proud of my work  
-As I sit satisfied with a twitch
+Programming, so powerful and mysterious,  
+A language that can be used to build and create.  
+A language that can be used to explore and discover,  
+A language that can be used to achieve great feats.
