@@ -6,22 +6,26 @@
 
 ### today's poem  
   
-Programming, so mysterious and complex,  
-A language of its own, a language of text.  
-A puzzle to solve, a maze to traverse,  
-A challenge to conquer, an adventure to pursue.  
+Programming is like a secret language,  
+It's a cryptic code that looks strange.  
   
-A language of syntax and semantics,  
-A language of logic and reason.  
-A language of algorithms and equations,  
-A language of innovation and progress.  
+A complex puzzle to rearrange,  
+But when put together it looks quite plain.  
   
-It can bring to life the wildest of dreams,  
-And create a world of possibilities.  
-It can help you to understand the world,  
-Or create the world you want to see.  
+A way to make computers do your bidding,  
+Endless possibilities to explore.  
   
-Programming, so powerful and mysterious,  
-A language that can be used to build and create.  
-A language that can be used to explore and discover,  
-A language that can be used to achieve great feats.
+A way to make your own art,  
+Reality made with code and more.  
+  
+A way to make your dreams come true,  
+To better life and make it new.  
+  
+A way to make the world a better place,  
+Through code and algorithms to trace.  
+  
+Programming is a powerful tool,  
+It can help us reach our goals.  
+  
+A way to make things more efficient,  
+From the simplest to the most complex.
