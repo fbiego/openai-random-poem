@@ -6,26 +6,22 @@
 
 ### today's poem  
   
-Programming is like a secret language,  
-It's a cryptic code that looks strange.  
+Programming can be a challenge,  
+But it's one worth facing  
+For with it, you can create  
+Things that are truly great  
   
-A complex puzzle to rearrange,  
-But when put together it looks quite plain.  
+You can build a website,  
+A game, or a chatbot  
+You can make a website look nice  
+And even teach it to give advice  
   
-A way to make computers do your bidding,  
-Endless possibilities to explore.  
+In programming, you'll find  
+A powerful tool in your hands  
+You can make anything you like  
+And do it with commands  
   
-A way to make your own art,  
-Reality made with code and more.  
-  
-A way to make your dreams come true,  
-To better life and make it new.  
-  
-A way to make the world a better place,  
-Through code and algorithms to trace.  
-  
-Programming is a powerful tool,  
-It can help us reach our goals.  
-  
-A way to make things more efficient,  
-From the simplest to the most complex.
+It's not always easy,  
+But it can be so much fun  
+Programming can be a challenge  
+But the rewards are second to none
