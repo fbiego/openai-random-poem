@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming can be a challenge,  
-But it's one worth facing  
-For with it, you can create  
-Things that are truly great  
+The gentle hum of the computer  
+A soothing sound that's rarely heard  
+The code that I type in the terminal  
+That can make the machine absurd  
   
-You can build a website,  
-A game, or a chatbot  
-You can make a website look nice  
-And even teach it to give advice  
+The logic of the programming language  
+Can seem daunting at first glance  
+But with the right mindset and the perfect plan  
+It's a skill I can enhance  
   
-In programming, you'll find  
-A powerful tool in your hands  
-You can make anything you like  
-And do it with commands  
+The syntax that I learn and practice  
+Can be used to create anything  
+From a website to a game to a glorious app  
+That will make life more exciting  
   
-It's not always easy,  
-But it can be so much fun  
-Programming can be a challenge  
-But the rewards are second to none
+Programming isn't something that's easy  
+It requires hard work and dedication  
+But when the code finally works just like it should  
+It's a feeling of elation  
+  
+The creativity and knowledge of programming  
+Will help me to succeed  
+And I'm proud of the skills I have acquired  
+That will help me to succeed
