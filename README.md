@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-The gentle hum of the computer  
-A soothing sound that's rarely heard  
-The code that I type in the terminal  
-That can make the machine absurd  
+Programming is a skill that I can do  
+Logic and syntax that I can pursue  
+Objects, classes, and modules too  
+All the coding I can do  
   
-The logic of the programming language  
-Can seem daunting at first glance  
-But with the right mindset and the perfect plan  
-It's a skill I can enhance  
+Making functions, strings and ints  
+Conditions, loops, and if-else statements  
+Data types, lists and dictionaries  
+I'm sure this is something I can master easily  
   
-The syntax that I learn and practice  
-Can be used to create anything  
-From a website to a game to a glorious app  
-That will make life more exciting  
+Debugging and testing, troubleshoot and fix  
+Compiling and running, I won't miss  
+Solve problems and create an app  
+Programming is a skill that I can boast  
   
-Programming isn't something that's easy  
-It requires hard work and dedication  
-But when the code finally works just like it should  
-It's a feeling of elation  
-  
-The creativity and knowledge of programming  
-Will help me to succeed  
-And I'm proud of the skills I have acquired  
-That will help me to succeed
+No matter the language, I can learn and understand  
+Algorithms, data structures, and more I can command  
+Developing and coding, I'm here to stay  
+Programming is something I won't forget any day
