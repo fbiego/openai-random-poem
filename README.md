@@ -6,22 +6,20 @@
 
 ### today's poem  
   
-Programming is a skill that I can do  
-Logic and syntax that I can pursue  
-Objects, classes, and modules too  
-All the coding I can do  
+At the keyboard I'm typing away,  
+I'm a coder, here to stay,  
+A problem is what I'm trying to crack,  
+The syntax I must get just right,  
+Till my code will run and take flight.  
   
-Making functions, strings and ints  
-Conditions, loops, and if-else statements  
-Data types, lists and dictionaries  
-I'm sure this is something I can master easily  
+My algorithm I must perfect,  
+Else my program will be inept,  
+A bug is lurking, I must find it soon,  
+Else the program will not run,  
+My debugging skills I must hone.  
   
-Debugging and testing, troubleshoot and fix  
-Compiling and running, I won't miss  
-Solve problems and create an app  
-Programming is a skill that I can boast  
-  
-No matter the language, I can learn and understand  
-Algorithms, data structures, and more I can command  
-Developing and coding, I'm here to stay  
-Programming is something I won't forget any day
+I'm learning more everyday,  
+My programming skills will stay,  
+My code will run like a dream,  
+It will be the best that it can be,  
+A coder's success is what I'm striving to be.
