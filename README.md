@@ -6,20 +6,22 @@
 
 ### today's poem  
   
-At the keyboard I'm typing away,  
-I'm a coder, here to stay,  
-A problem is what I'm trying to crack,  
-The syntax I must get just right,  
-Till my code will run and take flight.  
+Programming, a puzzle of knowledge,   
+A language that can be so profound   
+In its own world, a place of solace,  
+A way to create and make a sound.  
   
-My algorithm I must perfect,  
-Else my program will be inept,  
-A bug is lurking, I must find it soon,  
-Else the program will not run,  
-My debugging skills I must hone.  
+From syntax to logic, from pattern to form,  
+To compile and debug, that's the norm.  
+To type and test, to learn and explore,  
+A challenge for both young and old.  
   
-I'm learning more everyday,  
-My programming skills will stay,  
-My code will run like a dream,  
-It will be the best that it can be,  
-A coder's success is what I'm striving to be.
+A way to create, with a mind so keen,  
+A world of possibilities, a dream.  
+To solve problems, a challenge to be seen,  
+A way to express, to be creative and free.  
+  
+Programming, a language of the future,  
+A way to explore, to create, and grow.  
+A skill that can make us all astute,  
+To build and design, to make something great, so bold.
