@@ -6,22 +6,32 @@
 
 ### today's poem  
   
-Programming, a puzzle of knowledge,   
-A language that can be so profound   
-In its own world, a place of solace,  
-A way to create and make a sound.  
+My computer is my canvas  
+I dream of a world so grand  
+A universe of code and logic  
+Where I can take a stand  
   
-From syntax to logic, from pattern to form,  
-To compile and debug, that's the norm.  
-To type and test, to learn and explore,  
-A challenge for both young and old.  
+A place where I can create  
+A world that's just my own  
+A place where I can innovate  
+And leave a lasting tone  
   
-A way to create, with a mind so keen,  
-A world of possibilities, a dream.  
-To solve problems, a challenge to be seen,  
-A way to express, to be creative and free.  
+I tinker with algorithms  
+To solve complex math problems  
+All the while I'm dreaming  
+Of achieving great honours  
   
-Programming, a language of the future,  
-A way to explore, to create, and grow.  
-A skill that can make us all astute,  
-To build and design, to make something great, so bold.
+The debugging process can be hard  
+But I persist until I'm done  
+The result of my hard work  
+Is a beautiful piece of code that's spun  
+  
+My creations can help others  
+Solve their own problems too  
+Bringing joy and satisfaction  
+To all those who use  
+  
+This is why I love programming  
+It's my passion in life  
+A joy that I share with the world  
+With every line of code I write.
