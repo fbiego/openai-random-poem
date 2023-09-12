@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a great way to learn  
-A language that's complex, yet so keen  
-It opens up a world of possibilities  
-A world of creativity  
+Programming,  
+A language of ones and zeros,  
+A language of syntax and strings,  
+A language we use to create.  
   
-Using logic and functions  
-A world of structured control  
-A world of loops and variables  
-A world to explore and behold  
+Complex structures and systems,  
+Able to do many things,  
+Coding and algorithms,  
+Achieving most anything.  
   
-A world of algorithms and data  
-A world of user-friendly design  
-A world of languages to choose  
-A world to challenge the mind  
+Debugging and testing,  
+Making sure the code works,  
+Re-writing and improving,  
+Till the project it lurks.  
   
-Programming can do so much  
-From websites to applications  
-Programming is a powerful tool  
-That will influence the world’s destinations
+Programming,  
+A language of innovation,  
+A language of creativity,  
+A language of the future.
