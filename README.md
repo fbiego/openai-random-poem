@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming,  
-A language of ones and zeros,  
-A language of syntax and strings,  
-A language we use to create.  
+Programming is a language  
+That few can really master  
+It takes skill and finesse  
+To make a website faster  
   
-Complex structures and systems,  
-Able to do many things,  
-Coding and algorithms,  
-Achieving most anything.  
+It requires a special talent  
+To do the coding right  
+To understand the logic  
+Can be quite a fight  
   
-Debugging and testing,  
-Making sure the code works,  
-Re-writing and improving,  
-Till the project it lurks.  
+Creating a program  
+Is like a puzzle piece  
+Trying to fit it all together  
+Can bring about peace  
   
-Programming,  
-A language of innovation,  
-A language of creativity,  
-A language of the future.
+Writing the lines of code  
+Can be a time consuming task  
+But the joy of the outcome  
+Is worth the time it took  
+  
+The power of programming  
+Will never be denied  
+It has the potential to do  
+Whatever you decide
