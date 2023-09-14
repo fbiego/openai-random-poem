@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a language  
-That few can really master  
-It takes skill and finesse  
-To make a website faster  
+Programming, oh programming  
+What is it really doing?  
+Enabling our computers  
+To do so much more than snoozing  
   
-It requires a special talent  
-To do the coding right  
-To understand the logic  
-Can be quite a fight  
+It helps us create things  
+We never thought of before  
+Spreading knowledge and wisdom  
+To all the corners of the world  
   
-Creating a program  
-Is like a puzzle piece  
-Trying to fit it all together  
-Can bring about peace  
+It's not just about coding  
+But also about problem solving  
+Debugging and designing  
+Developing and testing  
   
-Writing the lines of code  
-Can be a time consuming task  
-But the joy of the outcome  
-Is worth the time it took  
-  
-The power of programming  
-Will never be denied  
-It has the potential to do  
-Whatever you decide
+Programming, oh programming  
+We can do so much more  
+Unlock our imaginations  
+And open unexplored doors
