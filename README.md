@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, oh programming  
-What is it really doing?  
-Enabling our computers  
-To do so much more than snoozing  
+Programming's like a puzzle without end,  
+A challenge that's often hard to comprehend.  
+It's a language that's abstract and strange,  
+But a powerful tool when it's in range.  
   
-It helps us create things  
-We never thought of before  
-Spreading knowledge and wisdom  
-To all the corners of the world  
+It's a skill that takes time and a lot of practice,  
+It's not something you can learn in a single instance.  
+It's a way of writing instructions that computers can read,  
+To create something that's both complex and unique.  
   
-It's not just about coding  
-But also about problem solving  
-Debugging and designing  
-Developing and testing  
+Programmers search for the best solutions,  
+Transforming ideas into tangible solutions.  
+It's a profession that's really quite cool,  
+And with dedication, you'll learn the rules.  
   
-Programming, oh programming  
-We can do so much more  
-Unlock our imaginations  
-And open unexplored doors
+Programming's like an art form,  
+A way of expressing yourself in the virtual norm.  
+It's a skill that can be used in many ways,  
+To make something that's really quite amazing.
