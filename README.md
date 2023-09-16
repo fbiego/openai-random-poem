@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming's like a puzzle without end,  
-A challenge that's often hard to comprehend.  
-It's a language that's abstract and strange,  
-But a powerful tool when it's in range.  
+Programming is my passion,  
+The code I write with satisfaction,  
+To create something from nothing,  
+Is a feeling I can't explain.  
   
-It's a skill that takes time and a lot of practice,  
-It's not something you can learn in a single instance.  
-It's a way of writing instructions that computers can read,  
-To create something that's both complex and unique.  
+I love to make things come alive,  
+To take my ideas and drive,  
+To challenge my logic and my skill,  
+To create something unique and still.  
   
-Programmers search for the best solutions,  
-Transforming ideas into tangible solutions.  
-It's a profession that's really quite cool,  
-And with dedication, you'll learn the rules.  
+I learn the syntax and semantics,  
+And how to write and debug them,  
+But the best part of all,  
+Is when it works as intended, and I just smile.  
   
-Programming's like an art form,  
-A way of expressing yourself in the virtual norm.  
-It's a skill that can be used in many ways,  
-To make something that's really quite amazing.
+Programming is my life,  
+It is what I know best,  
+It has taught me so much,  
+And I will always give it my best.
