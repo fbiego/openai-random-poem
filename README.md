@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, oh programming  
-You have a way of making me sing  
-It's an ever-evolving art  
-That I'm eager to impart  
+Programming is a complex art  
+Sometimes I feel like I'm falling apart  
+I get frustrated and overwhelmed  
+But I keep going, so I'm not dispelled  
   
-I start with a problem to solve  
-My code must be precise and involve  
-Variables, functions, and so much more  
-Leading me to a digital door  
+I'm learning new languages every day  
+From Python to Java and beyond  
+It's not easy, but I'm determined  
+To make a program so strong  
   
-I'll debug and refine my work  
-To ensure no glitches will lurk  
-My code will be a perfect fit  
-And it will all come together bit by bit  
+I'm getting better with every line  
+Finding ways to make it shine  
+Sometimes I'm stuck and I can't see  
+But I keep going, so I'm not defeated  
   
-I'll end up with something so grand  
-A result that I can command  
-This joy of programming I find  
-Is one of the most rewarding of kinds
+It's a challenge, but I'm learning so much  
+I'm now able to do things I couldn't touch  
+I'm becoming proficient in this coding craft  
+And that's what matters in the end
