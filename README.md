@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming is a complex art  
-Sometimes I feel like I'm falling apart  
-I get frustrated and overwhelmed  
-But I keep going, so I'm not dispelled  
+Programming is what my heart desires,  
+A place of beauty, a world of fire.  
   
-I'm learning new languages every day  
-From Python to Java and beyond  
-It's not easy, but I'm determined  
-To make a program so strong  
+The logic of this language is a pleasure to behold,  
+A game of cat and mouse, where my code is controlled.  
   
-I'm getting better with every line  
-Finding ways to make it shine  
-Sometimes I'm stuck and I can't see  
-But I keep going, so I'm not defeated  
+I can craft a world of my own design,  
+Where I have control over every line.  
   
-It's a challenge, but I'm learning so much  
-I'm now able to do things I couldn't touch  
-I'm becoming proficient in this coding craft  
-And that's what matters in the end
+It's a challenge that I'm always up for,  
+A puzzle that I'm eager to explore.  
+  
+With a few lines of code, I can make a dream,  
+Where I get to be creative and it's quite a scene.  
+  
+The possibilities are endless and I must be brave,  
+To create something special, something I can save.  
+  
+Programming is a journey that I must take,  
+A never-ending one, that I will never forsake.
