@@ -6,23 +6,22 @@
 
 ### today's poem  
   
-Programming is what my heart desires,  
-A place of beauty, a world of fire.  
+Programming is the act of creating life  
+From a computer's perspective, it is a strife  
+A program is a set of instructions to take  
+It's how a computer can learn and bake  
   
-The logic of this language is a pleasure to behold,  
-A game of cat and mouse, where my code is controlled.  
+Programming is like a language to teach  
+It's the language of the technology we reach  
+A program is created with a purpose in mind  
+And if done right, it can be quite a find  
   
-I can craft a world of my own design,  
-Where I have control over every line.  
+Programming can be used for games  
+As well as all kinds of other things  
+It's used to make robots and websites too  
+It's a science that we've come to pursue  
   
-It's a challenge that I'm always up for,  
-A puzzle that I'm eager to explore.  
-  
-With a few lines of code, I can make a dream,  
-Where I get to be creative and it's quite a scene.  
-  
-The possibilities are endless and I must be brave,  
-To create something special, something I can save.  
-  
-Programming is a journey that I must take,  
-A never-ending one, that I will never forsake.
+Programming can be a complex task  
+But the rewards can be great, no need to ask  
+It's an ever-changing skill to obtain  
+A skill that will never become mundane.
