@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is the act of creating life  
-From a computer's perspective, it is a strife  
-A program is a set of instructions to take  
-It's how a computer can learn and bake  
+I type into my keyboard  
+Lines of code that will succeed  
+Creating a program that does the job  
+For users in need  
   
-Programming is like a language to teach  
-It's the language of the technology we reach  
-A program is created with a purpose in mind  
-And if done right, it can be quite a find  
+I check for syntax errors  
+And debug the code  
+Making sure each line is just right  
+For it to run as it should  
   
-Programming can be used for games  
-As well as all kinds of other things  
-It's used to make robots and websites too  
-It's a science that we've come to pursue  
+I design a user interface  
+In a way that's intuitive  
+So that it's easy to use  
+For those who are new  
   
-Programming can be a complex task  
-But the rewards can be great, no need to ask  
-It's an ever-changing skill to obtain  
-A skill that will never become mundane.
+Programming takes skill and knowledge  
+To build a great app  
+But when it's all said and done  
+It's truly worth the hard work and effort.
