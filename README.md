@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-I type into my keyboard  
-Lines of code that will succeed  
-Creating a program that does the job  
-For users in need  
+Programming so complex,  
+A language so strange,  
+Creating algorithms,  
+It can feel quite deranged.  
   
-I check for syntax errors  
-And debug the code  
-Making sure each line is just right  
-For it to run as it should  
+Writing lines of code,  
+Creating something new,  
+Making a program come alive,  
+It's a feat to do.  
   
-I design a user interface  
-In a way that's intuitive  
-So that it's easy to use  
-For those who are new  
+From a silly game,  
+To a useful application,  
+Programming can help you,  
+In almost any situation.  
   
-Programming takes skill and knowledge  
-To build a great app  
-But when it's all said and done  
-It's truly worth the hard work and effort.
+It can be quite tedious,  
+But the end result is worth it,  
+Programming can be fun,  
+If you don't give up on it.
