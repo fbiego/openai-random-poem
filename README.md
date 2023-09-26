@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming so complex,  
-A language so strange,  
-Creating algorithms,  
-It can feel quite deranged.  
+Algorithms in motion,  
+Coding with precision,  
+A language of logic,  
+That answers all questions.  
   
-Writing lines of code,  
-Creating something new,  
-Making a program come alive,  
-It's a feat to do.  
+Creating commands,  
+To make a machine understand,  
+A complex system,  
+Where clarity can expand.  
   
-From a silly game,  
-To a useful application,  
-Programming can help you,  
-In almost any situation.  
+From algorithms to objects,  
+The language never stops,  
+Exploring options,  
+Until the code pops.  
   
-It can be quite tedious,  
-But the end result is worth it,  
-Programming can be fun,  
-If you don't give up on it.
+Debugging syntax,  
+Making sure it all makes sense,  
+A puzzle of patterns,  
+For an effective defense.  
+  
+Programming is a puzzle,  
+Where the pieces all work together,  
+A challenge of the mind,  
+That creates a creative endeavor.
