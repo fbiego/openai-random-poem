@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Algorithms in motion,  
-Coding with precision,  
-A language of logic,  
-That answers all questions.  
+Programming is a challenge,  
+A puzzle to unravel.  
+It begins with a question,  
+And a path you must travel.  
   
-Creating commands,  
-To make a machine understand,  
-A complex system,  
-Where clarity can expand.  
+It takes patience and practice,  
+And a will to persevere.  
+It requires logic and reason,  
+To make it come clear.  
   
-From algorithms to objects,  
-The language never stops,  
-Exploring options,  
-Until the code pops.  
+It's a complex structure,  
+Which requires attention.  
+A smooth and concise code,  
+For a successful invention.  
   
-Debugging syntax,  
-Making sure it all makes sense,  
-A puzzle of patterns,  
-For an effective defense.  
-  
-Programming is a puzzle,  
-Where the pieces all work together,  
-A challenge of the mind,  
-That creates a creative endeavor.
+Yet with time and dedication,  
+Programming can be done.  
+And you'll have created a masterpiece,  
+It's a beautiful thing to behold, when it's all said and done.
