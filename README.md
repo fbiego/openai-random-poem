@@ -6,22 +6,32 @@
 
 ### today's poem  
   
-Programming is a challenge,  
-A puzzle to unravel.  
-It begins with a question,  
-And a path you must travel.  
+Programming oh so glorious,  
+This world of code and syntax,  
+A universe of numbers and letters,  
+A language so complex.  
   
-It takes patience and practice,  
-And a will to persevere.  
-It requires logic and reason,  
-To make it come clear.  
+A challenge for all to master,  
+A skill to be honed,  
+A way to create something new,  
+In ways never before known.  
   
-It's a complex structure,  
-Which requires attention.  
-A smooth and concise code,  
-For a successful invention.  
+There are bugs and glitches,  
+And endless debugging,  
+But with patience and practice,  
+The answers can be found.  
   
-Yet with time and dedication,  
-Programming can be done.  
-And you'll have created a masterpiece,  
-It's a beautiful thing to behold, when it's all said and done.
+Programming is a skill,  
+That takes time,  
+But when you finally do,  
+You'll be able to design.  
+  
+So many possibilities,  
+For what you can build,  
+It's an exciting way,  
+To express your creativity.  
+  
+Programming oh so glorious,  
+This world of code and syntax,  
+A universe of numbers and letters,  
+A language so complex.
