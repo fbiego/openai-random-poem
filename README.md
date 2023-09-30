@@ -6,17 +6,22 @@
 
 ### today's poem  
   
-Programming, a most curious thing  
-It's a language that few can sing  
-Though it often seems so complex  
-It's the language of computers, no less  
+Programming's a complex art  
+Built up on lines of code  
+It takes a special kind of smart  
+To create a working mode  
   
-It's the language of algorithms  
-Of data structures and logic norms  
-It's the language of machines  
-And all their inner scenes  
+The language of computers is strange  
+It's often quite obtuse  
+But with practice and patience  
+You can learn to use  
   
-Programming, a most curious thing  
-It's a language that few can sing  
-But for those that take the time to learn  
-A world of wonders they will discern
+It's tedious, often hard  
+But the rewards can be great  
+The satisfaction of success  
+Will be yours to take  
+  
+So sit down and start coding  
+For hours at a time  
+The rewards may not be seen  
+But they'll be yours to find.
