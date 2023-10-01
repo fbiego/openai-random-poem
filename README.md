@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming's a complex art  
-Built up on lines of code  
-It takes a special kind of smart  
-To create a working mode  
+Programming is a work of art  
+Using logic to make a start  
+Logic gates, if-else, and while  
+The code is a masterful style  
   
-The language of computers is strange  
-It's often quite obtuse  
-But with practice and patience  
-You can learn to use  
+The power of algorithms  
+The power of data too  
+The power of the computer  
+To make a task so true  
   
-It's tedious, often hard  
-But the rewards can be great  
-The satisfaction of success  
-Will be yours to take  
+The language of code  
+A user must understand  
+To make the computer do  
+What the user has planned  
   
-So sit down and start coding  
-For hours at a time  
-The rewards may not be seen  
-But they'll be yours to find.
+Programming is a challenge  
+Where logic must be strong  
+To make a complex program  
+That works all day long
