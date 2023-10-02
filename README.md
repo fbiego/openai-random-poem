@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a work of art  
-Using logic to make a start  
-Logic gates, if-else, and while  
-The code is a masterful style  
+Programming is an artform,  
+A way to create without a storm  
+It can be a challenge,  
+But it's not a game of chance.  
   
-The power of algorithms  
-The power of data too  
-The power of the computer  
-To make a task so true  
+It's a way to express yourself,  
+A way to make something out of nothing else  
+It can be daunting and intimidating,  
+But with practice it can be fascinating.  
   
-The language of code  
-A user must understand  
-To make the computer do  
-What the user has planned  
+It has its own unique language,  
+That can feel like a strange, new age  
+Full of loops and syntax,  
+But it's worth the time to learn the tricks.  
   
-Programming is a challenge  
-Where logic must be strong  
-To make a complex program  
-That works all day long
+It's a puzzle to be solved,  
+A way to make something evolve  
+A way to show creativity,  
+And watch a solution come to be.
