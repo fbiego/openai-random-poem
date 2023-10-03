@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is an artform,  
-A way to create without a storm  
-It can be a challenge,  
-But it's not a game of chance.  
+Programming is a language of its own  
+Creating a world of numbers and codes  
+A system of ones and zeros  
+On the journey to create a world of its own  
   
-It's a way to express yourself,  
-A way to make something out of nothing else  
-It can be daunting and intimidating,  
-But with practice it can be fascinating.  
+On a computer or a phone  
+A digital world of its own  
+Where the mind can be expressed  
+And the boundaries can be tested  
   
-It has its own unique language,  
-That can feel like a strange, new age  
-Full of loops and syntax,  
-But it's worth the time to learn the tricks.  
+You can create a system  
+A new world of pure invention  
+A web of complex algorithms  
+To build a unique solution  
   
-It's a puzzle to be solved,  
-A way to make something evolve  
-A way to show creativity,  
-And watch a solution come to be.
+Programming is a way of life  
+It's a skill that can be refined  
+It can be used to express a thought  
+Or even develop a product  
+  
+Programming is the future of technology  
+A way to innovate and grow  
+It's an endless journey of learning  
+A world of possibilities to explore.
