@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is a language of its own  
-Creating a world of numbers and codes  
-A system of ones and zeros  
-On the journey to create a world of its own  
+Programming, oh Programming,  
+Your puzzles keep me thinking  
+Patience and precision make it  
+A challenge worth pursuing  
   
-On a computer or a phone  
-A digital world of its own  
-Where the mind can be expressed  
-And the boundaries can be tested  
+Computer code and algorithms  
+Abstract logic I must learn  
+To create a program that works  
+My code must always churn  
   
-You can create a system  
-A new world of pure invention  
-A web of complex algorithms  
-To build a unique solution  
+Debugging is a challenge too  
+To find errors I must root  
+It can be a tedious task  
+But it's a skill I must pursue  
   
-Programming is a way of life  
-It's a skill that can be refined  
-It can be used to express a thought  
-Or even develop a product  
-  
-Programming is the future of technology  
-A way to innovate and grow  
-It's an endless journey of learning  
-A world of possibilities to explore.
+Programming, oh Programming  
+At times I'm so frustrated  
+But with hard work and dedication  
+My skills will be cultivated
