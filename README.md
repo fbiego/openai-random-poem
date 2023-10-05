@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming, oh Programming,  
-Your puzzles keep me thinking  
-Patience and precision make it  
-A challenge worth pursuing  
+Coding is a journey, a constant discovery  
+Where I can use my brain and explore  
   
-Computer code and algorithms  
-Abstract logic I must learn  
-To create a program that works  
-My code must always churn  
+To write a program, I must be precise  
+My language must be clear and concise  
   
-Debugging is a challenge too  
-To find errors I must root  
-It can be a tedious task  
-But it's a skill I must pursue  
+I must ask the right questions  
+To find the best solutions  
   
-Programming, oh Programming  
-At times I'm so frustrated  
-But with hard work and dedication  
-My skills will be cultivated
+I must debug and test  
+To make sure the code does its best  
+  
+It can take days, sometimes weeks  
+But in the end, the code speaks  
+  
+The code is my canvas, I bring it to life  
+A creative work of art, a product of my mind  
+  
+Coding is my passion, it brings me delight  
+I'm proud of the work I do day and night
