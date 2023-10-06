@@ -6,23 +6,22 @@
 
 ### today's poem  
   
-Coding is a journey, a constant discovery  
-Where I can use my brain and explore  
+A computer's heart throbs with the beat of a drum  
+As the programmer sets it in motion, one by one  
+The instructions, the codes, the logic unfold  
+To make the machine here do what it's told  
   
-To write a program, I must be precise  
-My language must be clear and concise  
+The syntax and structure, the commands all in place  
+The programmer solves the problem with finesse and grace  
+A line of code here, a variable there  
+The system works seamlessly without a care  
   
-I must ask the right questions  
-To find the best solutions  
+The logic and algorithms, chains of commands  
+The programmer's brain works with such demands  
+The program runs with zest and power  
+The programmer's skill will never cower  
   
-I must debug and test  
-To make sure the code does its best  
-  
-It can take days, sometimes weeks  
-But in the end, the code speaks  
-  
-The code is my canvas, I bring it to life  
-A creative work of art, a product of my mind  
-  
-Coding is my passion, it brings me delight  
-I'm proud of the work I do day and night
+The algorithms, the codes, the system that runs  
+The programmer with his skill makes it all come undone  
+As the programmer writes the code that binds  
+He makes the computer do just what he has designed.
