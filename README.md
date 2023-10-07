@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-A computer's heart throbs with the beat of a drum  
-As the programmer sets it in motion, one by one  
-The instructions, the codes, the logic unfold  
-To make the machine here do what it's told  
+Programming, it's so hard to do  
+It starts with a language you must learn anew  
+You need to think logically and plan ahead  
+Syntax errors could be your dread  
   
-The syntax and structure, the commands all in place  
-The programmer solves the problem with finesse and grace  
-A line of code here, a variable there  
-The system works seamlessly without a care  
+With the help of tutorials you'll soon see  
+How to use the language to make your dreams  
+Debugging will take a bit of time  
+But soon you'll be coding in no time  
   
-The logic and algorithms, chains of commands  
-The programmer's brain works with such demands  
-The program runs with zest and power  
-The programmer's skill will never cower  
+You'll be able to build games and apps galore  
+And your own websites you can explore  
+You'll be able to make a website more alive  
+And add some dynamic features to strive  
   
-The algorithms, the codes, the system that runs  
-The programmer with his skill makes it all come undone  
-As the programmer writes the code that binds  
-He makes the computer do just what he has designed.
+Programming is like a puzzle to crack  
+If you want to be successful, don't slack  
+For if you keep your focus and stay on the task  
+You'll soon be a programming master at last
