@@ -6,22 +6,37 @@
 
 ### today's poem  
   
-Programming, it's so hard to do  
-It starts with a language you must learn anew  
-You need to think logically and plan ahead  
-Syntax errors could be your dread  
+Though it can be tough,  
+Programming's quite enough,  
+If you think it's too rough,  
+It's time to get tough.  
   
-With the help of tutorials you'll soon see  
-How to use the language to make your dreams  
-Debugging will take a bit of time  
-But soon you'll be coding in no time  
+It can be quite daunting,  
+But it's just like recanting,  
+You must make sure you're wanting,  
+To learn what you're recanting.  
   
-You'll be able to build games and apps galore  
-And your own websites you can explore  
-You'll be able to make a website more alive  
-And add some dynamic features to strive  
+It can seem overwhelming,  
+But it's worth the telling,  
+A skill that is excelling,  
+In the world that keeps swelling.  
   
-Programming is like a puzzle to crack  
-If you want to be successful, don't slack  
-For if you keep your focus and stay on the task  
-You'll soon be a programming master at last
+It's a task that's quite complex,  
+But it's something to flex,  
+You just have to keep checking,  
+The steps you expect.  
+  
+You must use some logic,  
+And never be dogmatic,  
+You must stay quite robotic,  
+And never be erratic.  
+  
+You must keep it precise,  
+And never be surmise,  
+You must keep in your sights,  
+The end goal of all your strife.  
+  
+It's a skill worth having,  
+And one that's worth savoring,  
+But you must keep on striving,  
+If you want to keep coding.
