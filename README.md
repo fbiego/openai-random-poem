@@ -6,37 +6,22 @@
 
 ### today's poem  
   
-Though it can be tough,  
-Programming's quite enough,  
-If you think it's too rough,  
-It's time to get tough.  
+Programming is a language of the future,  
+Where computers and humans interact,  
+A craft of complex and intricate structure,  
+To build a world of digital fact.  
   
-It can be quite daunting,  
-But it's just like recanting,  
-You must make sure you're wanting,  
-To learn what you're recanting.  
+It's a way to communicate with machines,  
+To make them do what we desire,  
+To control what they do and how they act,  
+A language we must all acquire.  
   
-It can seem overwhelming,  
-But it's worth the telling,  
-A skill that is excelling,  
-In the world that keeps swelling.  
+It's a skill that allows us to make dreams come true,  
+To build a world that never ends,  
+To create something from nothing at all,  
+That's the beauty of programming friends.  
   
-It's a task that's quite complex,  
-But it's something to flex,  
-You just have to keep checking,  
-The steps you expect.  
-  
-You must use some logic,  
-And never be dogmatic,  
-You must stay quite robotic,  
-And never be erratic.  
-  
-You must keep it precise,  
-And never be surmise,  
-You must keep in your sights,  
-The end goal of all your strife.  
-  
-It's a skill worth having,  
-And one that's worth savoring,  
-But you must keep on striving,  
-If you want to keep coding.
+So let us embrace the power of code,  
+A language that can be understood,  
+Let us learn the art of programming,  
+And use it to better our world.
