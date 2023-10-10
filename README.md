@@ -6,22 +6,23 @@
 
 ### today's poem  
   
-Programming is a language of the future,  
-Where computers and humans interact,  
-A craft of complex and intricate structure,  
-To build a world of digital fact.  
+Programming, what a strange and wondrous thing  
+A crafty, technical masterpiece that can make even the best of kings sing  
   
-It's a way to communicate with machines,  
-To make them do what we desire,  
-To control what they do and how they act,  
-A language we must all acquire.  
+Creating a language of ones and zeros  
+Time spent coding, a masterful show  
   
-It's a skill that allows us to make dreams come true,  
-To build a world that never ends,  
-To create something from nothing at all,  
-That's the beauty of programming friends.  
+From websites to video games, this craft is a must  
+For many a computer, it is a necessary trust  
   
-So let us embrace the power of code,  
-A language that can be understood,  
-Let us learn the art of programming,  
-And use it to better our world.
+A web of complexity, a far-reaching net  
+Programming is something that we should not forget  
+  
+From the simple to the complex, the language is always the same  
+A language of algorithms and logic, to help us on our way  
+  
+Programming is a puzzle, an ever-changing riddle  
+But with perseverance and skill, it's something we can all middle  
+  
+A skill like no other, it's one of the best  
+So let's grab our laptops and give it a test!
