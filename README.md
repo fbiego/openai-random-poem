@@ -6,23 +6,27 @@
 
 ### today's poem  
   
-Programming, what a strange and wondrous thing  
-A crafty, technical masterpiece that can make even the best of kings sing  
+This puzzle of code,  
+A struggle of logic,  
+A journey of thought,  
+A never-ending cycle of learning.  
   
-Creating a language of ones and zeros  
-Time spent coding, a masterful show  
+A language of numbers,  
+A language of symbols,  
+A vast world of possibilities,  
+My mind is a playground of creativity.  
   
-From websites to video games, this craft is a must  
-For many a computer, it is a necessary trust  
+An infinite loop of understanding,  
+A complex symphony of debugging,  
+A window of exploration,  
+My life is a quest to find the answer.  
   
-A web of complexity, a far-reaching net  
-Programming is something that we should not forget  
+A challenge of simplicity,  
+A maze of possibilities,  
+A world of complexity,  
+My heart is a language of understanding.  
   
-From the simple to the complex, the language is always the same  
-A language of algorithms and logic, to help us on our way  
-  
-Programming is a puzzle, an ever-changing riddle  
-But with perseverance and skill, it's something we can all middle  
-  
-A skill like no other, it's one of the best  
-So let's grab our laptops and give it a test!
+A path of knowledge,  
+A test of intelligence,  
+A race of innovation,  
+My destiny is to be a programmer.
