@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-This puzzle of code,  
-A struggle of logic,  
-A journey of thought,  
-A never-ending cycle of learning.  
+Programming is like an art,  
+It's like a language that we must impart.  
+A skill that's so important in today's age,  
+It's become a force no one can assuage.  
   
-A language of numbers,  
-A language of symbols,  
-A vast world of possibilities,  
-My mind is a playground of creativity.  
+A way of thinking, a way of seeing,  
+A way of solving all of our needs.  
+A way of making, a way of breaking,  
+A way of doing, without any forsaking.  
   
-An infinite loop of understanding,  
-A complex symphony of debugging,  
-A window of exploration,  
-My life is a quest to find the answer.  
+It's a way of life, of finding the right code,  
+A way of learning, of being bold.  
+A way of creating, of being innovative,  
+A way of being, of being creative.  
   
-A challenge of simplicity,  
-A maze of possibilities,  
-A world of complexity,  
-My heart is a language of understanding.  
-  
-A path of knowledge,  
-A test of intelligence,  
-A race of innovation,  
-My destiny is to be a programmer.
+In the end, programming's a journey,  
+A path that's full of twists and turns.  
+It's a process of learning, of playing and exploring,  
+And of using our minds to keep growing.
