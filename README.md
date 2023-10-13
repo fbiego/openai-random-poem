@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is like an art,  
-It's like a language that we must impart.  
-A skill that's so important in today's age,  
-It's become a force no one can assuage.  
+Programming is not an easy task,  
+It takes time and dedication from the start.  
+Each line of code is like a puzzle,  
+A challenge to the programmer's heart.  
   
-A way of thinking, a way of seeing,  
-A way of solving all of our needs.  
-A way of making, a way of breaking,  
-A way of doing, without any forsaking.  
+From the simplest to the most complex,  
+The challenge is to make it work.  
+To debug and solve the errors,  
+And to make the code look good.  
   
-It's a way of life, of finding the right code,  
-A way of learning, of being bold.  
-A way of creating, of being innovative,  
-A way of being, of being creative.  
+Programming is an art form,  
+The coder the artist's brush.  
+The program the painting,  
+A masterpiece or a complete rush.  
   
-In the end, programming's a journey,  
-A path that's full of twists and turns.  
-It's a process of learning, of playing and exploring,  
-And of using our minds to keep growing.
+Sometimes the code fails,  
+But that's no reason to be sad.  
+Just find the problem and fix it,  
+Try, try again until it's perfect and glad.
