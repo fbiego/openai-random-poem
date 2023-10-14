@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is not an easy task,  
-It takes time and dedication from the start.  
-Each line of code is like a puzzle,  
-A challenge to the programmer's heart.  
+Programming, the sweetest of arts,  
+A craft of the modern age  
+It brings forth life from lines of code  
+To solve problems, big and small  
   
-From the simplest to the most complex,  
-The challenge is to make it work.  
-To debug and solve the errors,  
-And to make the code look good.  
+We tinker and we tweak,  
+We type and debug  
+Our codes, a perfect mix  
+Of syntax and logic  
   
-Programming is an art form,  
-The coder the artist's brush.  
-The program the painting,  
-A masterpiece or a complete rush.  
+For those who have the skill  
+It can be a magical thing  
+Instructions for the machine  
+To do the most amazing things  
   
-Sometimes the code fails,  
-But that's no reason to be sad.  
-Just find the problem and fix it,  
-Try, try again until it's perfect and glad.
+We can build robots and apps  
+We can make a virtual world  
+We can even take to space  
+With the power of programming  
+  
+So if you want to learn  
+To create something new  
+Programming is the way  
+To make your dreams come true
