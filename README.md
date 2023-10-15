@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming, the sweetest of arts,  
-A craft of the modern age  
-It brings forth life from lines of code  
-To solve problems, big and small  
+My code is like a puzzle  
+Filled with unknowns and clues  
+Its pieces fit together  
+In a way I can't refuse  
   
-We tinker and we tweak,  
-We type and debug  
-Our codes, a perfect mix  
-Of syntax and logic  
+I'm solving problems every day  
+Making something from nothing  
+My mind is a playground  
+Where my ideas are bouncing  
   
-For those who have the skill  
-It can be a magical thing  
-Instructions for the machine  
-To do the most amazing things  
+As I type out the commands  
+The logic takes its shape  
+My lines of code form together  
+Till the problem I can rape  
   
-We can build robots and apps  
-We can make a virtual world  
-We can even take to space  
-With the power of programming  
+I'm debugging as I go  
+To make sure my program runs  
+My brain is always working  
+To make sure the output hums  
   
-So if you want to learn  
-To create something new  
-Programming is the way  
-To make your dreams come true
+I love this thing I do  
+Creating something from scratch  
+Programming is my passion  
+It's the fire I can't match
