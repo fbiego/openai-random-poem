@@ -6,27 +6,23 @@
 
 ### today's poem  
   
-My code is like a puzzle  
-Filled with unknowns and clues  
-Its pieces fit together  
-In a way I can't refuse  
+My love for coding has no bounds,  
+It's a language that makes no sounds.  
   
-I'm solving problems every day  
-Making something from nothing  
-My mind is a playground  
-Where my ideas are bouncing  
+I learn its rules, but break them too,  
+For complex problems, I have a clue.  
   
-As I type out the commands  
-The logic takes its shape  
-My lines of code form together  
-Till the problem I can rape  
+It's a challenge I don't take lightly,  
+But I still find it oh so rightly.  
   
-I'm debugging as I go  
-To make sure my program runs  
-My brain is always working  
-To make sure the output hums  
+My brain itches when I'm stuck,  
+But I don't give up, I just get up.  
   
-I love this thing I do  
-Creating something from scratch  
-Programming is my passion  
-It's the fire I can't match
+I'm in a world of my own,  
+Where the logic is my throne.  
+  
+In the midst of zeroes and ones,  
+I make my program run.  
+  
+It's an art I truly love,  
+Coding is something from above.
