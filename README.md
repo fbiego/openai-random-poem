@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a language of code  
-A way to create with simple mode  
-It helps us build websites and apps  
-And gives us control of our tech traps  
+Programming is like a puzzle to me  
+A complex web of code that I must see.  
+The logic that it takes to write  
+Is something I can hold so tight.  
   
-It can be used to make a game  
-A user interface that’s really the same  
-It can create puzzles and other fun  
-To keep us engaged in the sun  
+Behind the keyboard I can create  
+A world of things that I can make.  
+Lines of text are like a symphony  
+Of which I have full mastery.  
   
-It can be used to create a program  
-That helps us stay on top of the scam  
-It can help with data analysis  
-And give us a better understanding of what we see  
+As I type I can feel the power  
+Of programming in its finest hour.  
+I can create a wondrous space  
+Where I can work at my own pace.  
   
-Programming provides a way to think  
-A way to keep our minds in sync  
-It’s a language that’s ever changing  
-A way to keep our lives rearranging
+I can design an amazing game  
+Where all the rules are mine to tame.  
+I can craft a beautiful site  
+Where others can explore the night.  
+  
+Programming is my chosen route  
+It's an ever-growing field of intrigue.  
+As I learn I'm filled with joy  
+That I can create my own world to deploy.
