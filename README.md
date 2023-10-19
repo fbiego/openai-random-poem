@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is like a puzzle to me  
-A complex web of code that I must see.  
-The logic that it takes to write  
-Is something I can hold so tight.  
+Programming, you're like a puzzle  
+A challenge that I can't refuse  
+You present me with a muddle  
+And I will try to cut through the noose  
   
-Behind the keyboard I can create  
-A world of things that I can make.  
-Lines of text are like a symphony  
-Of which I have full mastery.  
+You test my knowledge and my patience  
+You make me think in a different way  
+You test my understanding and my convictions  
+And make me work late into the day  
   
-As I type I can feel the power  
-Of programming in its finest hour.  
-I can create a wondrous space  
-Where I can work at my own pace.  
+Your languages are like a foreign tongue  
+One I must learn to understand  
+You push me to my limits  
+But I will never give up at hand  
   
-I can design an amazing game  
-Where all the rules are mine to tame.  
-I can craft a beautiful site  
-Where others can explore the night.  
-  
-Programming is my chosen route  
-It's an ever-growing field of intrigue.  
-As I learn I'm filled with joy  
-That I can create my own world to deploy.
+You are the key to unlock  
+The doors of technology's future  
+You are the lifeblood of knowledge  
+And you will always be my tutor
