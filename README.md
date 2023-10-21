@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming, you're like a puzzle  
-A challenge that I can't refuse  
-You present me with a muddle  
-And I will try to cut through the noose  
+Programming is a skill, it's a language to learn,  
+It gives you the ability to create and earn.  
+It's a challenge and a puzzle, an intricate web,  
+But the rewards are incredible, that's what I've said.  
   
-You test my knowledge and my patience  
-You make me think in a different way  
-You test my understanding and my convictions  
-And make me work late into the day  
+It's the perfect way to express yourself,  
+And the perfect way to make something else.  
+You can make something that no one has seen,  
+And the possibilities are endless, it's quite keen.  
   
-Your languages are like a foreign tongue  
-One I must learn to understand  
-You push me to my limits  
-But I will never give up at hand  
+You can make a game, a website, or an app,  
+You can make things that you can never stop.  
+You can make something that will entertain,  
+And something that will bring joy and gain.  
   
-You are the key to unlock  
-The doors of technology's future  
-You are the lifeblood of knowledge  
-And you will always be my tutor
+Programming is a skill, it's powerful and strong,  
+And it's a way to make something that can live on.  
+So take the time to learn, and you'll see,  
+That programming is the best way to be.
