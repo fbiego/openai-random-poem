@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a skill, it's a language to learn,  
-It gives you the ability to create and earn.  
-It's a challenge and a puzzle, an intricate web,  
-But the rewards are incredible, that's what I've said.  
+Programming with its binary code,  
+Is a language that I can't decode.  
+To the language of computers, I'm a novice,  
+But the journey is one I'm determined to follow.  
   
-It's the perfect way to express yourself,  
-And the perfect way to make something else.  
-You can make something that no one has seen,  
-And the possibilities are endless, it's quite keen.  
+I'll start with the basics and work my way up,  
+Filling my mind with knowledge and stuff.  
+My goal is to become a master of the machines,  
+To be able to make them do whatever it pleases.  
   
-You can make a game, a website, or an app,  
-You can make things that you can never stop.  
-You can make something that will entertain,  
-And something that will bring joy and gain.  
+I'll study the syntax and understand the logic,  
+I'm determined to work until I'm top-notch.  
+I'll learn every language and each command,  
+So I can create something that's hard to comprehend.  
   
-Programming is a skill, it's powerful and strong,  
-And it's a way to make something that can live on.  
-So take the time to learn, and you'll see,  
-That programming is the best way to be.
+I'll use the skills I learn to make something great,  
+A program to do things no one can relate.  
+It may take time but I'm willing to wait,  
+To be the best programmer I can be is my fate.
