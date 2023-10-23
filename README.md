@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming with its binary code,  
-Is a language that I can't decode.  
-To the language of computers, I'm a novice,  
-But the journey is one I'm determined to follow.  
+Programming is a language of the future  
+A way to make computers do your bidding  
+It can be hard to learn, but it's so rewarding  
+You can build things you never thought you could do  
   
-I'll start with the basics and work my way up,  
-Filling my mind with knowledge and stuff.  
-My goal is to become a master of the machines,  
-To be able to make them do whatever it pleases.  
+A world of possibilities awaits  
+Complex algorithms and intricate states  
+The machines you create and the stories you tell  
+Are all thanks to this magical spell  
   
-I'll study the syntax and understand the logic,  
-I'm determined to work until I'm top-notch.  
-I'll learn every language and each command,  
-So I can create something that's hard to comprehend.  
+You can build games, apps, or websites  
+You can work on mobile or desktop devices  
+You can learn the basics and then go further  
+And create things that have never been done before  
   
-I'll use the skills I learn to make something great,  
-A program to do things no one can relate.  
-It may take time but I'm willing to wait,  
-To be the best programmer I can be is my fate.
+Programming is a skill that will always be useful  
+You can make money or build something beautiful  
+It's an ever-changing field with so much to explore  
+And it's a great way to open more doors
