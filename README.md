@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is a language of the future  
-A way to make computers do your bidding  
-It can be hard to learn, but it's so rewarding  
-You can build things you never thought you could do  
+Programming is a tool for all,  
+It can help you when you stall,  
+A means to create and build,  
+Helping you to learn and fill.  
   
-A world of possibilities awaits  
-Complex algorithms and intricate states  
-The machines you create and the stories you tell  
-Are all thanks to this magical spell  
+It's a language of the tech savvy,  
+A way to make things savvy,  
+Using coding to make a game,  
+Or a website with no shame.  
   
-You can build games, apps, or websites  
-You can work on mobile or desktop devices  
-You can learn the basics and then go further  
-And create things that have never been done before  
+The possibilities are endless,  
+A way to make things pleasant,  
+Computer science and software,  
+So many things to explore.  
   
-Programming is a skill that will always be useful  
-You can make money or build something beautiful  
-It's an ever-changing field with so much to explore  
-And it's a great way to open more doors
+The challenge of debugging,  
+To find out what's occurring,  
+Programming can be tough,  
+But it's always worth the effort.  
+  
+A skill to get ahead,  
+Tackling problems to be fed,  
+Programming is a great way,  
+To make something out of nothing today.
