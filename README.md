@@ -6,22 +6,27 @@
 
 ### today's poem  
   
-Programming is like a chess game of code,  
-A battle of wit and logic to explore  
-Its like a puzzle to solve, and the right moves to make  
-To guide the computer and get the desired result you take.  
+Programming, a language of its own,  
+A language of ifs, ands, and buts,  
+A language of logic and reason,  
+A language you must learn to love.  
   
-From strings to classes, algorithms to loops,  
-Syntax and structure, its a battle you must choose  
-To create something from nothing, and do it with precision  
-To get it all right, you must use your intuition.  
+A language of numbers and symbols,  
+A language of rules and commands,  
+A language of structure and order,  
+A language that expands.  
   
-Memory management and data structures,  
-Threads and debugging, you must endure  
-To learn and understand the language of the machines  
-You must be patient and never lose your dreams.  
+A language of syntax and semantics,  
+A language that needs deciphering,  
+A language that's ever changing,  
+A language of surprises and wonders.  
   
-Programming is a challenge, and a great adventure  
-Where you must keep at it, and never waver  
-For it can be a journey of creativity and joy  
-Where you can make a mark and make the world employ.
+A language of creativity and innovation,  
+A language of exploration and discovery,  
+A language of problem solving and solutions,  
+A language that's so necessary.  
+  
+Programming, a language of its own,  
+A language that's worth the time,  
+A language of endless possibilities,  
+A language that's truly sublime.
