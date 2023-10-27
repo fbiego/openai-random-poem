@@ -6,27 +6,23 @@
 
 ### today's poem  
   
-Programming, a language of its own,  
-A language of ifs, ands, and buts,  
-A language of logic and reason,  
-A language you must learn to love.  
+I write a code so deep and true  
+A language that is new yet ancient too  
   
-A language of numbers and symbols,  
-A language of rules and commands,  
-A language of structure and order,  
-A language that expands.  
+My fingers move so fast they blur,  
+Guiding me through the programming blur  
   
-A language of syntax and semantics,  
-A language that needs deciphering,  
-A language that's ever changing,  
-A language of surprises and wonders.  
+I'm finding my way through the maze of bits  
+The ones and zeroes are my only wits  
   
-A language of creativity and innovation,  
-A language of exploration and discovery,  
-A language of problem solving and solutions,  
-A language that's so necessary.  
+The syntax and the logic I must know  
+To create a program that will surely grow  
   
-Programming, a language of its own,  
-A language that's worth the time,  
-A language of endless possibilities,  
-A language that's truly sublime.
+My design is simple yet elegant  
+It solves the problem in a moment  
+  
+I'm proud of what I have accomplished  
+My labor of love is now polished  
+  
+From the code I've written I can see  
+Infinite possibilities for all to be.
