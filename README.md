@@ -6,23 +6,27 @@
 
 ### today's poem  
   
-I write a code so deep and true  
-A language that is new yet ancient too  
+Programming is such a magical thing  
+It can do so many amazing feats  
+It can solve the most complex problems  
+And make the most complex code look neat  
   
-My fingers move so fast they blur,  
-Guiding me through the programming blur  
+It's everywhere, from phones to TVs  
+It's in the mundane and the sublime  
+It's what makes our world go round  
+And it's a most valuable life skill to climb  
   
-I'm finding my way through the maze of bits  
-The ones and zeroes are my only wits  
+From starting out with just a few basics  
+To mastering complex algorithms  
+The possibilities are endless  
+From the code that you write, the stories that you tell  
   
-The syntax and the logic I must know  
-To create a program that will surely grow  
+Programming is like a puzzle to be solved  
+It takes time and effort to make it all fit  
+But with persistence and dedication  
+You can create something you can truly commit  
   
-My design is simple yet elegant  
-It solves the problem in a moment  
-  
-I'm proud of what I have accomplished  
-My labor of love is now polished  
-  
-From the code I've written I can see  
-Infinite possibilities for all to be.
+Programming is a language of its own  
+It's a way to make a mark and leave a legacy  
+It's a way to express yourself  
+And a way to make the world a better place to be.
