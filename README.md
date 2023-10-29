@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming is such a magical thing  
-It can do so many amazing feats  
-It can solve the most complex problems  
-And make the most complex code look neat  
+Programming is my life  
+It keeps me up late at night  
+I'm working on a bug  
+To make my code just right  
   
-It's everywhere, from phones to TVs  
-It's in the mundane and the sublime  
-It's what makes our world go round  
-And it's a most valuable life skill to climb  
+My laptop's my companion  
+As I type away each night  
+I'm coding up a storm  
+To make it all just right  
   
-From starting out with just a few basics  
-To mastering complex algorithms  
-The possibilities are endless  
-From the code that you write, the stories that you tell  
+My fingers are my tools  
+I'll write line after line  
+Syntax and logic  
+I'll make it all just right  
   
-Programming is like a puzzle to be solved  
-It takes time and effort to make it all fit  
-But with persistence and dedication  
-You can create something you can truly commit  
+My brain is my best friend  
+As I work through the night  
+Fixing errors and testing  
+To make it all just right  
   
-Programming is a language of its own  
-It's a way to make a mark and leave a legacy  
-It's a way to express yourself  
-And a way to make the world a better place to be.
+My heart is full of joy  
+As I see my work come alive  
+My code is now complete  
+It's perfect and just right
