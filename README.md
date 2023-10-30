@@ -6,27 +6,20 @@
 
 ### today's poem  
   
-Programming is my life  
-It keeps me up late at night  
-I'm working on a bug  
-To make my code just right  
+Programming, a skill so fine,  
+Creating something for all to find.  
   
-My laptop's my companion  
-As I type away each night  
-I'm coding up a storm  
-To make it all just right  
+The code, an art so magical,  
+Bringing to life something digital.  
   
-My fingers are my tools  
-I'll write line after line  
-Syntax and logic  
-I'll make it all just right  
+Computers, an ocean so deep,  
+Programming the waves of its sea.  
   
-My brain is my best friend  
-As I work through the night  
-Fixing errors and testing  
-To make it all just right  
+The language, a world of its own,  
+Creating something so grand and awesome.  
   
-My heart is full of joy  
-As I see my work come alive  
-My code is now complete  
-It's perfect and just right
+On the screen, it all comes alive,  
+Making something out of nothing, a feat so sublime.  
+  
+Programming, a process so great,  
+Creating something unique, a feat so grandiose.
