@@ -6,20 +6,27 @@
 
 ### today's poem  
   
-Programming, a skill so fine,  
-Creating something for all to find.  
+Programming is a language of computers  
+A way to make machines do our bidders  
+Complex algorithms and code  
+Can make any task much easier to encode  
   
-The code, an art so magical,  
-Bringing to life something digital.  
+Programming can be a challenge  
+But the rewards can be so large  
+It's a skill that's so much in demand  
+And can bring the user a charge  
   
-Computers, an ocean so deep,  
-Programming the waves of its sea.  
+A programmer can work with ease  
+On any task in any language  
+Creating solutions to problems  
+Is the mission of this range  
   
-The language, a world of its own,  
-Creating something so grand and awesome.  
+From websites to applications  
+Programming knows no bounds  
+The possibilities are endless  
+With the right skills and sounds  
   
-On the screen, it all comes alive,  
-Making something out of nothing, a feat so sublime.  
-  
-Programming, a process so great,  
-Creating something unique, a feat so grandiose.
+Programming can be fun and rewarding  
+A way to help the world progress  
+From small tasks to large projects  
+Programming can make a great success
