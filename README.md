@@ -6,27 +6,27 @@
 
 ### today's poem  
   
-Programming is a language of computers  
-A way to make machines do our bidders  
-Complex algorithms and code  
-Can make any task much easier to encode  
+A machine of code and form,  
+A language that will transform.  
+A system of logic and thought,  
+That will never be forgot.  
   
-Programming can be a challenge  
-But the rewards can be so large  
-It's a skill that's so much in demand  
-And can bring the user a charge  
+A way to solve a problem,  
+A way to create a realm.  
+A way to build something new,  
+A way to make it true.  
   
-A programmer can work with ease  
-On any task in any language  
-Creating solutions to problems  
-Is the mission of this range  
+A way to make decisions,  
+A way to create visions.  
+A way to bring ideas to life,  
+To make a world without strife.  
   
-From websites to applications  
-Programming knows no bounds  
-The possibilities are endless  
-With the right skills and sounds  
+A way to make something grand,  
+To take a chance and take a stand.  
+A way to make something new,  
+A way to make it true.  
   
-Programming can be fun and rewarding  
-A way to help the world progress  
-From small tasks to large projects  
-Programming can make a great success
+Programming is a way,  
+To make your dreams come true today.  
+A way to make the world a better place,  
+With just a few clicks and a little grace.
