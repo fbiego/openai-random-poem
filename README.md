@@ -6,27 +6,23 @@
 
 ### today's poem  
   
-A machine of code and form,  
-A language that will transform.  
-A system of logic and thought,  
-That will never be forgot.  
+A programming poem, I will write  
+For the ones who do it day and night  
   
-A way to solve a problem,  
-A way to create a realm.  
-A way to build something new,  
-A way to make it true.  
+They code and debug and make it right  
+With languages such as Java and C++  
   
-A way to make decisions,  
-A way to create visions.  
-A way to bring ideas to life,  
-To make a world without strife.  
+They make apps and websites oh so neat  
+With a bit of HTML and some CSS sheet  
   
-A way to make something grand,  
-To take a chance and take a stand.  
-A way to make something new,  
-A way to make it true.  
+Sometimes they groan and sometimes they weep  
+When their code just won't compile and won't beep  
   
-Programming is a way,  
-To make your dreams come true today.  
-A way to make the world a better place,  
-With just a few clicks and a little grace.
+But then when it works, the feeling so sweet  
+A great accomplishment and a great feat  
+  
+These programmers are like wizards and magicians  
+They create these great works of art and visions  
+  
+So here's to the programmers who make our world so bright  
+Who are dedicated to their craft and work so hard day and night.
