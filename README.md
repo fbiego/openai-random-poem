@@ -6,23 +6,27 @@
 
 ### today's poem  
   
-A programming poem, I will write  
-For the ones who do it day and night  
+Programming is my friend so true  
+A powerful tool I use to do  
+Writing code is a pleasure for sure  
+The challenges I love to explore  
   
-They code and debug and make it right  
-With languages such as Java and C++  
+Debugging is the part I hate  
+But still I persist and I wait  
+For a solution to come my way  
+To solve the problems of the day  
   
-They make apps and websites oh so neat  
-With a bit of HTML and some CSS sheet  
+Programming has opened doors  
+To new and exciting shores  
+Exploring the world of tech  
+I could never have reached  
   
-Sometimes they groan and sometimes they weep  
-When their code just won't compile and won't beep  
+Programming is a world of its own  
+Where you can create and hone  
+Your skills and knowledge you gain  
+Will help you achieve your aim  
   
-But then when it works, the feeling so sweet  
-A great accomplishment and a great feat  
-  
-These programmers are like wizards and magicians  
-They create these great works of art and visions  
-  
-So here's to the programmers who make our world so bright  
-Who are dedicated to their craft and work so hard day and night.
+So when you learn a little coding  
+A world of adventure awaits you  
+You’ll find a path and forge ahead  
+Programming will be your friend.
