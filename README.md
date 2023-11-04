@@ -6,27 +6,22 @@
 
 ### today's poem  
   
-Programming is my friend so true  
-A powerful tool I use to do  
-Writing code is a pleasure for sure  
-The challenges I love to explore  
+Programming so precise, so exact  
+A language of machines, with nary a quack  
+Able to create programs of all shapes and sizes  
+From the tiniest apps to the most sophisticated sites  
   
-Debugging is the part I hate  
-But still I persist and I wait  
-For a solution to come my way  
-To solve the problems of the day  
+From business to science, from games to finance  
+Programming can do it with skill and finesse  
+It's a language of computers, an art of its own  
+Where a few lines of code can make a world of its own  
   
-Programming has opened doors  
-To new and exciting shores  
-Exploring the world of tech  
-I could never have reached  
+Where logic and reason can bring forth great solutions  
+Where creativity and math can create revolutions  
+Programming is a language that can take us far  
+And can make our dreams come true, near or far  
   
-Programming is a world of its own  
-Where you can create and hone  
-Your skills and knowledge you gain  
-Will help you achieve your aim  
-  
-So when you learn a little coding  
-A world of adventure awaits you  
-You’ll find a path and forge ahead  
-Programming will be your friend.
+Programming's power can make us soar  
+Bringing forth advances to the world and more  
+It's a language of computers that can shape our future  
+And make a better world, even better and surer
