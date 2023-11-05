@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming so precise, so exact  
-A language of machines, with nary a quack  
-Able to create programs of all shapes and sizes  
-From the tiniest apps to the most sophisticated sites  
+Programming is a secret language,  
+A way to unlock a world unseen.  
+A way to make a computer work  
+With commands that no one's ever seen.  
   
-From business to science, from games to finance  
-Programming can do it with skill and finesse  
-It's a language of computers, an art of its own  
-Where a few lines of code can make a world of its own  
+It's a way to make a program  
+To do whatever you want it to do.  
+It's a way to make a program  
+Run faster, better, and true.  
   
-Where logic and reason can bring forth great solutions  
-Where creativity and math can create revolutions  
-Programming is a language that can take us far  
-And can make our dreams come true, near or far  
+Programming is a creative way  
+To see a problem through.  
+Sometimes it's a challenge  
+That can seem impossible to you.  
   
-Programming's power can make us soar  
-Bringing forth advances to the world and more  
-It's a language of computers that can shape our future  
-And make a better world, even better and surer
+But if you take the time and dedication  
+You'll find a way to make a program do  
+Whatever it is you want it to do  
+And make the impossible come true.
