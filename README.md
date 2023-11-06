@@ -6,22 +6,22 @@
 
 ### today's poem  
   
-Programming is a secret language,  
-A way to unlock a world unseen.  
-A way to make a computer work  
-With commands that no one's ever seen.  
+Programming's an art and a science  
+With a rigorous structure and precision  
+It's like a language, each line a phrase  
+And through it, we can create anything we can imagine  
   
-It's a way to make a program  
-To do whatever you want it to do.  
-It's a way to make a program  
-Run faster, better, and true.  
+Computers are just tools, a bridge to our minds  
+The power of logic can be hard to find  
+But when we do, the world comes alive  
+Telling stories and displaying data in an endless drive  
   
-Programming is a creative way  
-To see a problem through.  
-Sometimes it's a challenge  
-That can seem impossible to you.  
+It's a blend of creativity and math  
+Where the smallest of details can make or break  
+It's a challenge to understand each line  
+But it's all worth it for what we can design  
   
-But if you take the time and dedication  
-You'll find a way to make a program do  
-Whatever it is you want it to do  
-And make the impossible come true.
+We can build a universe of our own  
+Where the boundaries are ours to explore  
+We can control the data and the flow  
+And create something no one has explored before
